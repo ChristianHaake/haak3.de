@@ -2,14 +2,14 @@
 
 Willkommen auf haak3.de! Ich bin Christian Haake, ehemalige Lehrkraft und medienpädagogischer Berater, nun Produkt- und Fortbildungsbeauftragter am Niedersächsischen Landesinstitut für schulische Qualitätsentwicklung (NLQ) im Bereich Medienbildung im Fachunterricht. Hier teile ich meine Leidenschaft für Bildung und Medienkompetenz, biete Einblicke in meine beruflichen Erfahrungen und stelle Ressourcen zur Verfügung, die Bildung und Medienbildung bereichern können. Entdecken Sie die Seite und zögern Sie nicht, Kontakt aufzunehmen!
 
-
-
 ## Articles 
+- 
 
+## Vorträge und Workshops 
 
-## Fortbildungen und Workshops 
-- [Veränderung der Lernkultur](workshop/2023-04_Veränderung%20der%20Lernkultur.pdf)
-- [Digitale Selbstorganisation](workshop/2023_Selbstorganisation-Präsenz.pdf)
+- [Veränderung der Lernkultur](workshop//2023/2023-04_Veränderung%20der%20Lernkultur.pdf)
+- [Digitale Selbstorganisation](workshop/2023/2023_Selbstorganisation-Präsenz.pdf)
+- [KI im Sprachenunterricht](workshop/2023/2023-09_KI%20im%20Sprachenunterricht.pdf)
 
 [mehr](workshops.md)
 
