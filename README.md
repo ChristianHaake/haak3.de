@@ -6,9 +6,12 @@ Willkommen auf haak3.de! Ich bin Christian Haake, ehemalige Lehrkraft und medien
 
 
 ## Fortbildungen und Workshops 
+- [Veränderung der Lernkultur](workshop/2023-04_Veränderung%20der%20Lernkultur.pdf)
+- [digitale Selbstorganisation](workshop/2023_Selbstorganisation-Präsenz.pdf)
 
+[mehr](workshops.md)
 
-
+## Social-Media und mehr
 
 
 [Impressium](impressum.md) & [Privacy](privacy.md)
