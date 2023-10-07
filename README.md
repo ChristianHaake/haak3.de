@@ -11,7 +11,7 @@ Willkommen auf haak3.de! Ich bin Christian Haake, ehemalige Lehrkraft und medien
 - [Veränderung der Lernkultur](workshop//2023/2023-04_Veränderung%20der%20Lernkultur.pdf)
 - [Digitale Selbstorganisation](workshop/2023/2023_Selbstorganisation-Präsenz.pdf)
 - [KI im Sprachenunterricht](workshop/2023/2023-09_KI%20im%20Sprachenunterricht.pdf)
-
+- [Die Cloud für Anfänger](workshop/2023/2023_Die%20Cloud%20für%20Anfänger.pdf)
 [mehr](workshops.md)
 
 ## Kontakt & Social Media

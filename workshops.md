@@ -1,10 +1,14 @@
 # Fortbildungen und Workshops
 
 ## 2023
-- [Veränderung der Lernkultur](workshop/2023-04_Veränderung%20der%20Lernkultur.pdf)
-- [digitale Selbstorganisation](workshop/2023_Selbstorganisation-Präsenz.pdf)
+- [Bildung & KI](workshop/2023/2023_Bildung%20und%20Ki%20-%20Schulleitertagung%202023.pdf) - Schulleitertagung 2023
+- [Veränderung der Lernkultur](workshop//2023/2023-04_Veränderung%20der%20Lernkultur.pdf)
+- [Digitale Selbstorganisation](workshop/2023/2023_Selbstorganisation-Präsenz.pdf)
+- [KI im Sprachenunterricht](workshop/2023/2023-09_KI%20im%20Sprachenunterricht.pdf)
+- [Die Cloud für Anfänger](workshop/2023/2023_Die%20Cloud%20für%20Anfänger.pdf)
 
 ## 2022
 - [Digitale Lehrertasche](workshop/2022/2022_DigitaleLehrertasche-präsenz.pdf)
+- [Fortbildungskonzepte](workshop/2022/2022_Fortbildungskonzept.pdf)
 
 ## 2021
