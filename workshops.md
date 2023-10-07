@@ -10,5 +10,8 @@
 ## 2022
 - [Digitale Lehrertasche](workshop/2022/2022_DigitaleLehrertasche-präsenz.pdf)
 - [Fortbildungskonzepte](workshop/2022/2022_Fortbildungskonzept.pdf)
+- [Einführung in Lernmanagement Systeme](workshop/2022/2022-06_LMS%20in%20Niedersachsen.pdf)
 
 ## 2021
+- [Einstieg in persönliche Lernnetzwerke](workshop/2021/2021_PLN.pdf)
+- [Das CODE Konzept](workshop/2021/2021_CODE.pdf)
