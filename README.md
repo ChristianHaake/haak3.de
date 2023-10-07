@@ -5,7 +5,7 @@ Willkommen auf haak3.de! Ich bin Christian Haake, ehemalige Lehrkraft und medien
 ## Articles 
 - coming soon..
 
-## Vorträge und Workshops 
+## Vorträge und Workshops in (2024)
 
 - [Bildung & KI](workshop/2023/2023_Bildung%20und%20Ki%20-%20Schulleitertagung%202023.pdf) - Schulleitertagung 2023
 - [Veränderung der Lernkultur](workshop//2023/2023-04_Veränderung%20der%20Lernkultur.pdf)
