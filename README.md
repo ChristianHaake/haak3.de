@@ -7,12 +7,14 @@ Willkommen auf haak3.de! Ich bin Christian Haake, ehemalige Lehrkraft und medien
 
 ## Fortbildungen und Workshops 
 - [Veränderung der Lernkultur](workshop/2023-04_Veränderung%20der%20Lernkultur.pdf)
-- [digitale Selbstorganisation](workshop/2023_Selbstorganisation-Präsenz.pdf)
+- [Digitale Selbstorganisation](workshop/2023_Selbstorganisation-Präsenz.pdf)
 
 [mehr](workshops.md)
 
-## Social-Media und mehr
-
+## Kontakt & Social Media
+- [Kontaktseite der Medienberatung](https://medienberatung.online/berater/haake-christian/)
+- [BlueSky](https://bsky.app/profile/haak3.de)
+- [Mastodon](https://bildung.social/@thepauker)
 
 [Impressium](impressum.md) & [Privacy](privacy.md)
 
