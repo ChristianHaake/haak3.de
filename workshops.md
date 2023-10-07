@@ -19,4 +19,4 @@
 - [Das CODE Konzept](workshop/2021/2021_CODE.pdf)
 
 ## 2020
-- [Blended Learning](workshop/2020/2020_Blended%20Learning.pdf) | [Teilnehmerunterlagen](workshop/2020/2020_Blended%20Learning/Blended%20Learning.md)
+- [Blended Learning](workshop/2020/2020_Blended%20Learning.pdf) - [Teilnehmerunterlagen](workshop/2020/2020_Blended%20Learning/Blended%20Learning.md)
