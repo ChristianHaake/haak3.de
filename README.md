@@ -5,7 +5,7 @@ Willkommen auf meiner Seite! Ich bin Christian Haake, ehemalige Lehrkraft und me
 ## Articles 
 - coming soon...
 
-## Vorträge und Workshops in (2024)
+## Vorträge und Workshops in (2023)
 
 - [Bildung & KI](workshop/2023/2023_Bildung%20und%20Ki%20-%20Schulleitertagung%202023.pdf) - Schulleitertagung 2023
 - [Veränderung der Lernkultur](workshop//2023/2023-04_Veränderung%20der%20Lernkultur.pdf)
