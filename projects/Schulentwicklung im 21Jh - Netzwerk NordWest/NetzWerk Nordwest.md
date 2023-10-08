@@ -9,6 +9,6 @@ Im Fokus der gemeinsamen Arbeit stehen dabei die Lernenden der Region. Durch gel
 
 Hier können Sie sich unverbindlich anmelden: tba
 
-![Alt text](<06-09-2023_Präsentation Netzwerk_1.png>)
-![Alt text](<06-09-2023_Präsentation Netzwerk_2.png>)
-![Alt text](<06-09-2023_Präsentation Netzwerk_3.png>)
+![Alt text](06-09-2023_Präsentation Netzwerk_1.png)
+![Alt text](06-09-2023_Präsentation Netzwerk_2.png)
+![Alt text](06-09-2023_Präsentation Netzwerk_3.png)

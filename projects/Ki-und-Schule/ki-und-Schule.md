@@ -3,4 +3,4 @@
 | nur für Schulen in NDS
 Link zur Kick-off [https://vedab.de/veranstaltungsdetails.php?vid=141726](https://vedab.de/veranstaltungsdetails.php?vid=141726)
 
-![Alt text](<2023-09-27_Ki Projekt-Flyer.png>)
+![Alt text](2023-09-27_Ki Projekt-Flyer.png)
