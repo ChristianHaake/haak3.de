@@ -8,6 +8,7 @@
 - [Digitale Selbstorganisation](workshop/2023/2023_Selbstorganisation-Präsenz.pdf)
 - [KI im Sprachenunterricht](workshop/2023/2023-09_KI%20im%20Sprachenunterricht.pdf)
 - [Die Cloud für Anfänger](workshop/2023/2023_Die%20Cloud%20für%20Anfänger.pdf)
+- Fortbildungsreihe: [Das erste mal in einer Tabletklasse](https://vedab.de/veranstaltungsdetails.php?vid=136089)
 
 ## 2022
 - [Digitale Lehrertasche](workshop/2022/2022_DigitaleLehrertasche-präsenz.pdf)
