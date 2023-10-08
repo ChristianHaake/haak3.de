@@ -4,7 +4,7 @@
 
 ## 🛠️ laufende Projekte
 - [Nutzung Kl-gestützter Sprachmodelle im Rahmen von Unterrichts- und Schulentwicklung](projects/Ki-und-Schule/ki-und-Schule.md)
-- 
+- [Multiperspektivisches Lernprozessdesign](projects/mpLD/Multiperspektivisches Lernprozessdesign.md)
 
 ## 📄 Articles 
 - coming soon...
