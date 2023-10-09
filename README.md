@@ -8,7 +8,7 @@
 - [Schulentwicklung im 21.Jh - Netzwerk NordWest](projects/Netzwerk-NordWest/NetzwerNW.md)
 
 ## 📄 Articles 
-- coming soon...
+- [Scrum in der Schulentwicklung](articles/Scrum-in-der-Schulentwicklung.md) noch nicht veröffentlich
 
 ## 👨‍🏫 Vorträge und Workshops in (2023)
 
