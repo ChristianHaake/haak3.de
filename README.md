@@ -5,7 +5,7 @@
 ## 🛠️ laufende Projekte
 - [Nutzung Kl-gestützter Sprachmodelle im Rahmen von Unterrichts- und Schulentwicklung](projects/Ki-und-Schule/ki-und-Schule.md)
 - [Multiperspektivisches Lernprozessdesign](projects/mpLD/Multiperspektivisches Lernprozessdesign.md)
-- [Schulentwicklung im 21.Jh - Netzwerk NordWest](projects/Schulentwicklung%20im%2021Jh%20-%20Netzwerk%20NordWest/NetzWerk%20Nordwest.md)
+- [Schulentwicklung im 21.Jh - Netzwerk NordWest](projects/Schulentwicklung%20im%2021Jh%20-%20Netzwerk%20NordWest/Netzwerk-Nordwest.md)
 
 ## 📄 Articles 
 - coming soon...
