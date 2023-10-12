@@ -360,7 +360,8 @@ Die Antworten auf diese Fragen könnten den Weg ebnen für eine innovative Praxi
 
 In der Fortführung dieses Projekts wird es essentiell sein, die entwickelten Materialien und Methoden in der Praxis zu erproben, Feedback von Lehrenden und Lernenden einzuholen und kontinuierlich an der Verbesserung und Anpassung der Ansätze zu arbeiten. So kann ein nachhaltiger Beitrag zur Entwicklung und Bereicherung der schulischen Bildungslandschaft geleistet werden.
 
-
+> Dieser Artikel steht unter der Creative Commons Lizenz CC-BY-4.0 und darf unter Angabe der Urheberschaft frei geteilt, verbreitet und bearbeitet werden.
+> CC-BY-4.0 Christian Haake
 
 -----
 
