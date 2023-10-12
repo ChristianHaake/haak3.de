@@ -148,7 +148,7 @@ Nehme den ersten dir geschriebenen Text. Differnziere den Text für Schüler mit
 ##### Hier ist das differenzierte Ergebnis:
 
 ```markdown
-#### Lena und die besondere Karte
+#### Das Rätsel der alten Hogwarts-Karte
 
 Lena geht in **Hogwarts** zur Schule. Das ist eine Schule für Zauberer. Nach den Ferien zeigt sie ihren Freunden **Tim** und **Mia** eine Karte. Die Karte hat sie im Urlaub gefunden. Auf der Karte sind geheime Wege in der Schule.
 
@@ -172,7 +172,93 @@ Die Freunde versprechen, vorsichtig zu sein. Sie dürfen weiter die Wege suchen.
 
 Dieser Text ist in einfacherer Sprache verfasst und behält dennoch die Hauptelemente der Geschichte bei, sodass die Schülerinnen und Schüler mit Leseschwäche oder leistungsschwächere Schülerinnen und Schüler weiterhin in der Lage sind, den Inhalt zu verstehen und sich am Unterrichtsgespräch zu beteiligen. Wenn es weitere Anpassungen oder einen weiteren Textabschnitt gibt, den Sie besprechen möchten, lassen Sie es mich wissen!
 
+### Entwicklung von Aufgaben: Sachverständnis und Kreativität
 
+Die Integration von KI in den Unterricht ermöglicht es, differenzierte Texte und Aufgaben zu erstellen, die auf verschiedene Lernniveaus zugeschnitten sind. Nachdem Texte für verschiedene Leistungsstufen entwickelt wurden, ist der nächste Schritt die Erstellung von Aufgaben, die das Verständnis sicherstellen und die Kreativität der Schülerinnen und Schüler fördern.
+
+#### Sachverständnisaufgaben
+
+Nach dem Lesen der differenzierten Texte ist es wichtig, das Verständnis der Schülerinnen und Schüler zu überprüfen. Hierbei ist der Fokus auf Fragen, die auf allen Differenzierungsstufen beantwortet werden können.
+
+**Prompt:**
+```
+Erstelle 4 Sachverständnisfragen, die alle Schüler auf Basis der 3 Differenzierungsstufen (3 Texte vor dir) beantworten können.
+```
+
+**Ergebnis:**
+```markdown
+1. Wo hat Lena die geheimnisvolle Karte gefunden?
+2. Welches besondere Ding finden Lena, Tim und Mia in dem verlassenen Raum?
+3. Welche Lehrerin entdeckt die drei Freunde während ihrer Erkundung?
+4. Was versprechen Lena, Tim und Mia der Lehrerin?
+```
+
+#### Kreative Aufgaben
+
+Kreative Aufgaben ermöglichen es den Schülerinnen und Schülern, ihre Vorstellungskraft und ihre kreativen Fähigkeiten einzusetzen und gleichzeitig das Gelesene zu vertiefen.
+
+**Prompt:**
+```
+Erstelle 3 kreative Aufgaben, die alle Schüler auf Basis der 3 Differenzierungsstufen (3 Texte vor dir) können.
+```
+
+**Ergebnis:**
+```markdown
+1. **Zeichne die Karte!**
+   Stelle dir vor, wie die geheimnisvolle Karte von Hogwarts aussehen könnte, die Lena gefunden hat. Zeichne sie auf ein Blatt Papier. Denke an die geheimen Gänge, das verlassene Klassenzimmer und den verborgenen Garten. Du kannst auch eigene Orte hinzufügen!
+
+2. **Schreibe einen Brief!**
+   Du bist Lena und möchtest deinen Eltern von deinen Abenteuern in Hogwarts erzählen. Schreibe einen Brief, in dem du von der Karte, den geheimen Orten und dem Treffen mit Professor McGonagall berichtest. Was fandest du am spannendsten? Was möchtest du als Nächstes tun?
+
+3. **Erfinde ein neues Abenteuer!**
+   Stelle dir vor, Lena, Tim und Mia finden auf der Karte einen Ort, der in den Geschichten nicht erwähnt wurde. Was könnte das für ein Ort sein? Vielleicht ein verstecktes Labor, ein Raum voller magischer Tiere oder eine Bibliothek mit fliegenden Büchern? Schreibe eine kurze Geschichte über dieses neue Abenteuer!
+```
+
+Diese Aufgaben ermöglichen es den Schülerinnen und Schülern, das Gelesene zu reflektieren und ihre kreativen und analytischen Fähigkeiten zu nutzen, während sie gleichzeitig in der magischen Welt von Hogwarts verweilen. Wenn weitere Anpassungen oder zusätzliche Aufgaben benötigt werden, stehe ich zur Verfügung!
+
+### Unterstützungen für Kreative Aufgaben Entwickeln
+
+Um Schülerinnen und Schüler in ihren kreativen Aufgaben zu unterstützen und zu inspirieren, können verschiedene Hilfsmittel und Strukturen bereitgestellt werden. Diese Unterstützungen können als Leitfaden dienen und helfen, den Schreibprozess zu initiieren und fortzuführen.
+
+#### Unterstützungen für Aufgabe 2: Schreibe einen Brief!
+
+```markdown
+**Unterstützungen für Aufgabe 2: Schreibe einen Brief!**
+
+1. **Stichpunkte geben:**
+   - Beginn: Wie Lena die Karte gefunden hat.
+   - Mittelteil: Die Entdeckung des verlassenen Klassenzimmers und des verborgenen Gartens.
+   - Ende: Das Treffen mit Professor McGonagall und ihr Versprechen.
+
+2. **Satzanfänge vorgeben:**
+   - "Liebe Mama und Papa, ihr werdet nicht glauben, was mir passiert ist..."
+   - "In den ersten Nächten haben wir..."
+   - "Das Spannendste war, als..."
+
+3. **Wortliste bereitstellen:**
+   - Karte, Hogwarts, geheim, Abenteuer, Professor McGonagall, versprechen, entdecken, Sternenhimmel, magisch, Freunde.
+```
+
+#### Unterstützungen für Aufgabe 3: Erfinde ein neues Abenteuer!
+
+```markdown
+**Unterstützungen für Aufgabe 3: Erfinde ein neues Abenteuer!**
+
+1. **Brainstorming-Liste:**
+   - Mögliche Orte: Unterwasserhöhle, fliegender Garten, verzauberter Wald.
+   - Mögliche Gegenstände: Ein Buch, das spricht; ein Spiegel, der in die Zukunft zeigt; ein Zaubertrank, der unsichtbar macht.
+   - Mögliche Begegnungen: Ein freundlicher Geist, ein verlorenes magisches Tier, ein Rätsel, das gelöst werden muss.
+
+2. **Satzanfänge vorgeben:**
+   - "Eines Abends, als Lena die Karte studierte, bemerkte sie..."
+   - "Mit Spannung betraten sie den neuen Ort und fanden..."
+   - "Das Besondere an diesem Ort war..."
+
+3. **Bilder zur Inspiration:**
+   - Zeige den Schülern Bilder von magischen Orten, alten Büchern oder geheimnisvollen Gegenständen. Das kann ihnen helfen, Ideen für ihre Geschichte zu entwickeln.
+```
+
+Diese Unterstützungen dienen dazu, den Schülerinnen und Schülern einen Anstoß zu geben und ihre Kreativität zu entfachen, ohne ihre eigenen Ideen und Vorstellungen einzuschränken. Sie bieten eine Struktur, innerhalb derer die Schülerinnen und Schüler ihre eigenen Geschichten und Briefe entwickeln können, und stellen sicher, dass sie beim Schreibprozess nicht feststecken. Wenn weitere Anpassungen oder zusätzliche Unterstützungen benötigt werden, stehe ich zur Verfügung!
 
 ## Links: 
 [Link zum Chat mit ChatGPT](https://chat.openai.com/share/7e6107f3-471d-4119-b814-a2c6a9c74ac5)
