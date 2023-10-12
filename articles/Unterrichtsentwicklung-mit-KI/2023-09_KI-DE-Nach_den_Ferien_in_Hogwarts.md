@@ -172,6 +172,8 @@ Die Freunde versprechen, vorsichtig zu sein. Sie dürfen weiter die Wege suchen.
 
 Dieser Text ist in einfacherer Sprache verfasst und behält dennoch die Hauptelemente der Geschichte bei, sodass die Schülerinnen und Schüler mit Leseschwäche oder leistungsschwächere Schülerinnen und Schüler weiterhin in der Lage sind, den Inhalt zu verstehen und sich am Unterrichtsgespräch zu beteiligen. Wenn es weitere Anpassungen oder einen weiteren Textabschnitt gibt, den Sie besprechen möchten, lassen Sie es mich wissen!
 
+------
+
 ### Entwicklung von Aufgaben: Sachverständnis und Kreativität
 
 Die Integration von KI in den Unterricht ermöglicht es, differenzierte Texte und Aufgaben zu erstellen, die auf verschiedene Lernniveaus zugeschnitten sind. Nachdem Texte für verschiedene Leistungsstufen entwickelt wurden, ist der nächste Schritt die Erstellung von Aufgaben, die das Verständnis sicherstellen und die Kreativität der Schülerinnen und Schüler fördern.
@@ -216,6 +218,8 @@ Erstelle 3 kreative Aufgaben, die alle Schüler auf Basis der 3 Differenzierungs
 
 Diese Aufgaben ermöglichen es den Schülerinnen und Schülern, das Gelesene zu reflektieren und ihre kreativen und analytischen Fähigkeiten zu nutzen, während sie gleichzeitig in der magischen Welt von Hogwarts verweilen. Wenn weitere Anpassungen oder zusätzliche Aufgaben benötigt werden, stehe ich zur Verfügung!
 
+----
+
 ### Unterstützungen für Kreative Aufgaben Entwickeln
 
 Um Schülerinnen und Schüler in ihren kreativen Aufgaben zu unterstützen und zu inspirieren, können verschiedene Hilfsmittel und Strukturen bereitgestellt werden. Diese Unterstützungen können als Leitfaden dienen und helfen, den Schreibprozess zu initiieren und fortzuführen.
@@ -259,6 +263,8 @@ Um Schülerinnen und Schüler in ihren kreativen Aufgaben zu unterstützen und z
 ```
 
 Diese Unterstützungen dienen dazu, den Schülerinnen und Schülern einen Anstoß zu geben und ihre Kreativität zu entfachen, ohne ihre eigenen Ideen und Vorstellungen einzuschränken. Sie bieten eine Struktur, innerhalb derer die Schülerinnen und Schüler ihre eigenen Geschichten und Briefe entwickeln können, und stellen sicher, dass sie beim Schreibprozess nicht feststecken. Wenn weitere Anpassungen oder zusätzliche Unterstützungen benötigt werden, stehe ich zur Verfügung!
+
+-----
 
 ## Links: 
 [Link zum Chat mit ChatGPT](https://chat.openai.com/share/7e6107f3-471d-4119-b814-a2c6a9c74ac5)
