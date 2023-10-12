@@ -1,6 +1,7 @@
 # KI zur Unterrichtsgestaltung nutzen - Bsp. Nach den Ferien in Hogwarts
 
 ![Geschichten in Hogwarts](AI%20Beispiel%20Hogwarts.png)
+> Das Bild wurde mit Dall-2 generiert
 
 In meiner aktiven Zeit als Lehrkraft stand ich oft vor der monumentalen Herausforderung, den diversen Anforderungen sowohl meiner eigenen Rolle als auch den individuellen Bedürfnissen der Schülerinnen und Schüler gerecht zu werden. Insbesondere in Klassen, die durch einen hohen Anteil an Inklusions- und Sprachlernenden charakterisiert waren, stieß ich regelmäßig an die Grenzen meiner pädagogischen Fähigkeiten. Mein Ziel war es stets, einen differenzierten Lernansatz zu ermöglichen, bei dem alle Schülerinnen und Schüler ein gemeinsames Lernziel erreichen und somit Teil eines kohärenten Lernprozesses werden können. Leider blieb dieses Ziel oft unerreichbar.
 
