@@ -20,12 +20,13 @@ Generiere eine spannende Geschichte für Schülerinnen und Schüler im Harry Pot
 
 Dieser Prompt dient als Ausgangspunkt und gibt ChatGPT klare Anweisungen bezüglich des Themas, der Zielgruppe, der Länge und der Sprache der Geschichte. Die klare Definition dieser Parameter ist entscheidend, um relevante und altersgerechte Inhalte zu generieren, die sich nahtlos in den Unterrichtsplan integrieren lassen.
 
-### Präsentation des generierten Ergebnisses
+### Das generierten Ergebnis
 
 Nachdem ich ChatGPT mit einem klaren Prompt versorgt haben, der die Erstellung einer spannenden, kindgerechten Geschichte im Harry Potter Universum zum Thema "Nach den Ferien" in deutscher Sprache und mit einer Länge von 400 bis 800 Wörtern anforderte, erhielt ich folgendes Ergebnis:
 
 -----
 
+```markdown
 Die geheimnisvolle Karte von Hogwarts
 
 Es war der erste Tag nach den Sommerferien in **Hogwarts**, der Schule für Hexerei und Zauberei. Die Große Halle war gefüllt mit aufgeregten Schülern, die sich über ihre Ferienabenteuer austauschten. Unter ihnen war auch **Lena**, eine Fünftklässlerin aus dem Haus Gryffindor. Sie hatte in den Ferien einen alten, verstaubten Koffer auf dem Dachboden ihres Großvaters gefunden. Darin lag eine geheimnisvolle Karte von Hogwarts, die anders aussah als die berühmte Karte des Rumtreibers.
@@ -61,7 +62,7 @@ Die drei nickten eifrig.
 >"Versprochen, Professor!", sagten sie im Chor.
 
 Von da an erkundeten sie die geheimen Orte von Hogwarts mit der Erlaubnis von Professor McGonagall, aber immer mit Vorsicht und Respekt. Und so wurden Lena, Tim und Mia zu den besten Entdeckern von Hogwarts und lebten noch viele spannende Abenteuer.
-
+```
 -----
 
 Dieser Text dient als Grundlage für die weiteren Schritte und illustriert, wie ChatGPT dazu genutzt werden kann, kreative und engagierte Geschichten zu generieren, die im Unterrichtskontext verwendet werden können. Im nächsten Abschnitt könnten wir diskutieren, wie diese Geschichte als Ausgangspunkt für verschiedene Lernaktivitäten und Diskussionen im Unterricht genutzt werden kann.
