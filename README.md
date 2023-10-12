@@ -10,6 +10,7 @@
 ## 📄 Articles 
 - [Scrum in der Schulentwicklung](articles/Scrum-in-der-Schulentwicklung.md) noch nicht veröffentlich
 - [Ki im Sprachenunterricht](/articles/Ki-im-Sprachenunterricht/2023-10_Ki-im-Sprachenunterricht.md)
+- [KI zur Unterrichtsgestaltung nutzen - Bsp. Nach den Ferien in Hogwarts](/articles/Unterrichtsentwicklung-mit-KI/2023-09_KI-DE-Nach_den_Ferien_in_Hogwarts.md)
 
 ## 👨‍🏫 Vorträge und Workshops in (2023)
 
