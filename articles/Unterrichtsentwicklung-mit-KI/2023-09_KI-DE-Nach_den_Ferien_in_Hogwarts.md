@@ -264,6 +264,81 @@ Um Schülerinnen und Schüler in ihren kreativen Aufgaben zu unterstützen und z
 
 Diese Unterstützungen dienen dazu, den Schülerinnen und Schülern einen Anstoß zu geben und ihre Kreativität zu entfachen, ohne ihre eigenen Ideen und Vorstellungen einzuschränken. Sie bieten eine Struktur, innerhalb derer die Schülerinnen und Schüler ihre eigenen Geschichten und Briefe entwickeln können, und stellen sicher, dass sie beim Schreibprozess nicht feststecken. Wenn weitere Anpassungen oder zusätzliche Unterstützungen benötigt werden, stehe ich zur Verfügung!
 
+------
+
+### Entwicklung von Übungen zu Satzanfängen
+
+Die Fähigkeit, Sätze vielfältig und interessant zu beginnen, ist ein wesentlicher Bestandteil des kreativen Schreibens. Hierbei geht es darum, den Schülerinnen und Schülern Werkzeuge an die Hand zu geben, um ihre Ausdrucksweise zu variieren und ihre Texte lebendiger zu gestalten.
+
+#### Übung zu Satzanfängen
+
+```markdown
+**Übung: Abwechslungsreiche Satzanfänge**
+
+Viele Sätze beginnen oft mit dem gleichen Wort, zum Beispiel "Sie". Das kann langweilig sein. Versuche, die folgenden Sätze so umzuformulieren, dass sie mit einem anderen Wort beginnen!
+
+1. Sie findet die Karte im Urlaub.
+2. Sie zeigt ihren Freunden die Karte.
+3. Sie gehen in der Nacht los.
+4. Sie entdecken einen geheimen Garten.
+5. Sie sehen eine leuchtende Blume.
+6. Sie werden von Professor McGonagall entdeckt.
+7. Sie dürfen weiter die Wege suchen.
+
+**Beispiel:**
+Original: Sie findet die Karte im Urlaub.
+Neuer Satzanfang: Während des Urlaubs findet Lena die Karte.
+
+Versuche nun, die anderen Sätze ähnlich umzuformulieren!
+```
+
+#### Vorschläge für Eigene Satzanfänge
+
+```markdown
+**Vorschläge für abwechslungsreiche Satzanfänge**
+
+1. **Ortsangaben:**
+   - Im geheimen Garten...
+   - Hinter dem großen Gemälde...
+   - In der Großen Halle von Hogwarts...
+
+2. **Zeitangaben:**
+   - Eines Abends...
+   - Nachdem die Sonne unterging...
+   - Bevor der Unterricht begann...
+
+3. **Personen oder Dinge als Subjekt:**
+   - Lenas Zauberstab leuchtete plötzlich.
+   - Das alte Buch flüsterte Geheimnisse.
+   - Der Eulenvogel brachte eine Nachricht.
+
+4. **Gefühle oder Gedanken:**
+   - Neugierig spähte Tim durch das Schlüsselloch.
+   - Überrascht stellte Mia fest, dass...
+   - Mit klopfendem Herzen öffnete Lena die Tür.
+
+5. **Fragen oder Ausrufe:**
+   - Wer hätte gedacht, dass...
+   - Was wäre, wenn sie den geheimen Gang betreten würden?
+   - Vorsicht! Der Boden gibt nach.
+
+6. **Beschreibungen:**
+   - Das silberne Licht des Mondes...
+   - Mit funkelnden Augen...
+   - Wie ein Schatten huschte...
+
+**Aufgabe für die Schüler:**
+Wählt einen der Vorschläge und schreibt einen eigenen Satz dazu. Denkt daran, eure Fantasie zu nutzen und kreative Ideen zu entwickeln!
+```
+
+Diese Übungen und Vorschläge sollen den Schülerinnen und Schülern helfen, ihre Schreibfähigkeiten zu entwickeln und ihre Texte interessanter zu gestalten. 
+
+-----
+
+
+
+
+
 -----
 
 ## Links: 
