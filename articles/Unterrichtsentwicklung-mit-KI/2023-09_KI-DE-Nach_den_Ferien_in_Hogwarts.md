@@ -369,5 +369,4 @@ In der Fortführung dieses Projekts wird es essentiell sein, die entwickelten Ma
 
 
 
-
-
+#KünstlicheIntelligenz #Unterrichtsgestaltung #DigitaleBildung #ChatGPT #InnovativeLehre #KreativeUnterrichtsideen #DifferenzierungImUnterricht #DigitaleUnterrichtsmaterialien #ZukunftDerBildung
