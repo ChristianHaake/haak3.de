@@ -9,6 +9,7 @@
 
 ## 📄 Articles 
 - [Scrum in der Schulentwicklung](articles/Scrum-in-der-Schulentwicklung.md) noch nicht veröffentlich
+- [Ki im Sprachenunterricht](/articles/Ki-im-Sprachenunterricht/2023-10_Ki-im-Sprachenunterricht.md)
 
 ## 👨‍🏫 Vorträge und Workshops in (2023)
 
