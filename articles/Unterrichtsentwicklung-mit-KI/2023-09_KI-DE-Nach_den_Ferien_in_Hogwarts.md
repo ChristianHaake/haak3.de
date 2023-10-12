@@ -67,6 +67,110 @@ Von da an erkundeten sie die geheimen Orte von Hogwarts mit der Erlaubnis von Pr
 Dieser Text dient als Grundlage für die weiteren Schritte und illustriert, wie ChatGPT dazu genutzt werden kann, kreative und engagierte Geschichten zu generieren, die im Unterrichtskontext verwendet werden können. Im nächsten Abschnitt könnten wir diskutieren, wie diese Geschichte als Ausgangspunkt für verschiedene Lernaktivitäten und Diskussionen im Unterricht genutzt werden kann.
 
 
+### Differenzierung des Textes für verschiedene Leistungsstufen
+
+Die Differenzierung von Unterrichtsmaterialien ist entscheidend, um den unterschiedlichen Bedürfnissen und Fähigkeiten der Schülerinnen und Schüler gerecht zu werden. Dabei ist es wichtig, dass alle Lernenden, unabhängig von ihrer Leistungsstufe, gemeinsam an einem Thema arbeiten können, ohne dass der Inhalt verfälscht wird. 
+
+#### Differenzierung für leistungsstärkere Schülerinnen und Schüler
+
+Der Prompt lautet:
+```
+Nehme den von dir geschriebenen Text. Differenziere den Text für leistungsfähigere Schüler.
+- Die Geschichte soll Kinder der 5. oder 6. Klasse geeignet sein
+- Länge: 400 - 800 Wörter
+- Sprache: Deutsch
+- Dabei soll der Inhalt nicht verfälscht werden.
+```
+
+##### Hier ist das differenzierte Ergebnis: Das Rätsel der alten Hogwarts-Karte 
+
+```markdown
+#### Das Rätsel der alten Hogwarts-Karte
+
+In der Großen Halle von **Hogwarts** herrschte ein geschäftiges Treiben. Schüler aller Jahrgänge tauschten sich über ihre Sommererlebnisse aus. **Lena**, eine ambitionierte Fünftklässlerin aus Gryffindor, hatte während der Ferien im alten Anwesen ihres Großvaters eine Entdeckung gemacht: Eine antike Karte von Hogwarts, die deutlich detaillierter und komplexer war als die bekannte Karte des Rumtreibers.
+
+Nach dem opulenten Abendmahl zog sie **Tim** und **Mia**, zwei ihrer engsten Vertrauten, in eine ruhige Ecke des Gemeinschaftsraums. 
+>"Seht euch das an!", sagte sie und entfaltete die Karte. 
+
+Sie zeigte verborgene Korridore, geheime Bibliotheken und sogar unterirdische Kammern.
+
+>"Das ist phänomenal!", murmelte Tim, der immer ein Faible für Rätsel hatte. 
+
+Mia, die sich intensiv mit der Geschichte von Hogwarts beschäftigte, fügte hinzu: 
+>"Einige dieser Orte sind in keinem Buch verzeichnet. Wir könnten die ersten sein, die sie seit Jahrhunderten betreten."
+
+In der darauf folgenden Nacht, ausgerüstet mit Zauberstäben und einer Laterne, folgten sie einem der geheimen Wege, der hinter einem Gemälde von Godric Gryffindor verborgen war. Er führte sie zu einem verlassenen Observatorium. Das dortige Teleskop, verziert mit Runen und Edelsteinen, bot einen Blick in ferne Galaxien und zeigte Sternenkonstellationen, die kein Muggel-Teleskop je erfassen könnte.
+
+Am nächsten Abend entdeckten sie einen verborgenen botanischen Garten. Hier wuchsen Pflanzen, die in Bewegung gerieten, sobald man sich ihnen näherte, und Blumen, die Melodien von sich gaben.
+
+Doch eines Abends, als sie gerade einen besonders mysteriösen Korridor betreten wollten, traten sie fast auf den Umhang von **Professor McGonagall**. 
+>"Was glaubt ihr, was ihr hier macht?", fragte sie mit scharfem Blick.
+
+Lena, obwohl nervös, antwortete mit fester Stimme: 
+>"Wir erforschen die Geschichte von Hogwarts, Professor."
+
+McGonagall betrachtete die Karte und sagte dann: 
+>"Das ist eine der ursprünglichen Karten von Hogwarts, gezeichnet von den Gründern selbst. Sie zeigt Orte von großer magischer Bedeutung."
+
+Die drei Schüler sahen sie erwartungsvoll an. Hatte sie ihnen gerade ein Geheimnis anvertraut?
+
+>"Es ist wichtig, neugierig zu sein und die Welt zu erkunden", fuhr die Professorin fort. "Aber ihr müsst auch lernen, verantwortungsbewusst mit solchen Entdeckungen umzugehen. Versprecht mir, dass ihr vorsichtig seid."
+
+Die drei nickten eifrig. 
+>"Wir werden uns daran halten, Professor."
+
+Unter der wachsamen Anleitung von Professor McGonagall wurden Lena, Tim und Mia zu den besten Magiehistorikern ihrer Generation und entdeckten Geheimnisse, die selbst den erfahrensten Zauberern unbekannt waren.
+```
+
+Dieser Text wurde für leistungsstärkere Schülerinnen und Schüler differenziert, indem er eine komplexere Sprache und detailliertere Beschreibungen verwendet, ohne den ursprünglichen Inhalt zu verfälschen. Dies ermöglicht es, dass Schülerinnen und Schüler mit unterschiedlichen Fähigkeiten weiterhin gemeinsam an einem Projekt arbeiten können, während sie gleichzeitig auf ihrem individuellen Niveau gefordert und gefördert werden.
+
+Die Differenzierung von Texten ist ein wesentlicher Schritt, um inklusiven und adaptiven Unterricht zu gestalten, der alle Lernenden in ihren individuellen Fähigkeiten unterstützt und herausfordert. Im nächsten Schritt könnte eine Differenzierung für leistungsschwächere Schülerinnen und Schüler erfolgen, um sicherzustellen, dass der Text für alle Lernniveaus zugänglich ist.
+
+
+#### Differenzierung für leistungsschwächere Schülerinnen und Schüler
+
+Die Differenzierung des Textes für Schülerinnen und Schüler mit Leseschwäche oder leistungsschwächere Schülerinnen und Schüler ist ebenso wichtig, um sicherzustellen, dass alle Lernenden Zugang zum Lerninhalt haben und in der Lage sind, erfolgreich am Unterricht teilzunehmen. Hierbei ist es wichtig, den Text so zu gestalten, dass er leicht verständlich und zugänglich ist, ohne den Kerninhalt zu verändern.
+
+
+#### Differenzierung für Schüler mit Leseschwäche
+
+Der Prompt lautet:
+
+```
+Nehme den ersten dir geschriebenen Text. Differnziere den Text für Schüler mit Leseschwäche.
+- Die Geschichte soll Kinder der 5. oder 6. Klasse geeignet sein
+- Länge: 400 - 800 Wörter
+- Sprache: Deutsch
+- Dabei soll der Inhalt nicht verfälscht werden.
+```
+
+##### Hier ist das differenzierte Ergebnis:
+
+```markdown
+#### Lena und die besondere Karte
+
+Lena geht in **Hogwarts** zur Schule. Das ist eine Schule für Zauberer. Nach den Ferien zeigt sie ihren Freunden **Tim** und **Mia** eine Karte. Die Karte hat sie im Urlaub gefunden. Auf der Karte sind geheime Wege in der Schule.
+
+>"Lasst uns die Wege suchen!", sagt Tim. 
+
+Mia findet das auch gut. Aber sie sagt: 
+>"Wir müssen leise sein."
+
+In der ersten Nacht gehen sie los. Sie finden einen Gang. Am Ende des Gangs ist ein Raum. In dem Raum steht ein großes Fernrohr. Mit dem Fernrohr kann man Sterne sehen. Die Sterne sind sehr klar und schön.
+
+In der nächsten Nacht gehen sie wieder los. Diesmal finden sie einen Garten. Im Garten wachsen besondere Pflanzen. Eine Blume leuchtet im Dunkeln. Das finden die Freunde toll.
+
+Aber eines Abends passiert etwas. Eine Lehrerin sieht sie. Die Lehrerin heißt **Professor McGonagall**. Sie fragt: 
+>"Was macht ihr hier?" 
+
+Lena zeigt ihr die Karte. Die Lehrerin schaut sich die Karte an. Dann sagt sie: 
+>"Das ist eine alte Karte von Hogwarts. Seid vorsichtig!"
+
+Die Freunde versprechen, vorsichtig zu sein. Sie dürfen weiter die Wege suchen. Aber sie müssen leise sein und aufpassen. Lena, Tim und Mia haben noch viele Abenteuer in der Schule. Sie sind glücklich.
+```
+
+Dieser Text ist in einfacherer Sprache verfasst und behält dennoch die Hauptelemente der Geschichte bei, sodass die Schülerinnen und Schüler mit Leseschwäche oder leistungsschwächere Schülerinnen und Schüler weiterhin in der Lage sind, den Inhalt zu verstehen und sich am Unterrichtsgespräch zu beteiligen. Wenn es weitere Anpassungen oder einen weiteren Textabschnitt gibt, den Sie besprechen möchten, lassen Sie es mich wissen!
+
 
 
 ## Links: 
