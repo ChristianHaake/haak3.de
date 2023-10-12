@@ -24,35 +24,48 @@ Dieser Prompt dient als Ausgangspunkt und gibt ChatGPT klare Anweisungen bezügl
 
 Nachdem ich ChatGPT mit einem klaren Prompt versorgt haben, der die Erstellung einer spannenden, kindgerechten Geschichte im Harry Potter Universum zum Thema "Nach den Ferien" in deutscher Sprache und mit einer Länge von 400 bis 800 Wörtern anforderte, erhielt ich folgendes Ergebnis:
 
-```markdown
-#### Die geheimnisvolle Karte von Hogwarts
+-----
 
-Es war der erste Tag nach den Sommerferien in Hogwarts, der Schule für Hexerei und Zauberei. Die Große Halle war gefüllt mit aufgeregten Schülern, die sich über ihre Ferienabenteuer austauschten. Unter ihnen war auch Lena, eine Fünftklässlerin aus dem Haus Gryffindor. Sie hatte in den Ferien einen alten, verstaubten Koffer auf dem Dachboden ihres Großvaters gefunden. Darin lag eine geheimnisvolle Karte von Hogwarts, die anders aussah als die berühmte Karte des Rumtreibers.
+Die geheimnisvolle Karte von Hogwarts
 
-Nach dem Abendessen zog Lena ihre besten Freunde, Tim und Mia, beiseite. "Schaut mal, was ich gefunden habe!", flüsterte sie und breitete die Karte auf einem Tisch im Gemeinschaftsraum aus. Die Karte zeigte geheime Gänge und Räume, von denen die drei noch nie gehört hatten.
+Es war der erste Tag nach den Sommerferien in **Hogwarts**, der Schule für Hexerei und Zauberei. Die Große Halle war gefüllt mit aufgeregten Schülern, die sich über ihre Ferienabenteuer austauschten. Unter ihnen war auch **Lena**, eine Fünftklässlerin aus dem Haus Gryffindor. Sie hatte in den Ferien einen alten, verstaubten Koffer auf dem Dachboden ihres Großvaters gefunden. Darin lag eine geheimnisvolle Karte von Hogwarts, die anders aussah als die berühmte Karte des Rumtreibers.
 
-"Wir sollten diese Orte erkunden!", schlug Tim vor. Mia nickte zustimmend. "Aber wir müssen vorsichtig sein. Wer weiß, was für Geheimnisse diese Karte birgt."
+Nach dem Abendessen zog Lena ihre besten Freunde, **Tim** und **Mia**, beiseite. 
+>"Schaut mal, was ich gefunden habe!", flüsterte sie und breitete die Karte auf einem Tisch im Gemeinschaftsraum aus. 
+
+Die Karte zeigte geheime Gänge und Räume, von denen die drei noch nie gehört hatten.
+
+>"Wir sollten diese Orte erkunden!", schlug Tim vor. 
+
+Mia nickte zustimmend. 
+>"Aber wir müssen vorsichtig sein. Wer weiß, was für Geheimnisse diese Karte birgt."
 
 In der ersten Nacht schlichen sie sich aus dem Gemeinschaftsraum und folgten der Karte zu einem verborgenen Gang hinter einem Gemälde. Der Gang führte sie zu einem alten, verlassenen Klassenzimmer. Im Raum stand ein riesiges, magisches Teleskop, das den Sternenhimmel in atemberaubender Klarheit zeigte.
 
 In der nächsten Nacht führte die Karte sie zu einem versteckten Garten, in dem magische Pflanzen wuchsen. Sie entdeckten eine seltene, leuchtende Blume, die nur bei Mondschein blühte.
 
-Jede Nacht erkundeten sie einen neuen, geheimen Ort. Doch eines Abends, als sie gerade einen weiteren Gang betreten wollten, stand plötzlich Professor McGonagall vor ihnen. "Was treibt ihr hier?", fragte sie streng.
+Jede Nacht erkundeten sie einen neuen, geheimen Ort. Doch eines Abends, als sie gerade einen weiteren Gang betreten wollten, stand plötzlich **Professor McGonagall** vor ihnen. 
+>"Was treibt ihr hier?", fragte sie streng.
 
-Lena schluckte und zeigte der Professorin die Karte. "Wir wollten nur... erkunden", stammelte sie.
+Lena schluckte und zeigte der Professorin die Karte. 
+>"Wir wollten nur... erkunden", stammelte sie.
 
-Professor McGonagall betrachtete die Karte und lächelte dann. "Das ist die alte Karte von Hogwarts, die vor Jahrhunderten von den Gründern selbst gezeichnet wurde. Sie zeigt Orte, die selbst den meisten Lehrern unbekannt sind."
+Professor McGonagall betrachtete die Karte und lächelte dann. 
+>"Das ist die alte Karte von Hogwarts, die vor Jahrhunderten von den Gründern selbst gezeichnet wurde. Sie zeigt Orte, die selbst den meisten Lehrern unbekannt sind."
 
 Die drei Freunde sahen sich erschrocken an. Hatte sie ihnen gerade ein Geheimnis verraten?
 
-"Es ist wichtig, neugierig zu sein und die Welt zu erkunden", fuhr die Professorin fort. "Aber ihr müsst auch lernen, verantwortungsbewusst mit solchen Entdeckungen umzugehen. Versprecht mir, dass ihr vorsichtig seid."
+>"Es ist wichtig, neugierig zu sein und die Welt zu erkunden", fuhr die Professorin fort. "Aber ihr müsst auch lernen, verantwortungsbewusst mit solchen Entdeckungen umzugehen. Versprecht mir, dass ihr vorsichtig seid."
 
-Die drei nickten eifrig. "Versprochen, Professor!", sagten sie im Chor.
+Die drei nickten eifrig. 
+>"Versprochen, Professor!", sagten sie im Chor.
 
 Von da an erkundeten sie die geheimen Orte von Hogwarts mit der Erlaubnis von Professor McGonagall, aber immer mit Vorsicht und Respekt. Und so wurden Lena, Tim und Mia zu den besten Entdeckern von Hogwarts und lebten noch viele spannende Abenteuer.
-```
+
+-----
 
 Dieser Text dient als Grundlage für die weiteren Schritte und illustriert, wie ChatGPT dazu genutzt werden kann, kreative und engagierte Geschichten zu generieren, die im Unterrichtskontext verwendet werden können. Im nächsten Abschnitt könnten wir diskutieren, wie diese Geschichte als Ausgangspunkt für verschiedene Lernaktivitäten und Diskussionen im Unterricht genutzt werden kann.
+
 
 
 
