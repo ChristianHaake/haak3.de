@@ -10,3 +10,7 @@
 
 
 ## 2021
+
+
+| Mein gesamter Inhalt steht unter CC BY SA 4.0
+| The forms, illustrations & blobs were made by Icons8 and Flaticon.
