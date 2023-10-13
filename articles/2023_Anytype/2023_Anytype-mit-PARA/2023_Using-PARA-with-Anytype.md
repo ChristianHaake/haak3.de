@@ -37,8 +37,6 @@ Das PARA-Konzept, welches Informationen in die Kategorien Projekte, Bereiche, Re
    - Ihre aktuellen Gedanken und Erfahrungen mit Anytype
    - Ein Ausblick auf die Zukunft und wie Sie Anytype weiterhin nutzen möchten
 
-Mit den Abschnitten zu PARA und CODER können wir sowohl die organisatorischen als auch die prozessorientierten Aspekte Ihres Wissensmanagements und Ihrer Arbeitsabläufe abdecken. Dies gibt den Lesern einen umfassenden Einblick in Ihre Methoden und bietet gleichzeitig praktische und theoretische Einblicke, die sie in ihre eigenen Systeme integrieren können.
 
-Wenn Sie mit dieser Struktur zufrieden sind, können wir mit der Ausarbeitung der einzelnen Abschnitte fortfahren, oder wenn Sie spezielle Punkte oder Änderungen haben, die Sie vornehmen möchten, lassen Sie es mich wissen!
-
-Selbstverständlich, das CODER-Konzept (Collect, Organize, Distill, Express, Reflect) ist ebenfalls ein bedeutender Ansatz im Bereich des Wissensmanagements und der persönlichen Produktivität. Hier ist eine erweiterte Struktur des Artikels mit einem zusätzlichen Abschnitt für das CODER-Konzept:
+> Dieser Artikel steht unter der Creative Commons Lizenz CC-BY-4.0 und darf unter Angabe der Urheberschaft frei geteilt, verbreitet und bearbeitet werden.
+> CC-BY-4.0 Christian Haake
