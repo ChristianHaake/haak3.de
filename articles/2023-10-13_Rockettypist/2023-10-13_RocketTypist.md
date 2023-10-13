@@ -54,9 +54,13 @@ In den letzten Jahren habe ich verschiedene Programme getestet und mich letztend
 
 Rocket Typist dient als zentrales Repository für Text- und Bildschnipsel (Snippets) und ermöglicht es, diese effizient zu organisieren und zu bearbeiten. Snippets können in Ordnern sortiert und in verschiedenen Typen, wie reinem Text, formatiertem Text, Code und Bildern, erstellt werden. Darüber hinaus unterstützt Rocket Typist Makros, um Snippets dynamisch und vielseitig zu gestalten, indem es beispielsweise aktuelle Daten, Texteingaben während der Nutzung oder auch Inhalt aus der Zwischenablage einfügt. Diese Snippets können dann überall auf Ihrem Mac, iPhone oder iPad eingefügt werden, wobei die Synchronisation über iCloud erfolgt, um Konsistenz über alle Geräte hinweg zu gewährleisten.
 
+![Rocket Typist - UI](2023-10-13_RocketTypist-ui.png)
+
 ## Einsatz von Texterweiterungen in der Praxis
 
 Texterweiterungen können in vielfältiger Weise eingesetzt werden, um die Arbeit zu beschleunigen. Jede Sekunde, die ich durch den Einsatz von Texterweiterungen spare, kann ich für andere Aufgaben nutzen. Auch wenn eine oder zwei Sekunden zunächst nicht viel erscheinen mögen, summiert sich die eingesparte Zeit über ein ganzes Jahr betrachtet erheblich. Mit Rocket Typist kann ich Ordner einrichten und diese für unterschiedliche Schwerpunkte konfigurieren. So habe ich verschiedene für mich relevante Bereiche abgebildet, z. B.: Abkürzungen, Moodle Code Snippets oder E-Mail Textvorlagen, um nur einige zu nennen.
+
+![Rocket Typist - Snippet](2023-10-13_RocketTypist-Snippet.png)
 
 
 ## Abschluss und eine kleiner "pitch" für das Konzept
