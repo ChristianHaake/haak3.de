@@ -59,10 +59,23 @@ Rocket Typist dient als zentrales Repository für Text- und Bildschnipsel (Snipp
 Texterweiterungen können in vielfältiger Weise eingesetzt werden, um die Arbeit zu beschleunigen. Jede Sekunde, die ich durch den Einsatz von Texterweiterungen spare, kann ich für andere Aufgaben nutzen. Auch wenn eine oder zwei Sekunden zunächst nicht viel erscheinen mögen, summiert sich die eingesparte Zeit über ein ganzes Jahr betrachtet erheblich. Mit Rocket Typist kann ich Ordner einrichten und diese für unterschiedliche Schwerpunkte konfigurieren. So habe ich verschiedene für mich relevante Bereiche abgebildet, z. B.: Abkürzungen, Moodle Code Snippets oder E-Mail Textvorlagen, um nur einige zu nennen.
 
 
+## Abschluss und eine kleiner "pitch" für das Konzept
 
+Das Zeitalter der Digitalisierung bringt ständig neue Werkzeuge und Technologien hervor, die darauf abzielen, unsere täglichen Aufgaben effizienter und einfacher zu gestalten. Texterweiterungen, wie sie von Rocket Typist angeboten werden, sind ein Paradebeispiel für solche Innovationen. Sie bieten nicht nur eine Möglichkeit, den Schreibprozess zu beschleunigen, sondern auch, die Qualität und Konsistenz der Kommunikation zu verbessern.
 
+Um die tatsächliche Zeitersparnis durch Texterweiterungen zu veranschaulichen, betrachten wir ein einfaches Beispiel: Ein Lehrer, der täglich E-Mails an Schüler, Eltern und Kollegen sendet, verwendet häufig wiederkehrende Phrasen oder Abschnitte. Wenn dieser Lehrer für jede E-Mail nur 5 Minuten benötigt und durch den Einsatz von Texterweiterungen diese Zeit um nur 20% reduzieren kann, spart er täglich etwa eine Minute pro E-Mail. Bei 20 E-Mails pro Tag entspricht dies einer täglichen Ersparnis von 20 Minuten. Über ein Schuljahr mit rund 200 Schultagen summiert sich dies zu einer beeindruckenden Ersparnis von etwa 66 Stunden oder fast 3 vollen Arbeitstagen.
 
-[Rocket Typist](https://www.witt-software.com/rockettypist/)
+Diese Zeitersparnis kann dann für wichtigere pädagogische Aufgaben, für die Vorbereitung des Unterrichts oder für die individuelle Betreuung von Schülern verwendet werden. Es ist klar, dass solche Technologien, wenn sie effektiv eingesetzt werden, nicht nur die Effizienz steigern, sondern auch die Qualität der Bildung verbessern können, indem sie Lehrern mehr Zeit für das Wesentliche geben.
+
+Abschließend lässt sich sagen, dass die Wahl des Tools, sei es Rocket Typist oder ein Konkurrent, letztendlich von den individuellen Bedürfnissen und Vorlieben abhängt. Es ist essentiell, sich mit solchen Hilfsmitteln auseinanderzusetzen und zu prüfen, ob sie den eigenen Workflow effektiv unterstützen können. Wir sollten IT und Software stets zu unserem Vorteil nutzen, um so wertvolle Lebenszeit zu sparen und für andere, möglicherweise bedeutungsvollere Aktivitäten einsetzen zu können.
+
+---
+
+Für Interessierte ist [Rocket Typist](https://www.witt-software.com/rockettypist/) für einmalige 20€ erhältlich und könnte ein erster Schritt in Richtung einer effizienteren Arbeitsweise sein.
+
+> [Rocket Typist](https://www.witt-software.com/rockettypist/)
+
+-----
 
 > Dieser Artikel steht unter der Creative Commons Lizenz CC-BY-4.0 und darf unter Angabe der Urheberschaft frei geteilt, verbreitet und bearbeitet werden.
 > CC-BY-4.0 Christian Haake
