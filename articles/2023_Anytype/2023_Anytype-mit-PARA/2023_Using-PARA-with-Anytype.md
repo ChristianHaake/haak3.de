@@ -1,6 +1,11 @@
 # Anwendung von PARA und CODER mit Anytype
+__10/2023__
 
+Anytype, als fortschrittliche Notiz-App, verbindet nicht nur die robusten Datenverwaltungsfunktionen von Notion, sondern integriert auch die „on-device“-Prämisse von Obsidian, wodurch Nutzer ihre Daten lokal und ohne zwingende Cloud-Speicherung verwalten können. Diese Kombination ermöglicht es, dass Informationen nicht isoliert, sondern in einem Netzwerk von Verknüpfungen existieren, wodurch sie in unterschiedlichen Kontexten und aus verschiedenen Perspektiven – oder in Anytype-Terminologie, „Views“ – betrachtet und genutzt werden können. Die Fähigkeit, Daten durch „Sets“ und „Relations“ zu strukturieren, erlaubt es den Nutzern, komplexe semantische Strukturen zu entwickeln, die den Mehrwert der vernetzten Informationen maximieren.
 
+In Bezug auf Wissensmanagement bietet Anytype eine Plattform, die nicht nur die Organisation von Informationen ermöglicht, sondern auch ihre Verknüpfung und Wiederentdeckung in einem intuitiven und nutzerfreundlichen Format. Die Möglichkeit, eigene Objekttypen und Beziehungen zwischen diesen zu erstellen, fördert eine klare Organisation und intuitive Navigation, insbesondere in informationsdichten und komplexen Projekten. Hierbei wird der Nutzen von Informationen besonders hervorgehoben, wenn sie in Beziehung zu anderen stehen und somit ein Netzwerk von Wissen und Daten bilden, das aus verschiedenen „Views“ sichtbar gemacht werden kann.
+
+Das PARA-Konzept, welches Informationen in die Kategorien Projekte, Bereiche, Ressourcen und Archive unterteilt, bietet eine Strukturierungsebene, die Prozesse und Wissen in einer klaren und nachvollziehbaren Weise organisiert. Diese Strukturierung kann in Anytype effektiv dargestellt werden, insbesondere durch die Verwendung von Sets, Tags, Relations und Statusanzeigen, um eine klare und navigierbare Wissensdatenbank zu schaffen. Dieser Ansatz zur Implementierung von PARA in Anytype, unter besonderer Berücksichtigung der Verknüpfung und Visualisierung von Informationen, wird im weiteren Verlauf dieses Artikels detailliert vorgestellt.
 
 1. **Einleitung**
    - Vorstellung von Anytype
