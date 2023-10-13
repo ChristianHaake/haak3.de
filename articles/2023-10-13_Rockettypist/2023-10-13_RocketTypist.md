@@ -8,8 +8,11 @@ Texterweiterung, auch bekannt als Textexpansion, ist eine Technologie, die dazu 
 Hier finden Sie einige Beispiele: 
 
 > esgdh = Sehr geehrte Damen und Herren,
+
 > SuS = Schülerinnen und Schüler
+
 > KuK = Kolleginnen und Kollegen
+
 
 oder auch komplexer, wenn man zum Beispiel mit Moodle arbeitet:
 
