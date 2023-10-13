@@ -7,33 +7,33 @@ In Bezug auf Wissensmanagement bietet Anytype eine Plattform, die nicht nur die 
 
 Das PARA-Konzept, welches Informationen in die Kategorien Projekte, Bereiche, Ressourcen und Archive unterteilt, bietet eine Strukturierungsebene, die Prozesse und Wissen in einer klaren und nachvollziehbaren Weise organisiert. Diese Strukturierung kann in Anytype effektiv dargestellt werden, insbesondere durch die Verwendung von Sets, Tags, Relations und Statusanzeigen, um eine klare und navigierbare Wissensdatenbank zu schaffen. Dieser Ansatz zur Implementierung von PARA in Anytype, unter besonderer Berücksichtigung der Verknüpfung und Visualisierung von Informationen, wird im weiteren Verlauf dieses Artikels detailliert vorgestellt.
 
-1. **Einleitung**
-   - Vorstellung von Anytype
-   - Ihre Beziehung zu Anytype und anderen Tools (Notion & Obsidian)
 
-2. **Hintergrund**
-   - Ihre berufliche Laufbahn und wie sie Ihre Nutzung von Wissensmanagement-Tools beeinflusst hat
+> In meinen fünf Jahren intensiver Auseinandersetzung mit Wissensmanagement-Tools, insbesondere während meiner Tätigkeit 
+> als Lehrer und medienpädagogischer Berater für das NLQ, habe ich die Tiefen von Notion und Obsidian erkundet und 
+> umfassendes konzeptionelles Wissen in diesem Bereich erworben. Anytype hat sich als Plattform herausgestellt, die es mir
+> ermöglicht, dieses Wissen effektiv anzuwenden, indem es eine vernetzte Darstellung von Informationen ermöglicht.
 
-3. **Theoretischer Rahmen: Der PARA-Ansatz**
+
+1. **Theoretischer Rahmen: Der PARA-Ansatz**
    - Eine kurze Einführung in PARA und seine Komponenten
    - Wie PARA das Wissensmanagement und die Organisation von Informationen beeinflusst
    - Ihre persönliche Interpretation und Anwendung von PARA
 
-4. **Einführung in das CODER-Konzept**
+2. **Einführung in das CODER-Konzept**
    - Beschreibung des CODER-Konzepts und seiner fünf Phasen
    - Wie CODER den Prozess des Wissensmanagements und des Lernens beeinflusst
    - Ihre Anwendung von CODER in Verbindung mit Anytype
 
-5. **Aufbau und Anpassung in Anytype**
+3. **Aufbau und Anpassung in Anytype**
    - Dashboard und Setup
    - Projekte und Bereiche
    - Ressourcen
    - Eigene Anytype-Objekte
 
-6. **Wünsche und Anforderungen für die Zukunft**
+4. **Wünsche und Anforderungen für die Zukunft**
    - Funktionen, die Sie in Anytype vermissen oder die Sie für zukünftige Versionen wünschen
 
-7. **Fazit**
+5. **Fazit**
    - Ihre aktuellen Gedanken und Erfahrungen mit Anytype
    - Ein Ausblick auf die Zukunft und wie Sie Anytype weiterhin nutzen möchten
 
