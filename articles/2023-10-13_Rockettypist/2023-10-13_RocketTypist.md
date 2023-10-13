@@ -40,9 +40,10 @@ Ausklappbarer Inhalt 2 </button></h3>
 
 ## Wie kann Texterweiterungen Lehrkräfte entlasten?
 
-Jede Sekunde die man für das wiederholte Tippen verwendet
+Texterweiterungen bieten Lehrkräften eine effiziente Möglichkeit, ihre administrativen und kommunikativen Aufgaben zu beschleunigen und somit wertvolle Zeit zu sparen. Lehrerinnen sind oft mit einer Fülle von schriftlichen Aufgaben konfrontiert, von der Kommunikation mit Schülerinnen, Eltern und Kolleg*innen bis hin zur Erstellung von Unterrichtsmaterialien und Berichten. Durch die Implementierung von Texterweiterungen können sie Standardformulierungen, Begrüßungen, Erklärungen und Feedback-Kommentare vordefinieren und diese mit nur wenigen Tastenanschlägen abrufen. Dies minimiert nicht nur den Zeitaufwand für das Tippen, sondern reduziert auch mögliche Tippfehler und sorgt für eine konsistente Kommunikation. Beispielsweise könnten Abkürzungen wie "SuS" automatisch zu "Schülerinnen und Schüler" expandieren oder ein Kürzel wie "mB" könnte zu einer vollständigen Muster-E-Mail für Benachrichtigungen über bevorstehende Elternabende umgewandelt werden. Dies ermöglicht den Lehrkräften, sich auf den pädagogischen Aspekt ihrer Arbeit zu konzentrieren, während administrative Aufgaben effizienter gestaltet werden.
 
 ## Wie funktionieren Texterweiterung Programm?
+
 
 
 ## Rocket Typist 
