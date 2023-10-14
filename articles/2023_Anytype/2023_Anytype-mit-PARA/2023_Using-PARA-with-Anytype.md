@@ -22,9 +22,14 @@ Der PARA-Ansatz zielt darauf ab, eine klare und flexible Struktur zu schaffen, d
 
 ## 2. Anwendung von des PARA-Ansatzes in Anytype
 
+In der Anwendung des PARA-Ansatzes in Anytype spielt die strukturelle Ebene eine entscheidende Rolle, um eine klare, systematische und dennoch flexible Organisation von Informationen und Wissen zu ermöglichen. Die Implementierung beginnt mit der Schaffung eines eigenen Objekts, das ich schlicht „Projects“ genannt habe. Dieses Objekt dient als zentrale Einheit zur Verwaltung und Organisation sowohl von Projekten als auch von Bereichen (AREA). Dabei erfolgt die Unterscheidung zwischen diesen beiden Kategorien mittels Tags, genauer gesagt durch die Verwendung der Tags „Project“, „AREA“ und „ARCHIVE“. Diese Tags ermöglichen nicht nur eine klare Differenzierung, sondern auch eine flexible Anpassung und Erweiterung des Systems. 
+
 ![PARA-Projects-View](/articles/2023_Anytype/2023_Anytype-mit-PARA/2023-10-14_Anytype-PARA-Project.jpeg)
 
+Dem „Projects“-Objekt sind verschiedene Relationen angehängt, die eine vielseitige und dynamische Organisation von Informationen ermöglichen. Diese Relationen sind nicht starr, sondern können je nach individuellen Bedürfnissen und spezifischen Anforderungen angepasst werden. Sie dienen dazu, relevante Informationen, Dokumente und weitere Ressourcen direkt mit dem jeweiligen Projekt oder Bereich zu verknüpfen, wodurch eine zentrale und gleichzeitig strukturierte Informationsquelle entsteht. Durch die Integration von Relationen wird zudem eine dynamische und kontextbezogene Verknüpfung von Daten gewährleistet, die eine effiziente Navigation und Informationsaufnahme unterstützt. So ermöglicht die strukturelle Implementierung von PARA in Anytype durch die Verwendung von speziellen Objekten und Tags eine klare, systematische und zugleich flexible Organisation von meinen Arbeitsfeldern.
+
 ![PARA-Project-Object-Tags](2023-10-14_Anytype-PARA-Project-Tags.png)
+
 
 ## 3. Einführung in das CODER-Konzept
 
