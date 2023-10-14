@@ -34,9 +34,15 @@ Dem „Projects“-Objekt sind verschiedene Relationen angehängt, die eine viel
 
 **Project Seiten**
 
+Im Zentrum der Anwendung von PARA in Anytype steht das „Project“-Objekt, welches sowohl für Projekte als auch für Bereiche (AREAs) genutzt wird. Jedes einzelne Projekt oder Area wird durch ein eigenes Objekt repräsentiert, das nach einem einheitlichen Template aufgebaut ist. 
+
 ![PARA-Pages](2023-10-14_Anytype-PARA-Page.png)
 
+Dieses Template besteht aus verschiedenen Tags und Inline-Sets, welche eine Darstellung von Sets auf einer einzelnen Seite ermöglichen. Diese Inline-Sets repräsentieren Objekt-Sets aus dem „Resources“-Bereich und können eine Vielzahl von Inhalten darstellen, wie beispielsweise Meetingnotizen, Notizen, CRM-Daten und weitere ressourcenbezogene Inhalte. Ein wesentlicher Aspekt hierbei ist die Möglichkeit, inhaltsgebundene Ressourcen mithilfe von Tags zu filtern. Dies ermöglicht eine klare und fokussierte Darstellung von Informationen, die spezifisch für das jeweilige Projekt oder den Bereich relevant sind. 
+
 ![PARA-Pages-Filter](2023-10-14_Anytype-PARA-Page-setfilter.png)
+
+Ein kritischer Punkt, der besonders hervorzuheben ist, betrifft die Selbstfilterung aller Inline-Sets. Wie in den beigefügten Screenshots zu sehen ist, filtern die Inline-Sets sich selbst heraus, was eine klare und unüberladene Darstellung der relevanten Informationen gewährleistet und gleichzeitig eine effiziente Navigation innerhalb des „Project“-Objekts ermöglicht.
 
 **AREAS**
 
