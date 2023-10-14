@@ -30,7 +30,7 @@ In der Anwendung des PARA-Ansatzes in Anytype spielt die strukturelle Ebene eine
 
 Dem „Projects“-Objekt sind verschiedene Relationen angehängt, die eine vielseitige und dynamische Organisation von Informationen ermöglichen. Diese Relationen sind nicht starr, sondern können je nach individuellen Bedürfnissen und spezifischen Anforderungen angepasst werden. Sie dienen dazu, relevante Informationen, Dokumente und weitere Ressourcen direkt mit dem jeweiligen Projekt oder Bereich zu verknüpfen, wodurch eine zentrale und gleichzeitig strukturierte Informationsquelle entsteht. Durch die Integration von Relationen wird zudem eine dynamische und kontextbezogene Verknüpfung von Daten gewährleistet, die eine effiziente Navigation und Informationsaufnahme unterstützt. So ermöglicht die strukturelle Implementierung von PARA in Anytype durch die Verwendung von speziellen Objekten und Tags eine klare, systematische und zugleich flexible Organisation von meinen Arbeitsfeldern.
 
-![PARA-Project-Object-Tags](2023-10-14_Anytype-PARA-Project-Tags.png | width=250)
+![PARA-Project-Object-Tags](2023-10-14_Anytype-PARA-Project-Tags.png =x250)
 
 **Project Seiten**
 
