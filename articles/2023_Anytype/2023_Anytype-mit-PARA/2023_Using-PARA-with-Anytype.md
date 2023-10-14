@@ -67,16 +67,35 @@ Durch diese Struktur wird eine flexible und kontextbezogene Verwendung von Infor
 
 **Resourcen**
 
-![R-Sources-Wiki overview](2023-10-14_Anytype-PARA-Source-gif.gif)
+Hier ist ein Fließtext, der den Abschnitt über den "Resources"-Bereich im PARA-Ansatz in Anytype formuliert:
+
+---
+
+### Der Umfangreiche Bereich „Resources“ im PARA-Ansatz
 
 ![R-Sources-Wiki overview - gif](/articles/2023_Anytype/2023_Anytype-mit-PARA/2023-10-14_Anytype-PARA-Wiki-overview.png)
 
-Pages of the Wiki
+Der Bereich „Resources“ im PARA-Ansatz spielt eine zentrale Rolle als Sammelbecken für alle Inhalte, die die Grundlage für die Informations- und Wissensorganisation innerhalb der „Projects“ und „Areas“ bilden. „Resources“ fungieren als eine umfangreiche Datenbank, aus der sich die beiden zuvor genannten Bereiche speisen und die eine Vielzahl von Inhalten aufnimmt. Hierzu zählen beispielsweise Notizen (Notes), Meetingnotizen (Meetingnotes), Lesezeichen (Bookmarks), Dokumente (Documents), Produkte (Products, im Sinne von „Stuff I produce“), Trainingsmaterialien (Trainings), Kundenbeziehungsmanagement-Daten (CRM), eine Bibliothek (Library) und Ideen (Ideas).
+
+![R-Sources-Wiki overview](2023-10-14_Anytype-PARA-Source-gif.gif)
+
+Bis auf „Pages“-Objekte, die direkt als Seiten dargestellt werden, sind alle Inhalte in eigenen Sets organisiert, um eine klare und übersichtliche Strukturierung der vielfältigen Informationen zu gewährleisten. Diese Sets ermöglichen eine systematische Organisation und bieten gleichzeitig die Flexibilität, die für ein effektives Wissensmanagement erforderlich ist. Eine visuelle Übersicht über die verschiedenen Sets und deren Strukturierung innerhalb von „Resources“ ist im beigefügten Screenshot zu sehen.
+
+![Resources Gallery](/articles/2023_Anytype/2023_Anytype-mit-PARA/2023-10-14_Anytype-PARA-Wiki-Gallery.png)
+
+Die Strukturierung und Organisation von „Resources“ ist entscheidend, um eine effiziente und nachhaltige Nutzung der gesammelten Informationen und Daten in den „Projects“ und „Areas“ zu ermöglichen. Durch die klare Trennung und gleichzeitig flexible Verknüpfung der Inhalte wird eine dynamische und kontextbezogene Nutzung der „Resources“ in verschiedenen Bereichen und Projekten ermöglicht.
+
+**Pages im Wiki**
+
+In meiner Logik sind „Pages“-Objekte in Anytype eng mit einem spezifischen Thema verknüpft und dienen dazu, themenrelevante Informationen zu bündeln und strukturiert darzustellen. Diese „Pages“ werden in einem Wiki dargestellt, welches nicht nur durch Namen, sondern auch durch Tags charakterisiert wird. Zudem weise ich den meisten „Pages“-Objekten einen „Type“ zu, der in den meisten Fällen als „Index“ definiert ist. Das Wiki-Set filtert dabei nach „Pages“-Objekten, die den „Type“ „Index“ aufweisen, um eine klare und navigierbare Struktur im Wiki zu gewährleisten.
 
 ![Wiki Page](2023-10-14_Anytype-PARA-Wiki-Pages.jpeg)
 
+Diese „Pages“-Objekte fungieren als strukturierte Sammlungen von Informationen, die themengebunden sind und mit diversen „Inline-Sets“ versehen werden. Beispiele für solche „Inline-Sets“ sind „Notes“, „Library“, „Bookmarks“, „Documents“ und weitere, die jeweils nach dem entsprechenden Tag gefiltert werden. Hierbei spielt das Konzept der „Tags“ eine zentrale Rolle in meinem System und bildet, wie man im Laufe dieses Posts bemerken wird, das Rückgrat der Informationsstruktur. 
+
 ![Wiki Page Gif](2023-10-14_Anytype-PARA-Wiki-Pages-gif.gif)
 
+„Tags“ werden in fast jedem Bereich gesetzt und sind nach thematischen Schlagwörtern festgelegt. Sie ermöglichen es, aus jeder Perspektive nach diesem Tag zu filtern und bieten somit eine flexible und kontextbezogene Navigation durch die in Anytype gespeicherten Informationen. Durch die konsequente Verwendung von „Tags“ wird eine durchgängige, themenbasierte Strukturierung und Auffindbarkeit von Informationen gewährleistet, die die effiziente Nutzung und Wiederverwendung von Wissen in verschiedenen Kontexten ermöglicht.
 
 ## 3. Einführung in das CODER-Konzept
 
