@@ -36,6 +36,8 @@ Dem „Projects“-Objekt sind verschiedene Relationen angehängt, die eine viel
 
 ![PARA-Pages](2023-10-14_Anytype-PARA-Page.png)
 
+![PARA-Pages-Filter](2023-10-14_Anytype-PARA-Page-setfilter.png)
+
 **AREAS**
 
 ![PARA-AREAS](/articles/2023_Anytype/2023_Anytype-mit-PARA/2023-10-14_Anytype-PARA-AREAS.jpeg)
