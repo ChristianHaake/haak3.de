@@ -22,7 +22,9 @@ Der PARA-Ansatz zielt darauf ab, eine klare und flexible Struktur zu schaffen, d
 
 ## 2. Anwendung von des PARA-Ansatzes in Anytype
 
-In der Anwendung des PARA-Ansatzes in Anytype spielt die strukturelle Ebene eine entscheidende Rolle, um eine klare, systematische und dennoch flexible Organisation von Informationen und Wissen zu ermöglichen. Die Implementierung beginnt mit der Schaffung eines eigenen Objekts, das ich schlicht „Projects“ genannt habe. Dieses Objekt dient als zentrale Einheit zur Verwaltung und Organisation sowohl von Projekten als auch von Bereichen (AREA). Dabei erfolgt die Unterscheidung zwischen diesen beiden Kategorien mittels Tags, genauer gesagt durch die Verwendung der Tags „Project“, „AREA“ und „ARCHIVE“. Diese Tags ermöglichen nicht nur eine klare Differenzierung, sondern auch eine flexible Anpassung und Erweiterung des Systems. 
+**Projects**
+
+In der Anwendung des PARA-Ansatzes in Anytype spielt die strukturelle Ebene eine entscheidende Rolle, um eine klare, systematische und dennoch flexible Organisation von Informationen und Wissen zu ermöglichen. Die Implementierung beginnt mit der Schaffung eines eigenen Objekts, das ich schlicht „Projects“ genannt habe. Dieses Objekt dient als zentrale Einheit zur Verwaltung und Organisation sowohl von Projekten als auch von Bereichen (AREAS). Dabei erfolgt die Unterscheidung zwischen diesen beiden Kategorien mittels Tags, genauer gesagt durch die Verwendung der Tags „Project“, „AREA“ und „ARCHIVE“. Diese Tags ermöglichen nicht nur eine klare Differenzierung, sondern auch eine flexible Anpassung und Erweiterung des Systems. 
 
 ![PARA-Projects-View](/articles/2023_Anytype/2023_Anytype-mit-PARA/2023-10-14_Anytype-PARA-Project.jpeg)
 
@@ -30,6 +32,9 @@ Dem „Projects“-Objekt sind verschiedene Relationen angehängt, die eine viel
 
 ![PARA-Project-Object-Tags](2023-10-14_Anytype-PARA-Project-Tags.png)
 
+**AREAS*
+
+![PARA-AREAS](/articles/2023_Anytype/2023_Anytype-mit-PARA/2023-10-14_Anytype-PARA-AREAS.jpeg)
 
 ## 3. Einführung in das CODER-Konzept
 
