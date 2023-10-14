@@ -67,7 +67,15 @@ Durch diese Struktur wird eine flexible und kontextbezogene Verwendung von Infor
 
 **Resourcen**
 
+![R-Sources-Wiki overview](2023-10-14_Anytype-PARA-Source-gif.gif)
 
+![R-Sources-Wiki overview - gif](/articles/2023_Anytype/2023_Anytype-mit-PARA/2023-10-14_Anytype-PARA-Wiki-overview.png)
+
+Pages of the Wiki
+
+![Wiki Page](2023-10-14_Anytype-PARA-Wiki-Pages.jpeg)
+
+![Wiki Page Gif](2023-10-14_Anytype-PARA-Wiki-Pages-gif.gif)
 
 
 ## 3. Einführung in das CODER-Konzept
