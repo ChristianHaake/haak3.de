@@ -22,7 +22,9 @@ Der PARA-Ansatz zielt darauf ab, eine klare und flexible Struktur zu schaffen, d
 
 ## 2. Anwendung von des PARA-Ansatzes in Anytype
 
-   - Ihre persönliche Interpretation und Anwendung von PARA
+![PARA-Projects-View](/articles/2023_Anytype/2023_Anytype-mit-PARA/2023-10-14_Anytype-PARA-Project.jpeg)
+
+![PARA-Project-Object-Tags](2023-10-14_Anytype-PARA-Project-Tags.png)
 
 ## 3. Einführung in das CODER-Konzept
 
