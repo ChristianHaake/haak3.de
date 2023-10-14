@@ -87,7 +87,7 @@ Die Strukturierung und Organisation von „Resources“ ist entscheidend, um ein
 
 **Pages im Wiki**
 
-In meiner Logik sind „Pages“-Objekte in Anytype eng mit einem spezifischen Thema verknüpft und dienen dazu, themenrelevante Informationen zu bündeln und strukturiert darzustellen. Diese „Pages“ werden in einem Wiki dargestellt, welches nicht nur durch Namen, sondern auch durch Tags charakterisiert wird. Zudem weise ich den meisten „Pages“-Objekten einen „Type“ zu, der in den meisten Fällen als „Index“ definiert ist. Das Wiki-Set filtert dabei nach „Pages“-Objekten, die den „Type“ „Index“ aufweisen, um eine klare und navigierbare Struktur im Wiki zu gewährleisten.
+In meiner Logik sind „Pages“-Objekte in Anytype eng mit einem spezifischen Thema verknüpft und dienen dazu, themenrelevante Informationen zu bündeln und strukturiert darzustellen. Diese „Pages“ werden in einem Wiki dargestellt, welches nicht nur durch Namen, sondern auch durch Tags charakterisiert wird. Zudem weise ich den meisten „Pages“-Objekten einen „Type“ zu, der als „Index“ definiert ist. Das Wiki-Set filtert dabei nach „Pages“-Objekten, die den „Type“ „Index“ aufweisen, um eine klare und navigierbare Struktur im Wiki zu gewährleisten.
 
 ![Wiki Page](2023-10-14_Anytype-PARA-Wiki-Pages.jpeg)
 
@@ -115,14 +115,29 @@ Das CODER-Konzept beeinflusst Wissensmanagement und Lernen, indem es einen zykli
 
 ## 4. Anwendung von des CODER-Ansatzes in Anytype
 
+Das CODER-Konzept, entwickelt als methodischer Ansatz für effektives Wissensmanagement und Lernen, durchläuft fünf zentrale Phasen: Collect (Sammeln), Organize (Organisieren), Distill (Destillieren), Express (Ausdrücken) und Reflect (Reflektieren). Jede Phase spielt eine entscheidende Rolle in der Art und Weise, wie Informationen und Wissen gesammelt, verarbeitet, angewendet und reflektiert werden.
 
-1. **Aufbau und Anpassung in Anytype**
-   - Dashboard und Setup
-   - Projekte und Bereiche
-   - Ressourcen
-   - Eigene Anytype-Objekte
+- **Collect: Sammeln mit System**
 
-2. **Fazit**
+In der Phase „Collect“ geht es darum, alles, was relevant ist, mit dem passenden Objekttyp in Anytype zu erfassen. Hierbei wird eine breite Palette von Daten, Fakten und Wissen akkumuliert, die für bestimmte Themen oder Projekte von Bedeutung sind. Die Kunst liegt darin, eine Balance zu finden zwischen dem Sammeln von genug Material, um fundierte Entscheidungen zu treffen, und dem Vermeiden von Informationsüberflutung.
+
+- **Organize: Strukturierte Ablage in Resources**
+
+Die „Organize“-Phase findet ihre Parallele in „Resources“ innerhalb des PARA-Ansatzes in Anytype. Hier werden Informationen nicht nur gesammelt, sondern auch in einer strukturierten Form, wie beispielsweise in Wikis oder Notes, organisiert. Dies ermöglicht eine leichte Zugänglichkeit und Auffindbarkeit der Daten, wenn sie benötigt werden.
+
+- **Distill: Verdichtung durch Readwise**
+
+In der „Distill“-Phase wird das gesammelte Wissen auf die wesentlichsten und relevantesten Punkte reduziert. Hierbei kommt der Reader von Readwise zum Einsatz, mit der Hoffnung, dass durch ein zukünftiges Plugin eine automatisierte Integration aller Informationen in das System ermöglicht wird.
+
+- **Express: Produktion und Teilen von Inhalten**
+
+„Express“ umfasst alles, was produziert wird: Artikel, Keynotes, Workshops, Tutorials etc. Diese Outputs werden in Anytype im Set „Products“ mit dem Objekt „Product“ erfasst. Hierbei wird das destillierte Wissen in einer klaren und verständlichen Form kommuniziert und geteilt, sei es intern für Projekte oder extern für ein breiteres Publikum.
+
+- **Reflect: Kontinuierliche Verbesserung**
+
+Die Phase „Reflect“ ist bisher noch ein ungelöstes Rätsel im System. Hierbei geht es um die Reflexion und kontinuierliche Verbesserung des eigenen Wissensmanagements und Lernprozesses. Die Herausforderung besteht darin, eine Methode oder ein Tool zu finden, das nachhaltige und effektive Reflexionsprozesse unterstützt.
+
+1. **Fazit**
    - Ihre aktuellen Gedanken und Erfahrungen mit Anytype
    - Ein Ausblick auf die Zukunft und wie Sie Anytype weiterhin nutzen möchten
 
