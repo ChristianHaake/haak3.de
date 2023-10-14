@@ -65,6 +65,10 @@ Durch diese Struktur wird eine flexible und kontextbezogene Verwendung von Infor
 
 -------
 
+**Resourcen**
+
+
+
 ## 3. Einführung in das CODER-Konzept
 
 Das CODER-Konzept stellt eine methodische Vorgehensweise für effektives Wissensmanagement und Lernen dar und durchläuft dabei fünf zentrale Phasen: Collect, Organize, Distill, Express und Reflect.
