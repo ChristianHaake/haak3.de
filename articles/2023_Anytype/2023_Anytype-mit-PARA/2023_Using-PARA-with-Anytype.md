@@ -46,7 +46,24 @@ Ein kritischer Punkt, der besonders hervorzuheben ist, betrifft die Selbstfilter
 
 **AREAS**
 
+In der Anwendung von Anytype sind „Areas“ eine fundamentale Komponente, die, ähnlich wie „Projects“, durch den Objekttyp „Projects“ repräsentiert werden. Trotz ihrer Ähnlichkeit in der Strukturierung und Darstellung weisen „Areas“ und „Projects“ einen entscheidenden Unterschied auf: den spezifisch gesetzten Tag „AREAS“ für Areas. Dieser Tag dient nicht nur zur klaren Unterscheidung, sondern auch zur spezifischen Organisation und Navigation innerhalb von Anytype.
+
 ![PARA-AREAS](/articles/2023_Anytype/2023_Anytype-mit-PARA/2023-10-14_Anytype-PARA-AREAS.jpeg)
+
+Die Seiten von „Areas“ folgen grundsätzlich dem gleichen Aufbau wie die von „Projects“. Jedoch beinhalten sie in der Regel mehr spezifische Subpages und Informationen, die auf den kontinuierlichen und umfassenden Charakter von Areas abzielen. Während „Projects“ oft zeitlich begrenzt und zielorientiert sind, repräsentieren „Areas“ fortlaufende, langfristige Engagements oder Lebensbereiche, die eine tiefere und umfassendere Informationsstruktur erfordern. So können „Areas“ beispielsweise spezifische Wissensbereiche, kontinuierliche Aktivitäten oder dauerhafte Verpflichtungen repräsentieren, die durch eine Vielzahl von Subpages und verknüpften Informationen detailliert dargestellt werden.
+
+------
+
+Die Anwendung des PARA-Ansatzes in Anytype, insbesondere im Kontext von „Areas“ und „Projects“, dient in meiner Logik
+primär dazu, Wissen und Informationen spezifisch zu filtern und zu organisieren. Dabei sollen „Areas“ und „Projects“ nicht als isolierte Informationsinseln fungieren, sondern vielmehr als Filter, durch die Daten aus „Resources“ spezifisch referenziert werden. Das Ziel ist es, Informationen so weit wie sinnvoll aus „Resources“ zu beziehen, um diese in verschiedenen Kontexten wiederverwenden zu können.
+
+> Ein Beispiel zur Verdeutlichung: In „Resources“ habe ich ein CRM-Set angelegt, in dem alle Kontakte, sei es Personen oder Firmen, gespeichert werden. Diese Informationen >
+> stehen dann allen „Projects“ und „Areas“ zur Verfügung und können jederzeit referenziert werden. Ähnlich verfahre ich mit Meetingnotizen: Diese sind als Set in „Resources“
+> abgelegt und können durch eine „Relation“ mit „Areas“, „Projects“ und selbstverständlich auch mit Kontakten im CRM verknüpft werden. 
+
+Durch diese Struktur wird eine flexible und kontextbezogene Verwendung von Informationen ermöglicht, die sowohl die Effizienz als auch die Konsistenz der Datenhaltung und -nutzung sicherstellt. Im nächsten Abschnitt werde ich den Bereich „Resources“ vorstellen und dabei insbesondere auf die Strukturierung und Anwendung der dort abgelegten Daten eingehen.
+
+-------
 
 ## 3. Einführung in das CODER-Konzept
 
