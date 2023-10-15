@@ -85,7 +85,15 @@ These "Pages" objects act as structured collections of information that are topi
 
 "Tags" are set in almost every object and are defined according to thematic keywords. They allow filtering from every perspective according to this tag, thus offering flexible and context-related navigation through the information stored in Anytype. Through the consistent use of "Tags", a continuous, theme-based structuring and findability of information is ensured, facilitating the efficient use and reuse of knowledge in various contexts.
 
-## 3. Introduction to the CODER Concept
+## 3. Linking PARA and CODER: A Coherent Approach to Information Management and Development
+
+While we regard the PARA approach as a sturdy framework for categorizing and organizing our information, the CODER concept provides a dynamic process that guides us through the phases of information and knowledge development. It's vital to recognize that these two concepts do not exist in isolation but rather in a symbiotic relationship that facilitates the flow of knowledge and information through various phases of management and development.
+
+PARA enables us to organize information in a clear and navigable structure, thereby establishing a solid foundation for the CODER process. With a well-organized information base provided by PARA, we can navigate through the phases of the CODER concept, starting with collecting information, through its organization and distillation, to expression, and ultimately to reflection and further development.
+
+In this context, PARA acts as the foundation upon which our information is securely and structurally stored, while CODER serves as the mechanism that guides us through the cyclical process of knowledge creation, sharing, and reflection. Integrating PARA and CODER in Anytype allows us to develop a comprehensive and continuous approach to knowledge management that supports not only the organization but also the development and enhancement of our knowledge and information.
+
+## 4. Introduction to the CODER Concept
 
 The CODER concept represents a methodical approach to effective knowledge management and learning, passing through five central phases: Collect, Organize, Distill, Express, and Reflect.
 
@@ -101,7 +109,7 @@ The CODER concept represents a methodical approach to effective knowledge manage
 
 The CODER concept influences knowledge management and learning by providing a cyclical and reflective process. It enables users to actively collect, organize, distill, and express knowledge, while continuous reflection promotes deeper understanding and steady improvement of learning processes. This approach not only supports individual learning and knowledge management but can also be implemented in tools like Anytype to support and optimize the process of knowledge curation and organization.
 
-## 4. Applying the CODER Approach in Anytype
+## 5. Applying the CODER Approach in Anytype
 
 The CODER concept, developed as a methodological approach for effective knowledge management and learning, undergoes five central phases: Collect, Organize, Distill, Express, and Reflect. Each phase plays a pivotal role in the way information and knowledge are gathered, processed, applied, and reflected upon.
 
@@ -125,7 +133,7 @@ In the "Distill" phase, the collected knowledge is reduced to the most essential
 
 The "Reflect" phase is still an unsolved puzzle in the system. It involves reflection and continuous improvement of one's own learning process and thoughts. The challenge is to find a method or tool that supports sustainable and effective reflection processes.
 
-## 5. **Conclusion**
+## 6. **Conclusion**
 
 The integration of PARA and CODER with Anytype has emerged as an innovative method for optimizing knowledge management and information organization. By combining Anytype's robust data management capabilities with the clear and purposeful structuring methods of PARA and CODER, users can create a network of information that is not only well-organized but also easily accessible and adaptable.
 
@@ -145,3 +153,7 @@ Even though Anytype is still in its beta phase, the software operates extremely 
 
 > This article is licensed under the Creative Commons License CC-BY-4.0 and may be freely shared, distributed, and edited with attribution of authorship.
 > CC-BY-4.0 Christian Haake
+
+
+Changelog:
+- 2023-10-15 Linking PARA and CODER
