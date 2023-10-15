@@ -164,4 +164,5 @@ Obwohl Anytype sich noch in der Beta-Phase befindet, läuft die Software äußer
 
 
 Changelog:
+- 2023-10-12 Veröffentlichung
 - 2023-10-15 Verküpfung von PARA und CODER
