@@ -1,11 +1,6 @@
 # Ki im Sprachenunterricht
 
-## Abstract:
-
-Der Einsatz von Künstlicher Intelligenz (KI) im Sprachenunterricht hat sich als ein zweischneidiges Schwert erwiesen, das sowohl bemerkenswerte Vorteile als auch inhärente Herausforderungen mit sich bringt. Dieser Artikel navigiert durch fünf Dimensionen des Lernens im Kontext von KI und Sprachenunterricht, inspiriert von Joscha Falcks "Lernen und künstliche Intelligenz - Fünf Dimensionen für den Unterricht". Es wird ein umfassender Überblick über das Lernen trotz KI, mit KI, über KI, durch KI und ohne KI geboten, wobei jede Dimension einzigartige Perspektiven und Anwendungen von KI im Sprachenunterricht beleuchtet. Während KI die Fähigkeit besitzt, den Lernprozess durch Personalisierung und sofortiges Feedback zu optimieren, wird betont, dass sie nicht als Ersatz, sondern als Ergänzung zum traditionellen Sprachenunterricht und menschlicher Interaktion betrachtet werden sollte. Der Artikel erforscht sowohl die Potenziale als auch die Grenzen von KI in der Bildung, wobei stets der menschliche Faktor und die Unverzichtbarkeit menschlicher Interaktion und traditioneller Lernmethoden im Blick behalten werden. Die Diskussion umfasst auch ethische, datenschutzrechtliche und qualitative Aspekte, die bei der Implementierung von KI in den Bildungsbereich berücksichtigt werden müssen.
-
 ![KI im Sprachenuntericht](Fünf%20Dimensionen%20im%20Sprachenuntericht%20(Grafik).png)
-
 
 Die Einbindung von Künstlicher Intelligenz (KI) in den Bildungsbereich, insbesondere im Sprachenunterricht, markiert eine signifikante Entwicklung in den letzten Jahren. Während die Fähigkeit der KI, den Lernprozess durch Personalisierung und sofortiges Feedback zu optimieren, von vielen begrüßt wird, gibt es auch eine wachsende Zahl von Stimmen, die Bedenken hinsichtlich ethischer, datenschutzrechtlicher und qualitativer Aspekte äußern.
 
@@ -90,3 +85,8 @@ In der Betrachtung der Zukunft des Sprachenunterrichts, in welcher Künstliche I
 
 1. Falck, J. (2023). Lernen und KI. Abgerufen am [19-08-2023] von [Joscha Falck - Lernen und KI](https://joschafalck.de/lernen-und-ki/).
 2. Hessisches Kultusministerium. (2023). KÜNSTLICHE INTELLIGENZ (KI) IN SCHULE UND UNTERRICHT. Abgerufen am [19-08-2023] von [KÜNSTLICHE INTELLIGENZ (KI) IN SCHULE UND UNTERRICHT](https://digitale-schule.hessen.de/sites/digitale-schule.hessen.de/files/2023-07/ki_handreichung.pdf).
+
+
+## Abstract:
+
+Der Einsatz von Künstlicher Intelligenz (KI) im Sprachenunterricht hat sich als ein zweischneidiges Schwert erwiesen, das sowohl bemerkenswerte Vorteile als auch inhärente Herausforderungen mit sich bringt. Dieser Artikel navigiert durch fünf Dimensionen des Lernens im Kontext von KI und Sprachenunterricht, inspiriert von Joscha Falcks "Lernen und künstliche Intelligenz - Fünf Dimensionen für den Unterricht". Es wird ein umfassender Überblick über das Lernen trotz KI, mit KI, über KI, durch KI und ohne KI geboten, wobei jede Dimension einzigartige Perspektiven und Anwendungen von KI im Sprachenunterricht beleuchtet. Während KI die Fähigkeit besitzt, den Lernprozess durch Personalisierung und sofortiges Feedback zu optimieren, wird betont, dass sie nicht als Ersatz, sondern als Ergänzung zum traditionellen Sprachenunterricht und menschlicher Interaktion betrachtet werden sollte. Der Artikel erforscht sowohl die Potenziale als auch die Grenzen von KI in der Bildung, wobei stets der menschliche Faktor und die Unverzichtbarkeit menschlicher Interaktion und traditioneller Lernmethoden im Blick behalten werden. Die Diskussion umfasst auch ethische, datenschutzrechtliche und qualitative Aspekte, die bei der Implementierung von KI in den Bildungsbereich berücksichtigt werden müssen.
