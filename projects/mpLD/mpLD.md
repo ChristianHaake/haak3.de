@@ -1,3 +1,9 @@
 # Multiperspektivisches Lernprozessdesign
+auf Basis des ABC Workshop
 
-tba
+Im Zeitalter der Digitalisierung werden Schulen und Lehrkräfte mit neuen Herausforderungen konfrontiert. Um diesen Herausforderungen zu begegnen, bedarf es innovativer Methoden und Strategien.
+
+Erkunden Sie das multiperspektivische Lernprozessdesign, das von der Medienberatung Niedersachsen entwickelt wurde. Diese Plattform ist für Lehrkräfte gedacht, die nach Lösungen suchen, um ihre Unterrichtsgestaltung in digitalen und gemischten Lernumgebungen weiterzuentwickeln.
+Das hier vorliegende multiperspektivische Lerndesign basiert auf dem für schulische Bildung angepassten und übersetzten ABC-Workshop (https://abc-ld.org). Das multiperspektivische Lerndesign bietet einen praktischen, teambasierten Ansatz zur Erstellung eines visuellen „Storyboards“ für die Zusammenstellung von Lernaktivitäten in einer Unterrichtseinheit oder eines Kurses. Hierbei werden bei der Nutzung Kreativität, Visualisierung, Tempo, Engagement und Zusammenarbeit betont. Das multiperspektivische Lernprozessdesign verändert die Art und Weise, wie der Unterricht betrachtet und gestaltet wird. Es lenkt den Blick weg von „Inhalten“ hin zu Aktivitäten und ermöglicht pädagogische Reflexion und Diskussion.
+Der ursprüngliche ABC-Workshop wurde in Zusammenarbeit mit dem Team für digitale Bildung am University College London (UCL) entwickelt und hat sich in verschiedenen Kontexten als effektiv und übertragbar erwiesen. Es basiert auf den „Lernaktivitäten“ aus dem „Conversational Framework“ von Professor Diana Laurillard.
+Lernen Sie mehr über diesen Prozess und die vielen Vorteile, die er für Sie, Ihre Kolleginnen und Kollegen und Ihren Lernenden bietet. Besuchen Sie unsere Webseite und entdecken Sie die Möglichkeiten des multiperspektivischen Lernprozessdesigns.
