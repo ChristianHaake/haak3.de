@@ -19,8 +19,20 @@ Während der Erfassungsphase mag es verlockend sein, äußerst selektiv zu sein,
 ### Fazit:
 Der Erfassungsschritt im CODE-Konzept betont die Bedeutung einer zentralisierten und systematischen Sammlung von Informationen. Mit Tools wie "raindrop.io" kann man sicherstellen, dass kein wertvolles Wissen verloren geht, während man gleichzeitig die Freiheit hat, die Selektivität in späteren Phasen des PKM-Prozesses anzupassen. Es ist wie das Anlegen eines reichen, vielseitigen Archivs, aus dem man später schöpfen kann, je nachdem, welche Bedürfnisse oder Projekte auftauchen.
 
-Organize (Organisieren):
-Nachdem die Informationen erfasst wurden, werden sie gefiltert und organisiert. Ich verwende für das organizieren von informatioen das Tool "anytype.io". Die Daten werden nach verschiedenen Kriterien gefiltert und dann in verschiedene Datenbanken wie NotesDB, BookmarksDB, TeachingDB und andere sortiert. Dies ermöglich eine Perspektivische aber überblickende Darstellung von Informationen in Form eines Wikis und spezifischer typbezogener Übersichten wie zum Beispiel: Lesezeichen oder Notizen.  
+## Organize (Organisieren):
+Das Herzstück eines jeden effektiven Personal Knowledge Management Systems ist die Organisation. Es ist das Bindeglied zwischen dem einfachen Erfassen von Informationen und deren effektiver Nutzung für spezifische Zwecke. Eine gut organisierte Wissensbasis ermöglicht es, schnell und effizient auf benötigte Informationen zuzugreifen und sie sinnvoll einzusetzen.
+
+### Werkzeuge für die Organisation:
+"Anytype.io" tritt in dieser Phase als wichtiges Werkzeug auf. Es ist mehr als nur ein einfaches Organisationsinstrument; es bietet eine dynamische Plattform zur Erstellung und Verwaltung von Datenbanken, die individuell auf die Bedürfnisse des Nutzers zugeschnitten sind. Jede Datenbank in "anytype.io" kann so gestaltet werden, dass sie einem bestimmten Zweck dient – sei es das Speichern von Lesezeichen, das Notieren von Gedanken oder das Organisieren von Lehrmaterialien.
+
+### Filtern und Sortieren:
+Die Fähigkeit, Daten zu filtern und zu sortieren, ist entscheidend für das Erreichen einer übersichtlichen Wissensbasis. Mit "anytype.io" können Informationen anhand verschiedener Kriterien gefiltert und in spezifischen Datenbanken wie NotesDB, BookmarksDB und TeachingDB organisiert werden. Dies erlaubt nicht nur eine schnelle Navigation, sondern auch eine themen- oder formatbasierte Betrachtung des gesammelten Wissens.
+
+### Zusammenführen und Verknüpfen:
+Ein weiterer Vorteil von "anytype.io" ist seine Fähigkeit, unterschiedliche Informationsstücke miteinander zu verknüpfen, wodurch eine Art persönliches Wiki entsteht. Anstatt Informationen in Silos zu isolieren, können sie über Verknüpfungen miteinander verbunden werden, um Kontext und Beziehungen zu schaffen. Dies schafft ein vernetztes Wissensnetzwerk, das ein tieferes Verständnis und eine verbesserte Informationsnutzung ermöglicht.
+
+### Fazit:
+Die Organisationsphase im CODE-Konzept bildet das Fundament für ein effektives und effizientes Personal Knowledge Management. Durch den Einsatz von leistungsstarken Werkzeugen wie "anytype.io" und bewährten Organisationsstrategien wird eine solide Wissensbasis geschaffen, die sowohl breite Übersichten als auch tiefe Einblicke bietet. Das Ziel ist es, das gesamte Spektrum des erfassten Wissens in einem übersichtlichen, zugänglichen und vernetzten Format verfügbar zu machen.
 
 Distill (Destillieren):
 In dieser Phase werden die erfassten und organisierten Informationen weiter verfeinert und in einen nutzbaren Zustand gebracht. Beispielsweise werden PDFs, E-Books, Websites und Videos über "Readwise" destilliert und für die nachfolgenden Phasen vorbereitet. Dieser Dienst hat für mich eine zentrale Rolle, den ich kann mit diesem alle oben genannten informationen formen annotieren, kommentieren oder auch automatisiert mit gpt4 zusammenfassen. 
