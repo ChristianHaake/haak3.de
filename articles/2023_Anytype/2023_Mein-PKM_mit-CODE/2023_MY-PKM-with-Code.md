@@ -5,7 +5,7 @@
 
 In a digitized world where information is generated and shared at unprecedented speeds, the ability to effectively manage knowledge becomes a crucial differentiator. The way we capture, organize, refine, and share information can make the difference between getting lost in the flood of information or being able to leverage it to our advantage. In this article, I want to introduce my personal knowledge management system based on the CODE concept. I will delve deeper into my practices, share the tools I use, and discuss how this system helps me work and learn more effectively. This is the result of my own journey through the world of knowledge management, and I hope it can also help others find their own path in this field.
 
-## Capture (Erfassen):
+## Capture:
 In an era where information flows at an unparalleled speed, systematically capturing knowledge is essential. It's the first step in the CODE concept of the Personal Knowledge Management System, ensuring that all potentially valuable snippets of information are caught.
 
 ### Tools and Techniques:
@@ -19,7 +19,7 @@ During the capture phase, it might be tempting to be extremely selective to avoi
 ### Conclusion:
 The capture step in the CODE concept emphasizes the importance of a centralized and systematic collection of information. With tools like "raindrop.io", one can ensure that no valuable knowledge is lost while also having the freedom to adjust selectivity in later phases of the PKM process. It's like creating a rich, versatile archive from which one can draw later on, depending on the needs or projects that arise.
 
-## Organize (Organisieren):
+## Organize:
 The heart of any effective Personal Knowledge Management System is organization. It's the link between simply capturing information and effectively using it for specific purposes. A well-organized knowledge base allows for quick and efficient access to needed information and its meaningful application.
 
 ###  Tools for Organization:
@@ -34,7 +34,7 @@ Another advantage of "anytype.io" is its capability to link different pieces of 
 ### Conclusion:
 The organization phase in the CODE concept lays the foundation for effective and efficient Personal Knowledge Management. By utilizing powerful tools like "anytype.io" and proven organizational strategies, a solid knowledge base is established, offering both broad overviews and deep insights. The goal is to make the entire spectrum of captured knowledge available in a clear, accessible, and interconnected format.
 
-## Distill (Destillieren):
+## Distill:
 Distillation goes beyond simply storing and organizing information. In this phase, the essence is extracted from the plethora of data and transformed into a moldable, usable, and understandable form. The goal is to reduce information overload and retain only what is relevant and valuable.
 
 ### Tools for Distillation:
@@ -49,7 +49,7 @@ While a current separation exists between "Readwise" and "Anytype", the future l
 ## Conclusion:
 Distilling information is a crucial step in the Personal Knowledge Management process. It allows the transformation of raw data into valuable, applicable knowledge. By using specialized tools and personal interaction with the material, it ensures that the final product is both precise and profound, ready for the next step in the CODE concept.
 
-## Express (Ausdrücken):
+## Express:
 The final step in the CODE concept is expression. After capturing, organizing, and distilling information, it's time to put that knowledge into action. Expressing what you've learned and understood not only reinforces your grasp of the material but also allows you to share and contribute to the broader community.
 
 ### Tools for Expression:
@@ -64,7 +64,7 @@ An essential aspect of the expression phase is the feedback loop. By sharing and
 ### Conclusion:
 Expression is the culmination of the Personal Knowledge Management process. It's where knowledge comes to life and is put into practice. By leveraging powerful tools and platforms, and by actively engaging with the community, the expression phase ensures that knowledge is not just passively consumed but actively utilized and shared. It's a testament to the power of the CODE concept and its ability to transform information into actionable insights.
 
-## Reflect (Reflektieren):**
+## Reflect:
 Even though "Reflect" is not currently explicitly integrated into my flowchart or workflow, I want to emphasize how crucial this step can be in an effective knowledge management system. The traditional CODE system is often portrayed without this reflection step, but a deeper analysis of one's own knowledge and experiences could offer significant added value.
 
 ### Importance of Reflection:**
