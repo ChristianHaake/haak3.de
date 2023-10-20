@@ -3,7 +3,7 @@
 
 ![2023_PKM-V3](/articles/2023_Anytype/2023_Mein-PKM_mit-CODE/2023-10-19_PKM-Haake-v3.jpg)
 
-Das Konzept des "Personal Knowledge Management" (PKM) befasst sich mit der Art und Weise, wie Individuen Informationen und Wissen sammeln, organisieren, bewahren und teilen. Das von mir entworfene Modell stellt den Prozess in vier Hauptphasen dar: Capture (Erfassen), Organize (Organisieren), Distill (Destillieren), Express (Ausdrücken), wobei die Anfangsbuchstaben dieser Phasen das Akronym "CODE" bilden.
+In einer digitalisierten Welt, in der Informationen in beispielloser Geschwindigkeit generiert und geteilt werden, wird die Fähigkeit, Wissen effektiv zu verwalten, zu einem entscheidenden Unterscheidungsmerkmal. Die Art und Weise, wie wir Informationen erfassen, organisieren, verfeinern und teilen, kann den Unterschied ausmachen, ob wir uns in der Informationsflut verlieren oder ob wir in der Lage sind, sie zu unserem Vorteil zu nutzen. In diesem Artikel möchte ich mein persönliches Wissensmanagement-System vorstellen, das auf dem CODE-Konzept basiert. Ich werde tiefer in meine Praktiken eintauchen, die Werkzeuge teilen, die ich benutze, und diskutieren, wie dieses System mir hilft, effektiver zu arbeiten und zu lernen. Dies ist das Ergebnis meiner eigenen Reise durch die Welt des Wissensmanagements, und ich hoffe, dass es auch anderen dabei helfen kann, ihren eigenen Weg in diesem Bereich zu finden.
 
 ## Capture (Erfassen):
 In einer Ära, in der Informationen in einer beispiellosen Geschwindigkeit strömen, ist das systematische Erfassen von Wissen unerlässlich. Es ist der erste Schritt im CODE-Konzept des Personal Knowledge Management Systems und stellt sicher, dass alle potenziell wertvollen Informationsfetzen eingefangen werden.
