@@ -98,4 +98,4 @@ Even though Anytype is still in its beta phase, the software operates extremely 
 
 Changelog:
 - 2023-10-12 Release
-- 2023-10-15 Adding Linking PARA and CODER
+
