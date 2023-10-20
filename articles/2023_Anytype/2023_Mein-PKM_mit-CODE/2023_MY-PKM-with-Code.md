@@ -31,7 +31,7 @@ The ability to filter and sort data is crucial for achieving a clear knowledge b
 ### Merging and Linking:
 Another advantage of "anytype.io" is its capability to link different pieces of information, creating a kind of personal wiki. Instead of isolating information in silos, they can be interconnected through links to establish context and relationships. This creates a connected knowledge network, enabling deeper understanding and improved information utilization.
 
-### *Conclusion:**
+### Conclusion:
 The organization phase in the CODE concept lays the foundation for effective and efficient Personal Knowledge Management. By utilizing powerful tools like "anytype.io" and proven organizational strategies, a solid knowledge base is established, offering both broad overviews and deep insights. The goal is to make the entire spectrum of captured knowledge available in a clear, accessible, and interconnected format.
 
 ## Distill (Destillieren):
