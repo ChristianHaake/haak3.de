@@ -43,6 +43,11 @@ Abonnieren Sie den Newsletter auf [Github](https://github.com/ChristianHaake/New
 
 ------------------------------------------
 
+> Disclaimer: 
+> Alle Inhalte und Meinungen, die auf dieser Webseite "haak3.de" geteilt werden, sind rein privat und spiegeln die persönlichen Ansichten von mir wider. Sie repräsentieren nicht die Ansichten von Organisationen, mit denen er verbunden ist oder war.
+
+------------------------------------------
+
 [Impressium](impressum.md) & [Privacy](privacy.md)
 
 | Mein gesamter Inhalt steht unter CC BY SA 4.0
