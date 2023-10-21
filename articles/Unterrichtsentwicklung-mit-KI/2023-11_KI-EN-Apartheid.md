@@ -171,7 +171,7 @@ Der Anforderungsbereich III in Niedersachsen legt den Fokus auf das Reflektieren
 3. **Bedeutung der Erzählperspektive**: Die Geschichte wird aus der Sicht eines jungen Schülers erzählt, der die Apartheid miterlebt hat. Inwiefern beeinflusst diese Erzählperspektive unser Verständnis der dargestellten Ereignisse? Wie könnte die Geschichte aussehen, wenn sie aus der Perspektive eines anderen Charakters, beispielsweise eines weißen Südafrikaners oder eines Regierungsbeamten, erzählt würde? Diskutieren Sie Ihre Überlegungen und begründen Sie Ihre Ansichten.
 ```
 
-#### Kreative Aufgaben mit KI-Unterstützung
+### Kreative Aufgaben mit KI-Unterstützung
 
 Die Integration von Kreativität in den Unterricht kann den Lernprozess bereichern und den Schülerinnen und Schülern helfen, tieferes Verständnis und Engagement für das Thema zu entwickeln. Während die zuvor generierten Aufgabenstellungen bereits einen soliden Rahmen für das Verständnis der Kurzgeschichte boten, war es nun an der Zeit, die kreativen Fähigkeiten von ChatGPT zu nutzen.
 
@@ -199,7 +199,7 @@ Der Anforderungsbereich III in Niedersachsen legt den Schwerpunkt auf tiefgreife
 
 Die von ChatGPT generierten kreativen Aufgaben bieten einen spannenden Mix aus schriftlichen, mündlichen und interaktiven Aktivitäten. Sie ermöglichen es den Schülerinnen und Schülern, tiefer in die Geschichte einzutauchen, verschiedene Perspektiven zu erkunden und ihre eigenen Interpretationen und Reflexionen zu entwickeln. Dies zeigt das Potenzial von KI, den Unterricht nicht nur informativ, sondern auch interaktiv und kreativ zu gestalten.
 
-### Der Perspektivewechsel (Pieter)
+## Der Perspektivewechsel (Pieter)
 
 In der Auseinandersetzung mit der Apartheid-Geschichte Südafrikas ist es unerlässlich, die Vielschichtigkeit der Erlebnisse und Perspektiven zu erkennen. Während die erste Geschichte die Erfahrungen eines dunkelhäutigen Mädchens in Soweto beleuchtete, bietet die Perspektive von Pieter, einem weißen Jungen aus einem wohlhabenden Viertel von Johannesburg, einen Kontrast, der die Komplexität der Apartheid-Ära verdeutlicht.
 
@@ -227,6 +227,73 @@ Pieter's story is a testament to the power of empathy and the importance of ques
 
 Die Fähigkeit von ChatGPT, eine solch nuancierte und empathische Darstellung aus der Perspektive eines weißen Kindes während der Apartheid zu liefern, ist beeindruckend. Es zeigt das Potenzial von KI, nicht nur Fakten zu liefern, sondern auch menschliche Erfahrungen und Emotionen in einer Weise zu vermitteln, die zum Nachdenken anregt und das Verständnis vertieft.
 
+### Titel und Aufgabenkonzeption: Pieters Perspektive
+
+Nachdem wir die Geschichte aus Pieters Blickwinkel beleuchtet haben, folgt nun die didaktische Aufbereitung, ähnlich dem Vorgehen bei Thabos Erzählung. Die Schritte sind zwar vertraut, doch die Inhalte unterscheiden sich aufgrund der unterschiedlichen Perspektiven und Erlebnisse der beiden Protagonisten.
+
+#### Titel
+
+**Prompt:**
+
+```markdown
+gibt mir einen Titel für diese Kurzgeschichte
+```
+
+**Ergebnis:**
+
+```markdown
+"Through Innocent Eyes: A White Child in Apartheid South Africa"
+```
+
+#### Aufgabenentwicklung
+
+**Prompt:**
+
+```markdown
+Entwickle auf Basis der Kurzgeschichte 3 Aufgabenstellungen es Anforderungsbereichs 3 in Niedersachsen.
+```
+
+**Ergebnis:**
+
+```markdown
+Anforderungsbereich III in Niedersachsen bezieht sich auf Aufgaben, die das Reflektieren und Bewerten von Sachverhalten, die Entwicklung von Problem- und Fragestellungen sowie das Formulieren von begründeten eigenen Meinungen und Argumenten erfordern. Hier sind drei Aufgabenstellungen basierend auf der Kurzgeschichte:
+
+1. **Charakteranalyse und Entwicklung:** Beschreiben und analysieren Sie die Entwicklung von Pieter's Charakter im Laufe der Geschichte. Wie beeinflussten die Ereignisse der Apartheid und des Soweto-Aufstands seine Perspektive und sein Handeln? Nutzen Sie spezifische Beispiele aus dem Text, um Ihre Analyse zu unterstützen.
+2. **Themenanalyse:** Identifizieren Sie die zentralen Themen der Kurzgeschichte und erklären Sie, wie diese Themen die Handlung und die Charaktere beeinflussen. Wie werden diese Themen verwendet, um eine Botschaft oder eine Lektion zu vermitteln? Geben Sie konkrete Beispiele aus der Geschichte, um Ihre Punkte zu unterstützen.
+3. **Perspektive und Kontext:** Die Geschichte wird aus der Perspektive eines weißen Kindes erzählt, das die Apartheid erlebt. Wie beeinflusst diese Perspektive unser Verständnis und unsere Wahrnehmung der Ereignisse? Wie könnte die Geschichte anders sein, wenn sie aus einer anderen Perspektive erzählt würde (z.B. ein schwarzes Kind oder ein Regierungsbeamter)? Diskutieren Sie Ihre Gedanken und begründen Sie Ihre Antworten.
+```
+
+und hier die kreativen Aufgaben: 
+
+**Prompt:**
+
+```markdown
+Entwickle mir 4 kreative Aufgaben die den Anforderungsbereich III in Niedersachsen bedienen
+```
+
+**Ergebnis:**
+
+```markdown
+Anforderungsbereich III in Niedersachsen bezieht sich auf Aufgaben, die das Reflektieren und Bewerten von Sachverhalten, die Entwicklung von Problem- und Fragestellungen sowie das Formulieren von begründeten eigenen Meinungen und Argumenten erfordern. Hier sind vier kreative Aufgabenstellungen basierend auf der Kurzgeschichte:
+
+1. **Perspektivenwechsel:** Stellen Sie sich vor, Sie sind Pieter und schreiben ein Tagebucheintrag über die Ereignisse des Soweto-Aufstands und Ihre Gefühle dazu. Wie würden Sie die Ereignisse und ihre Auswirkungen auf Sie und Ihre Gemeinschaft beschreiben?
+2. **Briefschreiben:** Schreiben Sie einen Brief von Pieter an einen Freund in einem anderen Land, in dem Sie die Situation in Südafrika während der Apartheid erklären. Was würde Pieter sagen? Wie würde er seine Erfahrungen und seine Sicht auf die Dinge ausdrücken?
+3. **Rollenspiel/Diskussion:** Organisieren Sie eine Klassendiskussion oder ein Rollenspiel, in dem die Schüler die Rollen verschiedener Charaktere aus der Geschichte übernehmen. Diskutieren Sie die Ereignisse und ihre Auswirkungen aus den verschiedenen Perspektiven der Charaktere.
+4. **Kreatives Schreiben:** Schreiben Sie eine Fortsetzung der Geschichte, in der Sie Pieter's Leben nach dem Ende der Apartheid darstellen. Wie hat sich sein Leben verändert? Welche Herausforderungen und Möglichkeiten könnte er in einem post-Apartheid Südafrika erleben?
+```
+
+## Kontroverse Dialoge erstellen 
+
+
+
+
+
+weitere möglichkeiten:
+- Vergleiche Peiter und Thabos geschiche 
+- Vergleiche die beiden Diaolge zwischen pieter und seinem Vater
+
+- Selbst verstädnlich muss man wie bei jedem Material, genau die aufgaben überprüfen und entscheiden ob die jeweilige Aufgabenstellung für die sus geeigenet ist, Hier hat man aber schonmal einen Startpunkt der meiner Meinung nach recht gut ist. 
+- Einbettung der Aufgaben und des Materials fehlt an dieser stelle natürlich noch. 
 
 
 ## Schlussbetrachtung und Ausblick
