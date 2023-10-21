@@ -420,8 +420,7 @@ Abschließend ist zu betonen, dass die Verwendung solcher KI-generierten Dialoge
 
 -----
 
-## Links: 
-[Link zum Chat mit ChatGPT](https://chat.openai.com/share/1fa23508-6f79-4274-b13f-5e4b82763efe)
+Links: [Link zum Chat mit ChatGPT](https://chat.openai.com/share/1fa23508-6f79-4274-b13f-5e4b82763efe)
 
 
 #KünstlicheIntelligenz #Unterrichtsgestaltung #DigitaleBildung #ChatGPT #InnovativeLehre #KreativeUnterrichtsideen #Perspektiven #DigitaleUnterrichtsmaterialien #ZukunftDerBildung #Sprachenunterricht
