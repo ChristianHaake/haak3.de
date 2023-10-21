@@ -1,4 +1,4 @@
-# KI zur Unterrichtsgestaltung nutzen - Apartheid
+# KI zur Unterrichtsgestaltung nutzen - Am Thema Apartheid
 
 ![Apartheid](/articles/Unterrichtsentwicklung-mit-KI/AI%20Beispiele%20Apartheid.png)
 > Das Bild wurde mit Dall-2 generiert
