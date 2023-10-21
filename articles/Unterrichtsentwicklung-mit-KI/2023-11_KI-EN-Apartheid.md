@@ -153,8 +153,6 @@ Dieser Titel fängt die Essenz der Geschichte ein und betont die zentrale Rolle 
 
 ### Aufgabenstellungen
 
-### Aufgabenentwicklung mit KI-Unterstützung
-
 Eines der herausforderndsten Elemente bei der Unterrichtsvorbereitung ist die Entwicklung von Aufgaben, die sowohl anspruchsvoll als auch relevant für die Schüler sind. Mit dem Wissen, dass ChatGPT das Internet und somit auch Bildungsstandards und -richtlinien eingelesen hat, wollte ich testen, ob die KI in der Lage ist, spezifische Aufgabenstellungen basierend auf den Vorgaben eines bestimmten Bundeslandes zu generieren.
 
 **Prompt:**
@@ -201,7 +199,33 @@ Der Anforderungsbereich III in Niedersachsen legt den Schwerpunkt auf tiefgreife
 
 Die von ChatGPT generierten kreativen Aufgaben bieten einen spannenden Mix aus schriftlichen, mündlichen und interaktiven Aktivitäten. Sie ermöglichen es den Schülerinnen und Schülern, tiefer in die Geschichte einzutauchen, verschiedene Perspektiven zu erkunden und ihre eigenen Interpretationen und Reflexionen zu entwickeln. Dies zeigt das Potenzial von KI, den Unterricht nicht nur informativ, sondern auch interaktiv und kreativ zu gestalten.
 
+### Der Perspektivewechsel (Pieter)
 
+In der Auseinandersetzung mit der Apartheid-Geschichte Südafrikas ist es unerlässlich, die Vielschichtigkeit der Erlebnisse und Perspektiven zu erkennen. Während die erste Geschichte die Erfahrungen eines dunkelhäutigen Mädchens in Soweto beleuchtete, bietet die Perspektive von Pieter, einem weißen Jungen aus einem wohlhabenden Viertel von Johannesburg, einen Kontrast, der die Komplexität der Apartheid-Ära verdeutlicht.
+
+**Prompt:**
+```markdown
+Basierend auf dem ursprünglichen Informationstext, erzähle eine Geschichte aus der Perspektive eines weißen Kindes während der Apartheid.
+```
+
+**Ergebnis:**
+```markdown
+In the heart of Johannesburg, in the affluent neighborhood of Sandton, lived a young boy named Pieter. He was a curious and compassionate 12-year-old, living in the stark reality of Apartheid South Africa in the 1970s.
+
+Pieter's world was vastly different from that of the black majority. He attended a well-resourced school, where he was taught in Afrikaans, the language of his people. He was aware of the racial segregation that marked his country, but as a child, he didn't fully understand its implications.
+
+In 1976, news of a new decree reached Pieter's school. Afrikaans was to be the medium of instruction in all South African schools, replacing English. Pieter felt a sense of unease. He knew that this decision was not fair to the black majority, who had their own languages and cultures.
+
+One day, Pieter saw images on the television that shook him to his core. Black schoolchildren, not much older than him, were protesting in Soweto against the imposition of Afrikaans in their schools. The peaceful protest was met with violence, and many children were killed. Pieter was horrified. He couldn't understand why children were being killed for wanting to learn in a language they understood.
+
+The Soweto Uprising, as it came to be known, sparked a change in Pieter. He began to question the world around him, the unjust laws, and the actions of his people. He felt a deep sense of guilt and confusion, struggling to reconcile the privilege he enjoyed with the suffering of the black majority.
+
+Years later, when Nelson Mandela was released from prison and the Apartheid regime began to crumble, Pieter, now a young man, felt a sense of relief. He watched as Mandela, once a prisoner, became the nation's leader, guiding South Africa towards a future of unity and reconciliation.
+
+Pieter's story is a testament to the power of empathy and the importance of questioning unjust systems. It serves as a reminder that change often begins with understanding and acknowledging the injustices of the past, and the role we play in perpetuating or challenging these injustices.
+```
+
+Die Fähigkeit von ChatGPT, eine solch nuancierte und empathische Darstellung aus der Perspektive eines weißen Kindes während der Apartheid zu liefern, ist beeindruckend. Es zeigt das Potenzial von KI, nicht nur Fakten zu liefern, sondern auch menschliche Erfahrungen und Emotionen in einer Weise zu vermitteln, die zum Nachdenken anregt und das Verständnis vertieft.
 
 
 
