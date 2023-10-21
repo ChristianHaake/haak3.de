@@ -135,8 +135,6 @@ Das Ergebnis hat mich nicht nur überrascht, ich war regelrecht verblüfft.
 
 ### Jede Geschichte braucht einen Titel
 
-### Der passende Titel für eine Geschichte
-
 Ein Titel gibt einer Geschichte Identität und Kontext. Er weckt das Interesse des Lesers und gibt einen Hinweis auf den Inhalt der Geschichte. Daher war der nächste logische Schritt in unserem Prozess, ChatGPT um einen passenden Titel für unsere Kurzgeschichte zu bitten.
 
 **Prompt:**
