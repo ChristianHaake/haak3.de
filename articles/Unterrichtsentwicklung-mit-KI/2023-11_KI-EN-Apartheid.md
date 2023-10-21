@@ -400,11 +400,15 @@ Entwickle zu beiden Versionen den Gespräches 3 kreative Aufgaben
 3. **Kreatives Schreiben**: Die Lernenden setzen das Gespräch fort und überlegen, ob und wie Pieter seinen Vater dazu bringen könnte, seine rassistischen Ansichten zu überdenken. Dies fördert die Kreativität und das kritische Denken.
 ```
 
-
+Die kontrastierenden Dialoge zwischen Pieter und seinem Vater beleuchten eindrücklich die vielschichtigen Facetten von Apartheid und Rassismus und bieten Lehrkräften ein wertvolles Werkzeug, um Schülerinnen und Schüler zur kritischen Auseinandersetzung mit diesen Themen anzuregen.
 
 ## Schlussbetrachtung und Ausblick
 
-https://haak3.de/articles/Unterrichtsentwicklung-mit-KI/2023-09_KI-DE-Nach_den_Ferien_in_Hogwarts.html
+
+
+
+
+
 
 
 
