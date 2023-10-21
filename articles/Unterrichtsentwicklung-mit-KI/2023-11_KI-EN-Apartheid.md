@@ -25,15 +25,26 @@ Erstelle einen Informationstext auf Englisch für eine 10 Klasse (B1 Niveau)
 
 ---
 ```markdown
-The Apartheid era in South Africa was a period of systematic racial segregation and discrimination. It began in 1948 when the National Party (NP), a party with racist ideologies, won the elections and transformed South Africa into a state of racial injustice.
+The Apartheid era in South Africa was a period of systematic racial segregation and discrimination. 
+It began in 1948 when the National Party (NP), a party with racist ideologies, won the elections and transformed South Africa into a state of racial injustice.
 
-During this time, the entire public life was marked by strict racial segregation, enforced with heavy police violence. The aim was to protect the rights and privileges of the white minority while also having cheap black labor available. The government established so-called Homelands, formally independent tribal areas for black people, to perfect racial segregation. These large ghettos, where only black people were allowed to live, were an attempt by the South African government to completely evade political, economic, and social responsibility.
+During this time, the entire public life was marked by strict racial segregation, enforced with heavy police violence. 
+The aim was to protect the rights and privileges of the white minority while also having cheap black labor available. 
+The government established so-called Homelands, formally independent tribal areas for black people, to perfect racial segregation. 
+These large ghettos, where only black people were allowed to live, were an attempt by the South African government to completely evade political, economic, and social responsibility.
 
-Resistance to the Apartheid policy was considered a criminal offense, and the South African state took harsh action against any opposition. On June 16, 1976, black schoolchildren in Soweto, a township southwest of Johannesburg, peacefully protested against the introduction of Afrikaans instead of English as the language of instruction. The police fired on the children, resulting in a massacre where 600 people died, a quarter of whom were children. The images of dying teenagers went around the world, causing global outrage and escalating resistance to Apartheid in South Africa into open civil war. As a result, South Africa was ostracized and isolated through UN sanctions, which over the decades favored the white minority's willingness to compromise for general democratic elections.
+Resistance to the Apartheid policy was considered a criminal offense, and the South African state took harsh action against any opposition. 
+On June 16, 1976, black schoolchildren in Soweto, a township southwest of Johannesburg, peacefully protested against the introduction of Afrikaans instead of English as the language of instruction. The police fired on the children, resulting in a massacre where 600 people died, a quarter of whom were children. 
+The images of dying teenagers went around the world, causing global outrage and escalating resistance to Apartheid in South Africa into open civil war. 
+As a result, South Africa was ostracized and isolated through UN sanctions, which over the decades favored the white minority's willingness to compromise for general democratic elections.
 
-The end of white rule came in the 1980s when the South African government came under increasing domestic and foreign political pressure. The Apartheid era was no longer sustainable. The reforms of the new President Pieter Willem Botha, who had taken over power after the Soweto incidents and ruled until 1989, did not go very far.
+The end of white rule came in the 1980s when the South African government came under increasing domestic and foreign political pressure. 
+The Apartheid era was no longer sustainable. The reforms of the new President Pieter Willem Botha, who had taken over power after the Soweto incidents and ruled until 1989, did not go very far.
 
-The charismatic black leader, Nelson Mandela, had been in prison for over 20 years by the mid-1980s. People worldwide demanded his release. In the early 1990s, the white government had to yield to international pressure. Mandela was released and immediately assumed a leading political role. When the white minority government under the white Prime Minister Frederik Willem de Klerk pushed through a reform program in 1992, the participation of the black majority in the government could no longer be stopped.
+The charismatic black leader, Nelson Mandela, had been in prison for over 20 years by the mid-1980s. 
+People worldwide demanded his release. In the early 1990s, the white government had to yield to international pressure. 
+Mandela was released and immediately assumed a leading political role. 
+When the white minority government under the white Prime Minister Frederik Willem de Klerk pushed through a reform program in 1992, the participation of the black majority in the government could no longer be stopped.
 ```
 ---
 
