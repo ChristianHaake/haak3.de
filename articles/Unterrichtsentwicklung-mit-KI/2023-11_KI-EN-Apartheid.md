@@ -82,7 +82,7 @@ Im nächsten Schritt meines Prozesses entschied ich mich, vier einfache Verstän
 Basierend auf dem Informationstext, erstelle vier Verständnisfragen.
 ```
 
-Nachdem ich den Prompt an ChatGPT weitergegeben hatte, erhielt ich folgendes Ergebnis:
+Nachdem ich den Prompt an ChatGPT weitergegeben hatte, erhielt ich folgendes **Ergebnis:**
 
 ```markdown
 Hier sind vier Verständnisfragen basierend auf dem Informationstext:
@@ -95,7 +95,45 @@ Hier sind vier Verständnisfragen basierend auf dem Informationstext:
 
 Diese Fragen bieten einen klaren Überblick über die Schlüsselthemen des Textes und dienen als effektives Mittel, um das Verständnis der Schülerinnen und Schüler zu überprüfen. Es zeigt auch das Potenzial von ChatGPT, schnell und präzise __pädagogische__ Inhalte zu erstellen.
 
+## Eine Geschichte aus verschiedenen Perspektiven
 
+Nachdem ich die ersten Ergebnisse von ChatGPT gesehen hatte, war ich positiv überrascht und dachte mir: "Da ist noch mehr drin!" Besonders in unserer komplexen Welt gibt es selten ein klares Richtig oder Falsch. Vielmehr sind Perspektiven, Gewichtungen und Bewertungen von Argumenten und Fakten entscheidend. An dieser Stelle entschied ich mich, von der Norm abzuweichen und ChatGPT wirklich herauszufordern.
+
+Besonders bei historischen oder kulturellen Themen wollte ich immer verschiedene Perspektiven aufzeigen und darstellen, wie unterschiedlich Menschen aufgrund ihrer Biografie, ihres sozialen Standes oder ihres Berufes auf bestimmte Ereignisse reagieren. Solche Materialien sind in herkömmlichen Quellen schwer zu finden. Daher entschied ich mich, in diese Richtung zu gehen, ohne genau zu wissen, was dabei herauskommen würde.
+
+**Prompt:**
+```markdown
+Basierend auf dem von dir verfassten Informationstext, verfasse eine Kurzgeschichte auf Englisch aus der Perspektive eines Schülers, der die Apartheid erlebt hat.
+```
+
+**Ergebnis:**
+```markdown
+In the heart of Johannesburg, in a township known as Soweto, lived a young boy named Thabo. He was a bright, curious, and resilient 12-year-old, living in the harsh reality of Apartheid South Africa in the 1970s.
+
+Every day, Thabo would walk to his school, a humble building with worn-out desks and scarce resources, but filled with eager minds. 
+He would sit in the back of the classroom, listening as the teacher, Mr. Mokoena, taught in English, a language Thabo had come to love. It was a language that connected him to a world beyond the confines of Soweto, a world he dreamt of exploring one day.
+
+In 1976, a new decree came down from the government. Afrikaans, the language of the white minority, was to replace English as the medium of instruction in schools. Thabo felt a sense of injustice. It was as if his dreams were being snatched away, replaced by a language that symbolized oppression and segregation.
+
+One day, Thabo and his classmates decided to take a stand. They joined thousands of other students in a peaceful protest, marching through the streets of Soweto, chanting, "We want to learn in English!" Their young voices echoed through the township, a chorus of defiance against the Apartheid regime.
+
+The peaceful protest, however, was met with unimaginable violence. The police opened fire on the crowd, and chaos ensued. 
+Thabo witnessed scenes that no child should ever see. Friends and classmates fell around him, their dreams silenced forever. 
+He managed to escape, but the images of that day were seared into his memory.
+
+The Soweto Uprising, as it came to be known, sparked outrage around the world. It marked a turning point in the struggle against Apartheid. 
+Thabo, like many others, was deeply affected by the events. He vowed to honor his fallen friends by continuing to fight for justice and equality.
+
+Years later, when Nelson Mandela was released from prison and the Apartheid regime began to crumble, Thabo, now a young man, felt a glimmer of hope. 
+He watched as Mandela, once a prisoner, became the nation's leader, guiding South Africa towards a future of unity and reconciliation.
+
+Thabo's story is a testament to the resilience of the human spirit in the face of oppression. 
+It serves as a reminder of the power of young voices in shaping history, and the enduring hope that fuels the fight for justice and equality.
+```
+
+Das Ergebnis hat mich nicht nur überrascht, ich war regelrecht verblüfft.
+
+### Jede Geschichte braucht einen Titel
 
 
 
