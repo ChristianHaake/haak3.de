@@ -72,7 +72,28 @@ Das Ergebnis war beeindruckend und umfasste eine Liste von Vokabelhilfen, die de
 - **Prime Minister** - Der Leiter einer gewählten Regierung.
 ```
 
+### Einfache Verständnisfragen
 
+Im nächsten Schritt meines Prozesses entschied ich mich, vier einfache Verständnisfragen zu erstellen. Dies ist zwar kein revolutionäres Konzept, aber es dient als solider Ausgangspunkt, um die Fähigkeiten von ChatGPT im Bildungsbereich zu testen.
+
+**Prompt:**
+
+```markdown
+Basierend auf dem Informationstext, erstelle vier Verständnisfragen.
+```
+
+Nachdem ich den Prompt an ChatGPT weitergegeben hatte, erhielt ich folgendes Ergebnis:
+
+```markdown
+Hier sind vier Verständnisfragen basierend auf dem Informationstext:
+
+1. Was war das Hauptziel der 1948 von der National Party in Südafrika umgesetzten Apartheid-Politik?
+2. Was waren die während der Apartheid-Ära eingerichteten "Homelands", und welchen Zweck hatten sie?
+3. Beschreiben Sie die Ereignisse, die 1976 in Soweto stattfanden, und ihre Auswirkungen auf das Apartheid-Regime.
+4. Wie trugen die Rollen von Nelson Mandela und Frederik Willem de Klerk zum Ende der Apartheid in Südafrika bei?
+```
+
+Diese Fragen bieten einen klaren Überblick über die Schlüsselthemen des Textes und dienen als effektives Mittel, um das Verständnis der Schülerinnen und Schüler zu überprüfen. Es zeigt auch das Potenzial von ChatGPT, schnell und präzise __pädagogische__ Inhalte zu erstellen.
 
 
 
