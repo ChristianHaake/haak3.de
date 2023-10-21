@@ -48,6 +48,29 @@ When the white minority government under the white Prime Minister Frederik Wille
 ```
 ---
 
+Das von ChatGPT generierte Ergebnis übertraf meine Erwartungen. Es war nicht nur gut strukturiert und verständlich, sondern entsprach auch dem Niveau der Schülerinnen und Schüler. Besonders hervorzuheben ist, dass der Text verschiedene Perspektiven bietet und einen direkten Bezug zu den Lebenswelten von Schulkindern herstellt. Dieser Text wird nun als Basis für unsere weiterführende Arbeit mit ChatGPT verwendet.
+
+### Vokabelhilfen
+
+Obwohl der Text insgesamt gut verständlich war, gab es einige Begriffe, die für die Schülerinnen und Schüler möglicherweise neu oder herausfordernd sein könnten. Daher gab ich ChatGPT den folgenden Prompt:
+
+"Erstelle einige Vokabelhilfen zu möglichen schwierigen Wörtern im Text."
+
+Das Ergebnis war beeindruckend und umfasste eine Liste von Vokabelhilfen, die den Schülerinnen und Schülern helfen würden, den Text besser zu verstehen:
+
+```markdown
+- **Apartheid** - Ein System der Rassentrennung oder Diskriminierung aufgrund der Rasse, speziell in Südafrika von 1948 bis 1994.
+- **National Party (NP)** - Eine politische Partei in Südafrika, gegründet 1914 und aufgelöst 1997. Ursprünglich eine nationalistische Partei der Afrikaner, die die Interessen der Afrikaner in Südafrika förderte. Sie war von 1948 bis 1994 die Regierungspartei und setzte die Apartheid-Politik um.
+- **Segregation** - Das Trennen von Personen oder Dingen von anderen.
+- **Homelands** - In Südafrika waren dies Gebiete, die von der Apartheid-Regierung für schwarze Einwohner vorgesehen waren.
+- **Soweto** - Ein Stadtteil der Stadt Johannesburg in Gauteng, Südafrika, der im Süden an das Bergbaugürtel der Stadt grenzt.
+- **Afrikaans** - Eine westgermanische Sprache, die in Südafrika, Namibia und in geringerem Maße in Botswana und Simbabwe gesprochen wird.
+- **Ostracized** - Jemanden aus einer Gesellschaft oder Gruppe ausschließen.
+- **Sanctions** - Maßnahmen, die Länder ergreifen, um andere Länder aus politischen Gründen zu bestrafen oder unter Druck zu setzen.
+- **Charismatic** - Eine fesselnde Anziehungskraft ausüben, die bei anderen Hingabe weckt.
+- **Reform** - Änderungen an etwas vornehmen, um es zu verbessern.
+- **Prime Minister** - Der Leiter einer gewählten Regierung.
+```
 
 
 
