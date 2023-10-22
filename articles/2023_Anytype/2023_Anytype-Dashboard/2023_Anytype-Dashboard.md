@@ -1,4 +1,9 @@
 # Ein Dashboard in Anytype
+In einem meiner vorherigen Artikel habe ich das PARA-System vorgestellt, welches eine effektive Methode zur Informationsorganisation darstellt. [Lesen Sie mehr darüber in meinem Artikel zu PARA in Anytype](https://haak3.de/articles/2023_Anytype/2023_Anytype-mit-PARA/2023_Using-PARA-with-Anytype.html). 
+
+Um jedoch sicherzustellen, dass man rasch alle benötigten Informationen erhält und seine Ziele effizient verfolgen kann, ist ein Dashboard unerlässlich. Ein solches Dashboard dient als zentrale Übersicht und erleichtert den Zugriff auf die wichtigsten Informationen und Aufgaben. 
+
+In Anytype habe ich ein solches Dashboard erstellt, welches ausschließlich auf Inline-Sets basiert. Der Vorteil dabei ist, dass sich das Dashboard automatisch anpasst, je nachdem wie sich meine Informationen und Aufgaben verändern. Dies gewährleistet stets eine aktuelle und relevante Übersicht, die mir hilft, effizient und fokussiert zu arbeiten.
 
 ## Dashboard Übersicht
 ![Dashboard Overview](2023-10-22_Dashboard-Overview.png)
@@ -27,3 +32,4 @@ Obwohl Anytype sich noch in der Beta-Phase befindet, läuft die Software äußer
 
 
 Changelog:
+- inital 
