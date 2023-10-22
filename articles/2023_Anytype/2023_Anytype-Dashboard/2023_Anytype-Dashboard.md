@@ -21,6 +21,13 @@ Das Dashboard in Anytype ist so konzipiert, dass es eine klare und strukturierte
 # PARA Überblick
 ![Dashobaord PARA](2023-10-22_Dashboard-PARA.png)
 
+**Die Strukturierung des Dashboards in Anytype**
+
+Ein effizientes Dashboard in Anytype zeichnet sich durch seine klare Struktur und Benutzerfreundlichkeit aus. Hier sind die Schritte, die ich bei der Erstellung meines Dashboards befolgt habe:
+
+1. **Inline-Sets im List-View für Projekte und Areas**: Als ersten Schritt habe ich Inline-Sets im List-View-Format für Projekte und Arbeitsbereiche (Areas) integriert. Dies ermöglicht einen schnellen und unkomplizierten Zugriff auf alle relevanten Aufgabenbereiche. Mit nur einem Klick kann ich in den jeweiligen Bereich eintauchen und habe sofort alle zugehörigen Informationen und Aufgaben im Blick.
+
+2. **Inline-Sets für Daily Journals**: Als Ergänzung zu den Projekten und Areas habe ich ein Inline-Set für Daily Journals hinzugefügt. Dieses dient dazu, tägliche Notizen, Gedanken und Erkenntnisse festzuhalten. Allerdings muss ich zugeben, dass ich es bisher noch nicht geschafft habe, das Führen eines Daily Journals konsequent in meine tägliche Routine zu integrieren. Es ist jedoch ein Ziel von mir, dies in Zukunft regelmäßiger zu tun, um meine Produktivität und Selbstreflexion weiter zu steigern.
 
 # Sources Überblick
 ![Dashboard Sources](/articles/2023_Anytype/2023_Anytype-Dashboard/2023-10-22_Dashboard-Sources.png)
