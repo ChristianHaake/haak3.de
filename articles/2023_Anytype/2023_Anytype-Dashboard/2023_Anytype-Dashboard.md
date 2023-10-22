@@ -47,15 +47,14 @@ Die effiziente Verwaltung von Prozessen und Meetings ist entscheidend für den E
 
 2. **Meeting-Notes**: Ein weiteres wichtiges Element ist das Inline-Set für Meeting-Notes. Dieses zeigt alle Meetings an, die in dem aktuellen Monat stattfinden oder stattgefunden haben. So behalte ich stets den Überblick über anstehende Besprechungen, kann mich gezielt darauf vorbereiten und verpasse keine wichtigen Termine.
 
------
+----
 
-Obwohl Anytype sich noch in der Beta-Phase befindet, läuft die Software äußerst stabil und zuverlässig. Ich habe bisher keinerlei Probleme im Umgang damit erlebt und finde die Anwendung sehr benutzerfreundlich und effizient. Für alle, die an einem innovativen Tool für das Wissensmanagement und die Informationsorganisation interessiert sind, ist Anytype definitiv einen Blick wert. Die Software kann auf der Webseite Anytype.io heruntergeladen werden.
+Even though Anytype is still in its beta phase, the software operates extremely smoothly and reliably. I have encountered no issues while using it and find the application to be very user-friendly and efficient. For anyone interested in an innovative tool for knowledge management and information organization, Anytype is definitely worth exploring. The software can be downloaded from the Anytype.io website.
 
------
+----
 
-> Dieser Artikel steht unter der Creative Commons Lizenz CC-BY-4.0 und darf unter Angabe der Urheberschaft frei geteilt, verbreitet und bearbeitet werden.
+> This article is licensed under the Creative Commons License CC-BY-4.0 and may be freely shared, distributed, and edited with attribution of authorship.
 > CC-BY-4.0 Christian Haake
-
 
 Changelog:
 - inital 
