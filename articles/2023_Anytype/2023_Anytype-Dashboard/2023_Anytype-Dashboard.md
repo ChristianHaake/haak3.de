@@ -8,6 +8,15 @@ In Anytype habe ich ein solches Dashboard erstellt, welches ausschließlich auf 
 ## Dashboard Übersicht
 ![Dashboard Overview](2023-10-22_Dashboard-Overview.png)
 
+Das Dashboard in Anytype ist so konzipiert, dass es eine klare und strukturierte Übersicht über verschiedene Aspekte Ihrer Arbeit bietet. Es besteht aus fünf Hauptblöcken, die ich im Folgenden Schritt für Schritt erläutern werde:
+
+1. **Projekte und Areas**: Dies ist der erste Block des Dashboards. Hier finden Sie alle laufenden und geplanten Projekte sowie die dazugehörigen Arbeitsbereiche (Areas). Dieser Block gibt Ihnen einen schnellen Überblick über Ihre Hauptaufgaben und Prioritäten.
+
+2. **Resources**: Im zweiten Block werden alle Ressourcen aufgelistet, die Sie für Ihre Projekte und Aufgaben benötigen. Dies können Dokumente, Links, Tools oder andere Materialien sein, die für die erfolgreiche Durchführung Ihrer Projekte wichtig sind.
+
+3. **Prozesse**: Diese repräsentieren umfangreiche Abläufe von unterschiedlichen Projekten und stellen nicht einzelne Aufgaben dar.
+
+4. **Meetingnotes**: Der vierte Block ist den Notizen und Protokollen aus Meetings gewidmet. Hier können Sie alle wichtigen Informationen, Entscheidungen und nächsten Schritte aus Ihren Besprechungen festhalten und leicht darauf zugreifen.
 
 # PARA Überblick
 ![Dashobaord PARA](2023-10-22_Dashboard-PARA.png)
