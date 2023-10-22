@@ -1,17 +1,18 @@
 # Ein Dashboard in Anytype
 
+## Dashboard Übersicht
 ![Dashboard Overview](2023-10-22_Dashboard-Overview.png)
 
+
+# PARA Überblick
 ![Dashobaord PARA](2023-10-22_Dashboard-PARA.png)
 
+
+# Sources Überblick
 ![Dashboard Sources](/articles/2023_Anytype/2023_Anytype-Dashboard/2023-10-22_Dashboard-Sources.png)
 
+# Prozess & Meeting Überblick
 ![Dashboard Task and Meeting](2023-10-22_Dashboard-Meetings.png)
-
-
-
-
-
 
 
 
