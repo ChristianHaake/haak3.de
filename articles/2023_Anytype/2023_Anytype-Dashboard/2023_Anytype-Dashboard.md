@@ -29,8 +29,14 @@ Ein effizientes Dashboard in Anytype zeichnet sich durch seine klare Struktur un
 
 2. **Inline-Sets für Daily Journals**: Als Ergänzung zu den Projekten und Areas habe ich ein Inline-Set für Daily Journals hinzugefügt. Dieses dient dazu, tägliche Notizen, Gedanken und Erkenntnisse festzuhalten. Allerdings muss ich zugeben, dass ich es bisher noch nicht geschafft habe, das Führen eines Daily Journals konsequent in meine tägliche Routine zu integrieren. Es ist jedoch ein Ziel von mir, dies in Zukunft regelmäßiger zu tun, um meine Produktivität und Selbstreflexion weiter zu steigern.
 
-# Sources Überblick
+# Resources Überblick
 ![Dashboard Sources](/articles/2023_Anytype/2023_Anytype-Dashboard/2023-10-22_Dashboard-Sources.png)
+
+Ein zentrales Element meines Dashboards in Anytype ist der Bereich "Ressources". Hier habe ich alle wichtigen Ressourcen und Werkzeuge zusammengefasst, die ich regelmäßig für meine Arbeit und Projekte benötige.
+
+1. **Links zu wichtigen Ressourcen**: Auf der linken Seite des Dashboards habe ich eine Liste mit direkten Links zu meinen wichtigsten Ressourcen erstellt. Diese Links bieten mir einen schnellen Zugriff auf häufig genutzte Tools, Dokumente oder Webseiten, sodass ich nicht ständig nach ihnen suchen muss.
+
+2. **Gallery-View von allen Sets**: Direkt neben der Linkliste befindet sich ein Gallery-View, der alle meine Sets in Anytype visualisiert. Dieser Ansichtsmodus bietet mir einen visuellen Überblick über alle Ressourcen-Sets und ermöglicht es mir, mit nur einem Klick in das jeweilige Set einzutauchen und alle zugehörigen Informationen im Detail zu betrachten.
 
 # Prozess & Meeting Überblick
 ![Dashboard Task and Meeting](2023-10-22_Dashboard-Meetings.png)
