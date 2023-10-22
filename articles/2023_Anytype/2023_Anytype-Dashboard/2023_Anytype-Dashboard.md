@@ -41,6 +41,11 @@ Ein zentrales Element meines Dashboards in Anytype ist der Bereich "Ressources".
 # Prozess & Meeting Überblick
 ![Dashboard Task and Meeting](2023-10-22_Dashboard-Meetings.png)
 
+Die effiziente Verwaltung von Prozessen und Meetings ist entscheidend für den Erfolg eines Projekts. In meinem Anytype-Dashboard habe ich spezielle Bereiche eingerichtet, um genau diese Aspekte übersichtlich und zugänglich zu gestalten:
+
+1. **Prozess-Übersicht**: Als Erstes habe ich ein Inline-Set integriert, das Tasks nach dem Typ "Prozess" filtert. Hierbei handelt es sich um umfangreiche und fortlaufende Prozesse, die einen erheblichen Teil meiner Arbeit ausmachen. Durch diese spezielle Darstellung erhalte ich auf einen Blick eine klare Vorstellung davon, welche Prozesse aktuell in Gang sind und wo eventuell Handlungsbedarf besteht.
+
+2. **Meeting-Notes**: Ein weiteres wichtiges Element ist das Inline-Set für Meeting-Notes. Dieses zeigt alle Meetings an, die in dem aktuellen Monat stattfinden oder stattgefunden haben. So behalte ich stets den Überblick über anstehende Besprechungen, kann mich gezielt darauf vorbereiten und verpasse keine wichtigen Termine.
 
 
 -----
