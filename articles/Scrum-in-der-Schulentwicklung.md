@@ -48,24 +48,19 @@ Transparenz und offene Kommunikation sind ebenfalls zentrale Aspekte von Scrum u
 Abschließend ist die Möglichkeit eines schülerzentrierten Ansatzes von Scrum ein weiterer wesentlicher Aspekt, der die Bedürfnisse und das Feedback der Schüler direkt in den Entwicklungsprozess einbezieht. Dies fördert die Schulentwicklung, die sich an den tatsächlichen Bedürfnissen der Schüler orientiert. Durch die Anwendung von Scrum in der Schulentwicklung kann eine dynamische, reaktionsfähige und kooperative Lernumgebung geschaffen werden, in der das Team – bestehend aus Lehrkräften und Schülern (oder auch anderen Mitgliedern der Schulgemeinschaft) – im Mittelpunkt steht und gemeinsam an der Gestaltung des Bildungsweges arbeitet, während bestimmte Scrum-Elemente modifiziert oder weggelassen werden, um den einzigartigen Anforderungen des schulischen Kontextes gerecht zu werden.
 
 # Rollen im Scrum-Prozess und ihre Analogien in der Schule
-   - Product Owner
-     - Beschreibung der Rolle und Verantwortlichkeiten des Product Owners im Scrum-Prozess
-     - Analogiebildung: Vergleich des Product Owners mit der Schulleitung oder anderen Bildungsverantwortlichen
-     - Diskussion, wie die Schulleitung die Rolle des Product Owners übernehmen und die Vision sowie die pädagogischen Ziele der Schule steuern kann
-   - Scrum Master
-     - Erläuterung der Aufgaben des Scrum Masters, insbesondere der Unterstützung des Teams und der Optimierung von Prozessen
-     - Übertragung auf die Schule: Mögliche Analogien zu Koordinatoren oder pädagogischen Entwicklern
-     - Betrachtung der Rolle des Scrum Masters als Vermittler zwischen Schulleitung und Lehrkräften
-   - Entwicklungsteam
-     - Beschreibung der Zusammensetzung und Funktion des Entwicklungsteams im Scrum-Prozess
-     - Übertragung auf die Schule: Darstellung des Entwicklungsteams als Gruppe von Lehrkräften, Sozialarbeitern, Schülern und ggf. Eltern
-     - Diskussion der Bedeutung von Diversität und interdisziplinärer Zusammenarbeit im Entwicklungsteam
-   - Interaktion zwischen den Rollen
-     - Analyse der Dynamik und Interaktion zwischen Product Owner, Scrum Master und Entwicklungsteam
-     - Überlegungen zur Gestaltung dieser Interaktionen in einem schulischen Umfeld
-   - Herausforderungen und Chancen
-     - Diskussion der Herausforderungen, die sich aus der Anpassung der Scrum-Rollen an die Schulentwicklung ergeben können
-     - Bewertung der Chancen, die sich durch die Einführung von Scrum-Rollen für die Schulentwicklung bieten
+Im Scrum-Prozess sind die Rollen des Product Owners, des Scrum Masters und des Entwicklungsteams entscheidend für den Erfolg des Projekts. Diese Rollen bieten ein effektives Modell, das sich auf die Schulentwicklung übertragen lässt, um dort Prozesse zu optimieren und Innovationen zu fördern.
+
+Der **Product Owner** ist im Scrum für die Vision und Priorisierung der Aufgaben zuständig. In der Schule könnte diese Rolle von der Schulleitung oder Bildungsverantwortlichen eingenommen werden, die die pädagogischen Ziele festlegen und die Entwicklungsrichtung bestimmen. Als Product Owner würde die Schulleitung die Bildungsziele klar kommunizieren und deren Umsetzung im Sinne der Schüler und der Gemeinschaft steuern.
+
+Der **Scrum Master** unterstützt das Team, fördert den Scrum-Prozess und hilft, Hindernisse zu beseitigen. In der Schule könnten Koordinatoren oder pädagogische Entwickler diese Aufgaben übernehmen, indem sie als Vermittler zwischen Schulleitung und Lehrkräften agieren und die Erreichung der pädagogischen Ziele unterstützen.
+
+Das **Entwicklungsteam** besteht im Scrum aus den Fachleuten, die die Arbeitspakete umsetzen. In der Schule kann dieses Team aus Lehrkräften, Sozialarbeitern, Schülern oder gegebenenfalls Eltern bestehen. Ihre Zusammenarbeit ist essentiell, um die Schulentwicklung durch vielfältige Perspektiven und Kompetenzen zu bereichern.
+
+Die **Interaktion zwischen diesen Rollen** ist für die erfolgreiche Anwendung von Scrum unerlässlich. In der Schule muss das Zusammenspiel zwischen Product Owner, Scrum Master und Entwicklungsteam sorgfältig gestaltet werden, um eine effektive Implementierung der Scrum-Methodik zu erreichen und eine Balance zwischen Führung, Unterstützung und operativer Umsetzung zu finden.
+
+Die **Anpassung der Scrum-Rollen an die Schulentwicklung** stellt Herausforderungen dar, bietet aber auch Chancen. Die Herausforderungen bestehen darin, die Rollen so zu modifizieren, dass sie den spezifischen Anforderungen des Bildungsbereichs entsprechen. Die Chancen liegen in der möglichen Steigerung der Effizienz und Qualität der Bildungsprozesse durch die Einführung agiler Praktiken.
+
+Durch eine sorgfältige Anpassung der Scrum-Rollen kann die Schulentwicklung dynamisch und reaktionsfähig gestaltet werden, wobei die Beteiligung aller Akteure entscheidend ist, um die Vorteile dieser agilen Methodik zu realisieren.
 
 # Vorteile von Scrum in der Schulentwicklung
    - Förderung von Teamarbeit und Kollaboration
@@ -146,6 +141,7 @@ Abschließend ist die Möglichkeit eines schülerzentrierten Ansatzes von Scrum 
 # Schlussbetrachtung
    - Zusammenfassung der wichtigsten Erkenntnisse
    - Ausblick auf die Entwicklung und mögliche zukünftige Trends
+   - Relevanz von Führung: Zwischen Kreativer freiheit in der Entwicklung und vorgaben, Sl muss Raum bieten
 
 # Anhang
    - Literaturverzeichnis
