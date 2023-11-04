@@ -9,8 +9,6 @@ Ein integraler Bestandteil von Scrum sind die Werkzeuge und Techniken, die den A
 
 veröffentlicht am .... im ....
 
-Selbstverständlich, hier ist die Gliederung mit dem Header-Format für eine bessere Übersichtlichkeit:
-
 # Einleitung
     - Definition und Relevanz von Agilität in der Schulentwicklung
       - Erläuterung des Begriffs "Agilität" und dessen Bedeutung im Kontext der Schulentwicklung
@@ -102,7 +100,7 @@ Selbstverständlich, hier ist die Gliederung mit dem Header-Format für eine bes
      - Untersuchung, wie Scrum den Fokus auf die Bedürfnisse und das Wohlbefinden der Schüler legt
      - Darstellung der positiven Effekte eines schülerzentrierten Ansatzes auf den Lernerfolg
 
-# 6. Werkzeuge und Techniken
+# Werkzeuge und Techniken
    - Scrum Board und Kanban
      - Beschreibung des Scrum Boards und der Kanban-Methode als zentrale Werkzeuge im Scrum-Prozess
        - Backlog
