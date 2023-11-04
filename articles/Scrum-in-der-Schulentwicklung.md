@@ -10,18 +10,13 @@ Ein integraler Bestandteil von Scrum sind die Werkzeuge und Techniken, die den A
 veröffentlicht am .... im ....
 
 # Einleitung
-    - Definition und Relevanz von Agilität in der Schulentwicklung
-      - Erläuterung des Begriffs "Agilität" und dessen Bedeutung im Kontext der Schulentwicklung
-      - Diskussion der Notwendigkeit adaptiver Methoden in einem sich ständig wandelnden Bildungsumfeld
-    - Scrum als agiles Framework
-      - Kurze Einführung in das Scrum-Framework und seine Grundprinzipien
-      - Überblick darüber, wie Scrum aus der Softwareentwicklung in andere Bereiche übertragen wurde 
-    - Ziel und Motivation des Artikels
-      - Darlegung der Intention hinter dem Artikel und was Leser erwarten können
-      - Identifikation der Zielgruppe (Schuladministratoren, Lehrkräfte, Bildungspolitiker) und deren potenzielle Motivation, sich mit Scrum in der Schulentwicklung auseinanderzusetzen
-    - Verbindung zwischen Scrum und Schulentwicklung
-      - Aufzeigen der Parallelen zwischen den Herausforderungen in der Softwareentwicklung und denen in der Schulentwicklung
-      - Diskussion, wie Scrum-Prinzipien auf Schulentwicklungsprozesse angewendet werden können
+Im Zuge der fortschreitenden Dynamik und Komplexität des Bildungswesens gewinnt die Agilität in der Schulentwicklung zunehmend an Bedeutung. Agilität, ursprünglich ein Konzept aus der Softwareentwicklung, bezeichnet die Fähigkeit einer Organisation, flexibel, anpassungsfähig und schnell auf Veränderungen zu reagieren. In der Schulentwicklung ist diese Wendigkeit entscheidend, um auf die sich ständig ändernden Anforderungen des Bildungsumfelds, wie neue Lehrpläne, technologische Entwicklungen oder gesellschaftliche Veränderungen, effektiv eingehen zu können.
+
+Scrum, als ein agiles Framework, bietet einen strukturierten, aber flexiblen Rahmen für Projekte und Prozesse. Ursprünglich für die Softwareentwicklung konzipiert, hat sich Scrum als übertragbar und nützlich für eine Vielzahl anderer Bereiche erwiesen, einschließlich der Schulentwicklung. Die Grundprinzipien von Scrum – Selbstorganisation, kontinuierliche Reflexion und Verbesserung sowie die Lieferung von Wert in kurzen Zyklen – sind universell anwendbar und können Schulen dabei unterstützen, ihre Entwicklungsprozesse zu optimieren.
+
+Der vorliegende Artikel verfolgt das Ziel, die Relevanz und Anwendbarkeit von Scrum in der Schulentwicklung zu beleuchten. Er richtet sich an Schulleitungen, Lehrkräfte und anderen Bildungsakteuren, die daran interessiert sind, innovative und adaptive Methoden zur Bewältigung der Herausforderungen in der Bildung zu erkunden. Die Leserschaft kann erwarten, Einblicke in die Anpassung und Implementierung von Scrum-Methoden im schulischen Kontext zu erhalten, um die Schulentwicklung proaktiv und effektiv zu gestalten.
+
+Die Verbindung zwischen Scrum und Schulentwicklung liegt in den parallelen Herausforderungen, die beide Bereiche kennzeichnen: die Notwendigkeit, komplexe Probleme zu lösen, die Zusammenarbeit in Teams zu fördern und Projekte in einem sich ständig verändernden Umfeld zu managen. Durch die Anwendung von Scrum-Prinzipien können Schulen eine Struktur schaffen, die es ihnen ermöglicht, auf Veränderungen schnell zu reagieren, die Kommunikation zu verbessern und eine Kultur der kontinuierlichen Verbesserung zu etablieren. Dieser Artikel wird die Möglichkeiten untersuchen, wie Scrum die Schulentwicklung bereichern und unterstützen kann, indem es die Agilität in den Mittelpunkt des schulischen Managements und der pädagogischen Praxis rückt.
 
 # Geschichte und Kontext von Scrum
 Scrum, ein Rahmenwerk, das in den frühen 1990er Jahren seinen Ursprung fand, revolutionierte die Softwareentwicklung mit dem Ziel, Effizienz und Flexibilität in komplexen Projekten zu steigern. Entstanden als Gegenbewegung zu den starren, sequentiellen Entwicklungsmodellen der Vergangenheit, wie dem Wasserfallmodell, bot Scrum eine agile Alternative, die schnell auf sich ändernde Anforderungen und Technologien reagieren konnte. Die Väter von Scrum, Ken Schwaber und Jeff Sutherland, stellten dieses Konzept erstmals 1995 auf der OOPSLA-Konferenz vor, basierend auf empirischen Prozesskontrollen und iterativen Verbesserungen.
