@@ -103,16 +103,24 @@ Selbstverständlich, hier ist die Gliederung mit dem Header-Format für eine bes
      - Darstellung der positiven Effekte eines schülerzentrierten Ansatzes auf den Lernerfolg
 
 # 6. Werkzeuge und Techniken
-   - Vorstellung und Anwendung von Scrum-Tools in der Schule:
-     - Scrum Board mit Kanban (z.B.: Deck in Nextcloud, Edumaps, cryptpad)
+   - Scrum Board und Kanban
+     - Beschreibung des Scrum Boards und der Kanban-Methode als zentrale Werkzeuge im Scrum-Prozess
        - Backlog
        - To do 
        - In Progress 
        - Done 
        - On Hold
-     - Backlog-Management
-     - Iterative Arbeitszyklen (Sprints)
-     - Digitale Tools zur Unterstützung der Scrum-Methodik
+     - Anwendungsmöglichkeiten in der Schulentwicklung und Anpassung an schulische Bedürfnisse
+     - Beispiele für digitale Tools, die das Scrum Board und Kanban unterstützen (z.B. Deck in Nextcloud, Edumaps, Cryptpad)
+   - Backlog-Management
+     - Erläuterung der Bedeutung eines gut gepflegten Product Backlogs für die Schulentwicklung
+     - Diskussion der Methoden zur Priorisierung und Verwaltung des Backlogs in einem schulischen Kontext
+   - Iterative Arbeitszyklen (Sprints)
+     - Beschreibung der Sprint-Struktur und wie diese kurzen, fokussierten Arbeitszyklen zur Schulentwicklung beitragen können
+     - Betrachtung der Anpassung von Sprint-Längen und Zielen an schulische Projekte
+   - Digitale Tools zur Unterstützung der Scrum-Methodik
+     - Vorstellung verschiedener digitaler Tools, die speziell für die Anwendung von Scrum in der Schulentwicklung entwickelt wurden oder angepasst werden können
+     - Diskussion der Vorteile und Herausforderungen bei der Implementierung dieser Tools in den Schulalltag
 
 # 7. Implementierung von Scrum in der Schule
    - Schritte zur Einführung von Scrum in der Schulentwicklung
