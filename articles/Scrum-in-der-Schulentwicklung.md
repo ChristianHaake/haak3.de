@@ -123,14 +123,27 @@ Selbstverständlich, hier ist die Gliederung mit dem Header-Format für eine bes
      - Diskussion der Vorteile und Herausforderungen bei der Implementierung dieser Tools in den Schulalltag
 
 # 7. Implementierung von Scrum in der Schule
-   - Schritte zur Einführung von Scrum in der Schulentwicklung
-     - Differenzierung zwischen komplizierten und komplexen Problemen in der Schulentwicklung
-     - Schulentwicklung findet eigentlich immer zyklisch statt
-     - Keine Verhaftung in ein HJ o der SJ, sondern kurzfristig und themenbezogen
-   - Strategien zur Überwindung von Widerständen und zur Förderung von Akzeptanz
-   - Nutzung von Agilität zur Bewältigung dynamischer und komplexer schulischer Herausforderungen
-     - Agilität in dynamischen Situationen 
-     - Kompliziert vs Komplex
+   - Schritte zur Einführung von Scrum
+     - Detaillierte Beschreibung der initialen Schritte zur Implementierung von Scrum in der Schulentwicklung
+     - Diskussion über die Anpassung von Scrum-Praktiken an den schulischen Kontext
+     - Erörterung der Bedeutung von Pilotprojekten und deren Beitrag zur schrittweisen Einführung
+   - Differenzierung zwischen komplizierten und komplexen Problemen
+     - Analyse der Unterschiede zwischen komplizierten und komplexen Herausforderungen in der Schulentwicklung
+     - Betrachtung, wie Scrum dabei helfen kann, beide Arten von Problemen effektiv zu adressieren
+   - Zyklische Natur der Schulentwicklung
+     - Erläuterung der zyklischen Natur der Schulentwicklung und wie Scrum diesen Prozess unterstützen kann
+     - Diskussion der Vorteile von kurzfristigen, themenbezogenen Sprints gegenüber langfristigen Planungen
+   - Flexibilität gegenüber starren Zeitstrukturen
+     - Diskussion der Notwendigkeit, sich von den traditionellen, halbjährlichen oder jährlichen Entwicklungszyklen zu lösen
+     - Erläuterung, wie Scrum kurzfristige, themenbezogene Entwicklungsprozesse ermöglicht, die schneller auf die Bedürfnisse der Schüler und Lehrkräfte reagieren können
+     - Betrachtung der Vorteile einer flexiblen, agilen Planung, die nicht an Schulhalbjahre oder Schuljahre gebunden ist, sondern dynamisch auf Veränderungen im Bildungsumfeld reagiert
+   - Strategien zur Überwindung von Widerständen
+     - Identifikation potenzieller Widerstände gegen die Einführung von Scrum in Schulen
+     - Entwicklung von Strategien zur Förderung von Akzeptanz und zur Überwindung von Hindernissen
+   - Nutzung von Agilität zur Bewältigung dynamischer Herausforderungen
+     - Diskussion, wie agile Praktiken Schulen dabei unterstützen können, auf dynamische Veränderungen zu reagieren
+     - Beispiele für die erfolgreiche Anwendung von Agilität in komplexen schulischen Situationen
+
 
 # 8. Herausforderungen und Lösungsansätze
    - Neue herangehenseweise
