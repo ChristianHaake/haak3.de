@@ -70,24 +70,16 @@ Die Scrum-Methodik legt zudem großen Wert auf offene Kommunikation und Transpar
 Insgesamt bietet die Anwendung von Scrum in der Schulentwicklung das Potenzial, die Art und Weise, wie Bildungseinrichtungen funktionieren und sich weiterentwickeln, grundlegend zu verbessern. Die hier skizzierten Vorteile sind beispielhaft für die positiven Veränderungen, die Scrum in der Bildungslandschaft bewirken kann, und tragen zu einer effektiveren und inklusiveren Schulumgebung bei.
 
 # Werkzeuge und Techniken
-   - Scrum Board und Kanban
-     - Beschreibung des Scrum Boards und der Kanban-Methode als zentrale Werkzeuge im Scrum-Prozess
-       - Backlog
-       - To do 
-       - In Progress 
-       - Done 
-       - On Hold
-     - Anwendungsmöglichkeiten in der Schulentwicklung und Anpassung an schulische Bedürfnisse
-     - Beispiele für digitale Tools, die das Scrum Board und Kanban unterstützen (z.B. Deck in Nextcloud, Edumaps, Cryptpad)
-   - Backlog-Management
-     - Erläuterung der Bedeutung eines gut gepflegten Product Backlogs für die Schulentwicklung
-     - Diskussion der Methoden zur Priorisierung und Verwaltung des Backlogs in einem schulischen Kontext
-   - Iterative Arbeitszyklen (Sprints)
-     - Beschreibung der Sprint-Struktur und wie diese kurzen, fokussierten Arbeitszyklen zur Schulentwicklung beitragen können
-     - Betrachtung der Anpassung von Sprint-Längen und Zielen an schulische Projekte
-   - Digitale Tools zur Unterstützung der Scrum-Methodik
-     - Vorstellung verschiedener digitaler Tools, die speziell für die Anwendung von Scrum in der Schulentwicklung entwickelt wurden oder angepasst werden können
-     - Diskussion der Vorteile und Herausforderungen bei der Implementierung dieser Tools in den Schulalltag
+
+Die Integration von Scrum in die Schulentwicklung bringt eine Reihe von Werkzeugen und Techniken mit sich, die den Prozess der kontinuierlichen Verbesserung unterstützen. Zentral stehen dabei das Scrum Board und die Kanban-Methode. Diese visuellen Hilfsmittel ermöglichen es, Aufgaben und Projekte übersichtlich zu organisieren und den Fortschritt transparent zu machen. Ein Scrum Board ist typischerweise in Bereiche wie Backlog, To Do, In Progress, Done und On Hold unterteilt, was eine klare Strukturierung der anstehenden und erledigten Aufgaben erlaubt. In der Schulentwicklung können diese Werkzeuge angepasst werden, um Lehrpläne, administrative Aufgaben und extrakurrikulare Projekte zu verwalten. Digitale Tools wie Deck in Nextcloud, Edumaps oder Cryptpad bieten Plattformen, um diese Methoden online zu nutzen und somit die Zusammenarbeit auch außerhalb des Klassenzimmers zu erleichtern.
+
+Ein weiteres wesentliches Instrument innerhalb des Scrum-Frameworks ist das effektive Management des Product Backlogs. Dieses zentrale Verzeichnis, das sämtliche erforderlichen Tätigkeiten und Projekte beinhaltet, ist von kritischer Bedeutung für den Erfolg der Scrum-Anwendung. Die Methoden zur Priorisierung und Verwaltung des Backlogs müssen sorgfältig ausgewählt werden, um sicherzustellen, dass die wichtigsten Aufgaben mit Vorrang behandelt und die Ressourcen effizient genutzt werden.
+
+Die Einführung von iterativen Arbeitszyklen, den sogenannten Sprints, ist ein weiterer Schlüsselaspekt von Scrum. Diese festgelegten Zeitfenster, in denen spezifische Aufgaben erledigt werden sollen, fördern die Konzentration und Effizienz. In der Schulentwicklung können Sprints dazu genutzt werden, um Lehrkräfte und Schüler auf kurzfristige Ziele auszurichten und schnelle, messbare Fortschritte zu erzielen. Die Länge und Ziele der Sprints können dabei flexibel an die Bedürfnisse und den Rhythmus des Schuljahres angepasst werden.
+
+Digitale Tools sind unerlässlich, um die Scrum-Methodik effektiv in den Schulalltag zu integrieren. Viele etablierte Anwendungen, die bereits in anderen Bereichen Verwendung finden, können erfolgreich für die Bedürfnisse der Schulentwicklung angepasst werden. Diese Tools vereinfachen nicht nur die Anwendung von Scrum-Techniken, sondern tragen auch zur Förderung der digitalen Kompetenz bei Lehrkräften und Schülern bei. Bei der Auswahl und Implementierung dieser Tools ist es entscheidend, darauf zu achten, dass sie den Schulbetrieb effektiv unterstützen, nicht zu einer zusätzlichen Belastung werden und sich nahtlos in das bestehende digitale Ökosystem der Bildungseinrichtung integrieren lassen.
+
+Insgesamt bieten die Werkzeuge und Techniken von Scrum eine wertvolle Struktur und Unterstützung für die Schulentwicklung. Sie ermöglichen es Bildungseinrichtungen, agil auf Veränderungen zu reagieren, die Zusammenarbeit zu verbessern und die Bildungsqualität kontinuierlich zu steigern.
 
 # Implementierung von Scrum in der Schule
    - Schritte zur Einführung von Scrum
