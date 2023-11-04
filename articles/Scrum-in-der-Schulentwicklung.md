@@ -9,8 +9,84 @@ Ein integraler Bestandteil von Scrum sind die Werkzeuge und Techniken, die den A
 
 veröffentlicht am .... im ....
 
-## Artikel
+Selbstverständlich, hier ist die Gliederung mit dem Header-Format für eine bessere Übersichtlichkeit:
 
-tbc...
+# 1. Einleitung
+   - Bedeutung von Agilität und adaptiven Methoden in der Schulentwicklung
+   - Identifikation der Zielgruppe und deren Motivation für den Artikel
+
+# 2. Geschichte und Kontext von Scrum
+   - Ursprünge von Scrum in der Softwareentwicklung
+   - Vergleich der Herausforderungen in der Softwareentwicklung mit denen in der Schulentwicklung
+   - Kontextualisierung: Softwareentwicklung als nicht absehbares und an einem diffusen Nutzer orientiertes Vorgehen (als Analogie zur Schule)
+   - Evolution von Scrum und seine Anwendbarkeit in verschiedenen Bereichen
+
+# 3. Das Konzept von Scrum
+   - Erläuterung der Scrum-Prinzipien: Empirismus, Selbstorganisation, kontinuierliche Verbesserung
+   - Detaillierte Beschreibung des Scrum-Prozesses: Artefakte, Ereignisse, Regeln
+   - Anpassung von Scrum an schulische Entwicklungsprozesse
+     - Förderung der Teamarbeit und Kollaboration
+     - Flexibilität und Anpassungsfähigkeit an Veränderungen
+     - Transparenz und Kommunikation
+     - Schülerzentrierter Ansatz
+     - (Exkurs/ Nachwort:) Scrum im Unterricht: Verweis auf deinen Artikel (Niels)
+
+# 4. Rollen im Scrum-Prozess und ihre Analogien in der Schule
+   - **Product Owner:**
+     - Rückzug der Schulleitung in eine moderierende Rolle
+     - Überwachung der rechtlichen Rahmenbedingungen
+   - **Scrum Master:**
+     - Organisation des Teams und Schnittstelle zur Schulleitung
+     - Sicherstellung der Zufriedenheit und Produktivität des Teams
+   - **Entwicklungsteam:**
+     - Zusammensetzung aus Mitgliedern der Schulgemeinschaft
+     - Einbeziehung von Interessierten, Kompetenzträgern und Skeptikern
+
+# 5. Vorteile von Scrum in der Schulentwicklung
+   - Teamarbeit und Kollaboration als Grundpfeiler der Schulentwicklung
+   - Flexibilität und Anpassungsfähigkeit an schulische Veränderungen
+   - Transparenz und Kommunikation als Mittel zur Konfliktlösung
+   - Schülerzentrierter Ansatz und dessen Auswirkungen auf den Lernerfolg
+
+# 6. Werkzeuge und Techniken
+   - Vorstellung und Anwendung von Scrum-Tools in der Schule:
+     - Scrum Board mit Kanban (z.B.: Deck in Nextcloud, Edumaps, cryptpad)
+       - Backlog
+       - To do 
+       - In Progress 
+       - Done 
+       - On Hold
+     - Backlog-Management
+     - Iterative Arbeitszyklen (Sprints)
+     - Digitale Tools zur Unterstützung der Scrum-Methodik
+
+# 7. Implementierung von Scrum in der Schule
+   - Schritte zur Einführung von Scrum in der Schulentwicklung
+     - Differenzierung zwischen komplizierten und komplexen Problemen in der Schulentwicklung
+     - Schulentwicklung findet eigentlich immer zyklisch statt
+     - Keine Verhaftung in ein HJ o der SJ, sondern kurzfristig und themenbezogen
+   - Strategien zur Überwindung von Widerständen und zur Förderung von Akzeptanz
+   - Nutzung von Agilität zur Bewältigung dynamischer und komplexer schulischer Herausforderungen
+     - Agilität in dynamischen Situationen 
+     - Kompliziert vs Komplex
+
+# 8. Herausforderungen und Lösungsansätze
+   - Neue herangehenseweise
+   - Hierarchie freie Arbeit  
+
+
+
+# 9. Schlussbetrachtung
+   - Zusammenfassung der wichtigsten Erkenntnisse
+   - Ausblick auf die Entwicklung und mögliche zukünftige Trends
+
+# 10. Anhang
+   - Literaturverzeichnis
+   - Verweise auf weiterführende Artikel und Ressourcen
+
+
+
 
 ## Links und Quellen
+- [Selbstständiges Lernen durch Scrum](https://digilog.blog/2022/06/02/eigenstaendiges-lernen-durch-scrum/)
+- NLQ Kurs https://openelec.moodle-nds.de/course/view.php?id=125&section=0
