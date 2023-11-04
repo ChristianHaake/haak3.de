@@ -8,7 +8,7 @@
 - [Schulentwicklung im 21.Jh - Netzwerk NordWest](projects/Netzwerk-NordWest/NetzwerNW.md)
 
 ## 📄 Articles 
-- [Scrum in der Schulentwicklung](articles/Scrum-in-der-Schulentwicklung.md) noch nicht veröffentlich
+- Scrum in der Schulentwicklung noch nicht veröffentlich
 - [Meetingnotes Management mit Anytype](/articles/2023_Anytype/2023_Anytype-Meetingnotes/2023_Anytype-Meetingnotes.md)
 - [KI zur Unterrichtsgestaltung nutzen - Am Thema Apartheid](/articles/Unterrichtsentwicklung-mit-KI/2023-11_KI-EN-Apartheid.md)
 - [My Personal Knowledge Management System using the CODE Concept](/articles/2023_Anytype/2023_Mein-PKM_mit-CODE/2023_MY-PKM-with-Code.md) (10/2023)
