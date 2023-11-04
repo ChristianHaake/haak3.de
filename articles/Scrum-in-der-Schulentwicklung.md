@@ -12,14 +12,36 @@ veröffentlicht am .... im ....
 Selbstverständlich, hier ist die Gliederung mit dem Header-Format für eine bessere Übersichtlichkeit:
 
 # 1. Einleitung
-   - Bedeutung von Agilität und adaptiven Methoden in der Schulentwicklung
-   - Identifikation der Zielgruppe und deren Motivation für den Artikel
+    - Definition und Relevanz von Agilität in der Schulentwicklung
+      - Erläuterung des Begriffs "Agilität" und dessen Bedeutung im Kontext der Schulentwicklung
+      - Diskussion der Notwendigkeit adaptiver Methoden in einem sich ständig wandelnden Bildungsumfeld
+    - Scrum als agiles Framework
+      - Kurze Einführung in das Scrum-Framework und seine Grundprinzipien
+      - Überblick darüber, wie Scrum aus der Softwareentwicklung in andere Bereiche übertragen wurde 
+    - Ziel und Motivation des Artikels
+      - Darlegung der Intention hinter dem Artikel und was Leser erwarten können
+      - Identifikation der Zielgruppe (Schuladministratoren, Lehrkräfte, Bildungspolitiker) und deren potenzielle Motivation, sich mit Scrum in der Schulentwicklung auseinanderzusetzen
+    - Verbindung zwischen Scrum und Schulentwicklung
+      - Aufzeigen der Parallelen zwischen den Herausforderungen in der Softwareentwicklung und denen in der Schulentwicklung
+      - Diskussion, wie Scrum-Prinzipien auf Schulentwicklungsprozesse angewendet werden können
 
 # 2. Geschichte und Kontext von Scrum
    - Ursprünge von Scrum in der Softwareentwicklung
-   - Vergleich der Herausforderungen in der Softwareentwicklung mit denen in der Schulentwicklung
+     - Historischer Überblick über die Entstehung von Scrum in der Softwareentwicklung
+     - Beschreibung der ersten Implementierungen und der Entwicklung des Frameworks
+   - Scrum als Antwort auf Unvorhersehbarkeit
+     - Diskussion der Herausforderungen in der Softwareentwicklung, die zur Entwicklung von Scrum geführt haben
+     - Vergleich dieser Herausforderungen mit denen in der Schulentwicklung
+   - Scrum's Evolution und interdisziplinäre Anwendung
+     - Darstellung der Evolution von Scrum über die Softwareentwicklung hinaus
+     - Beispiele für die Anwendung von Scrum in anderen Bereichen und die Übertragbarkeit auf die Schulentwicklung
+   - Scrum im Bildungskontext
+     - Analyse der Anwendbarkeit von Scrum-Prinzipien in der Schulentwicklung
+     - Diskussion der Anpassungen, die für die Anwendung von Scrum in der Schulentwicklung notwendig sind
    - Kontextualisierung: Softwareentwicklung als nicht absehbares und an einem diffusen Nutzer orientiertes Vorgehen (als Analogie zur Schule)
-   - Evolution von Scrum und seine Anwendbarkeit in verschiedenen Bereichen
+   - Vergleich der Entwicklungsprozesse
+     - Gegenüberstellung der iterativen und inkrementellen Natur von Scrum mit traditionellen Schulentwicklungsprozessen
+     - Betrachtung der Vorteile eines agilen Ansatzes in einem dynamischen Bildungsumfeld
 
 # 3. Das Konzept von Scrum
    - Erläuterung der Scrum-Prinzipien: Empirismus, Selbstorganisation, kontinuierliche Verbesserung
