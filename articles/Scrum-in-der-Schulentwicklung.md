@@ -1,7 +1,6 @@
 # Scrum in der Schulentwicklung 
 ## Agiles Management: Scrum als Motor der Schulentwicklung
 
-### Einleitung
 Im Zuge der fortschreitenden Dynamik und Komplexität des Bildungswesens gewinnt die Agilität in der Schulentwicklung zunehmend an Bedeutung. Agilität, ursprünglich ein Konzept aus der Softwareentwicklung, bezeichnet die Fähigkeit einer Organisation, flexibel, anpassungsfähig und schnell auf Veränderungen zu reagieren. In der Schulentwicklung ist diese Wendigkeit entscheidend, um auf die sich ständig ändernden Anforderungen des Bildungsumfelds, wie neue Lehrpläne, technologische Entwicklungen oder gesellschaftliche Veränderungen, effektiv eingehen zu können.
 
 Scrum, als ein agiles Framework, bietet einen strukturierten, aber flexiblen Rahmen für Projekte und Prozesse. Ursprünglich für die Softwareentwicklung konzipiert, hat sich Scrum als übertragbar und nützlich für eine Vielzahl anderer Bereiche erwiesen, einschließlich der Schulentwicklung. Die Grundprinzipien von Scrum – Selbstorganisation, kontinuierliche Reflexion und Verbesserung sowie die Lieferung von Wert in kurzen Zyklen – sind universell anwendbar und können Schulen dabei unterstützen, ihre Entwicklungsprozesse zu optimieren.
