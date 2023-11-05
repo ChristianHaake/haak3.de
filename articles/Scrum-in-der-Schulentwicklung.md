@@ -108,13 +108,6 @@ Die Führungsrolle der Schulleitungen ist in diesem adaptiven Prozess von zentra
 
 Abschließend lässt sich festhalten, dass Scrum das Potenzial hat, die Schulentwicklung nachhaltig zu beeinflussen und zu verbessern. Es fördert eine Kultur der kontinuierlichen Verbesserung und Innovation in Bildungseinrichtungen. Die Implementierung von Scrum in der Schulentwicklung ist ein vielversprechender Ansatz, um Schulen zu befähigen, den Herausforderungen der modernen Bildungslandschaft zu begegnen und die Lernenden optimal auf ihre Zukunft vorzubereiten.
 
-# Anhang
-   - Literaturverzeichnis
-   - Verweise auf weiterführende Artikel und Ressourcen
-
-
-
-
 ## Links und Quellen
 - [Selbstständiges Lernen durch Scrum](https://digilog.blog/2022/06/02/eigenstaendiges-lernen-durch-scrum/)
 - NLQ Kurs https://openelec.moodle-nds.de/course/view.php?id=125&section=0
