@@ -22,7 +22,7 @@ Einige Schlüsselfunktionen und Vorteile des Anytype Meetingnotes Systems sind:
 
 ## Vorlage für Meetingnotizen
 
-[Anytype Meetingnote Template](/articles/2023_Anytype/2023_Anytype-Meetingnotes/2023_Anytype-Note%20Template.png)
+![Anytype Meetingnote Template](/articles/2023_Anytype/2023_Anytype-Meetingnotes/2023_Anytype-Note%20Template.png)
 
 Die effektive Führung von Meetingnotizen erfordert eine klare und einfache Struktur, die es ermöglicht, alle notwendigen Informationen schnell und effizient zu erfassen. Bei der Gestaltung meiner Vorlage für Meetingnotizen habe ich mich auf die wesentlichen Bestandteile konzentriert, die für die Dokumentation und Nachverfolgung von Besprechungsergebnissen unerlässlich sind. 
 
