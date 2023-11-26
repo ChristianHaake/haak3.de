@@ -2,8 +2,9 @@
 
 ## 2023
 
-- [Scrum in der Schulentwicklung](articles/Scrum-in-der-Schulentwicklung.md) noch nicht veröffentlich
-- [Meetingnotes Management mit Anytype](/articles/2023_Anytype/2023_Anytype-Meetingnotes/2023_Anytype-Meetingnotes.md)
+- [Scrum in der Schulentwicklung](articles/Scrum-in-der-Schulentwicklung.md) noch nicht veröffentlich (11/2023)
+- [Meeting Notes Management with Anytype](/articles/2023_Anytype/2023_Anytype-Meetingnotes/2023_Antype-Meetingnotes-EN.md) (11/2023)
+- [Meetingnotes Management mit Anytype](/articles/2023_Anytype/2023_Anytype-Meetingnotes/2023_Anytype-Meetingnotes.md) (11/2023)
 - [KI zur Unterrichtsgestaltung nutzen - Am Thema Apartheid](/articles/Unterrichtsentwicklung-mit-KI/2023-11_KI-EN-Apartheid.md)
 - [My Personal Knowledge Management System using the CODE Concept](/articles/2023_Anytype/2023_Mein-PKM_mit-CODE/2023_MY-PKM-with-Code.md) (10/2023)
 - [Mein Personal Knowledge Management System mit dem CODE Konzept](/articles/2023_Anytype/2023_Mein-PKM_mit-CODE/2023_Mein-PKM_mit-CODE.md) (10/2023)

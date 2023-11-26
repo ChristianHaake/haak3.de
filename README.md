@@ -8,9 +8,9 @@
 - [Schulentwicklung im 21.Jh - Netzwerk NordWest](projects/Netzwerk-NordWest/NetzwerNW.md)
 
 ## 📄 Articles 
-- Scrum in der Schulentwicklung noch nicht veröffentlich
-- [Meetingnotes Management mit Anytype](/articles/2023_Anytype/2023_Anytype-Meetingnotes/2023_Anytype-Meetingnotes.md)
-- [KI zur Unterrichtsgestaltung nutzen - Am Thema Apartheid](/articles/Unterrichtsentwicklung-mit-KI/2023-11_KI-EN-Apartheid.md)
+- [Scrum in der Schulentwicklung](articles/Scrum-in-der-Schulentwicklung.md) noch nicht veröffentlich (11/2023)
+- [Meeting Notes Management with Anytype](/articles/2023_Anytype/2023_Anytype-Meetingnotes/2023_Antype-Meetingnotes-EN.md) (11/2023)
+- [Meetingnotes Management mit Anytype](/articles/2023_Anytype/2023_Anytype-Meetingnotes/2023_Anytype-Meetingnotes.md) (11/2023)
 - [My Personal Knowledge Management System using the CODE Concept](/articles/2023_Anytype/2023_Mein-PKM_mit-CODE/2023_MY-PKM-with-Code.md) (10/2023)
 - [Mein Personal Knowledge Management System mit dem CODE Konzept](/articles/2023_Anytype/2023_Mein-PKM_mit-CODE/2023_Mein-PKM_mit-CODE.md) (10/2023)
 - [Einsatz von Anytype mit PARA & CODER](/articles/2023_Anytype/2023_Anytype-mit-PARA/2023_Using-PARA-with-Anytype.md) (10/2023)
@@ -23,13 +23,13 @@
 
 ## 👨‍🏫 Vorträge und Workshops in (2023)
 
-- [Ki im Fremdsprachenunterricht](/workshop/2023/2023-11_KI%20im%20Fremdsprachenunterricht.pdf)
-- [KI im Sprachenunterricht](workshop/2023/2023-09_KI%20im%20Sprachenunterricht.pdf)
+- [Ki im Fremdsprachenunterricht](/workshop/2023/2023-11_KI%20im%20Fremdsprachenunterricht.pdf) - RLSB
+- [KI im Sprachenunterricht](workshop/2023/2023-09_KI%20im%20Sprachenunterricht.pdf) - RLSB
 - [Bildung & KI](workshop/2023/2023_Bildung%20und%20Ki%20-%20Schulleitertagung%202023.pdf) - Schulleitertagung 2023
-- [Veränderung der Lernkultur](workshop//2023/2023-04_Veränderung%20der%20Lernkultur.pdf)
-- [Tagesveranstaltung an einer Grundschule](workshop/2023/2023_Schilf%20an%20einer%20Grundschule.pdf)
+- [Veränderung der Lernkultur](workshop//2023/2023-04_Veränderung%20der%20Lernkultur.pdf) 
+- [Tagesveranstaltung an einer Grundschule](workshop/2023/2023_Schilf%20an%20einer%20Grundschule.pdf) 
 - [Digitale Selbstorganisation](workshop/2023/2023_Selbstorganisation-Präsenz.pdf)
-- [Die Cloud für Anfänger](workshop/2023/2023_Die%20Cloud%20für%20Anfänger.pdf)
+- [Die Cloud für Anfänger](workshop/2023/2023_Die%20Cloud%20für%20Anfänger.pdf) - Uni OL
 
 [mehr](workshops.md)
 
