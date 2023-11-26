@@ -47,15 +47,14 @@ Efficient management of processes and meetings is crucial for the success of a p
 
 2. **Meeting Notes**: Another important element is the Inline-Set for meeting notes. This displays all meetings that take place or have taken place in the current month. This way, I always keep an overview of upcoming meetings, can prepare specifically for them, and don't miss any important appointments.
 
------
+---
 
-Obwohl Anytype sich noch in der Beta-Phase befindet, läuft die Software äußerst stabil und zuverlässig. Ich habe bisher keinerlei Probleme im Umgang damit erlebt und finde die Anwendung sehr benutzerfreundlich und effizient. Für alle, die an einem innovativen Tool für das Wissensmanagement und die Informationsorganisation interessiert sind, ist Anytype definitiv einen Blick wert. Die Software kann auf der Webseite Anytype.io heruntergeladen werden.
+Even though Anytype is still in its beta phase, the software operates extremely smoothly and reliably. I have encountered no issues while using it and find the application to be very user-friendly and efficient. For anyone interested in an innovative tool for knowledge management and information organization, Anytype is definitely worth exploring. The software can be downloaded from the Anytype.io website.
 
------
+---
 
-> Dieser Artikel steht unter der Creative Commons Lizenz CC-BY-4.0 und darf unter Angabe der Urheberschaft frei geteilt, verbreitet und bearbeitet werden.
+> This article is licensed under the Creative Commons License CC-BY-4.0 and may be freely shared, distributed, and edited with attribution of authorship.
 > CC-BY-4.0 Christian Haake
+Changelog: - initial
 
-
-Changelog:
-- inital 
+---
