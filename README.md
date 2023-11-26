@@ -9,6 +9,8 @@
 
 ## 📄 Articles 
 - [Scrum in der Schulentwicklung](articles/Scrum-in-der-Schulentwicklung.md) noch nicht veröffentlich (11/2023)
+- [Ein Dashboard in Anytype](/articles/2023_Anytype/2023_Anytype-Dashboard/2023_Anytype-Dashboard.md) (11/2023)
+- [A Dashboard in Anytype](/articles/2023_Anytype/2023_Anytype-Dashboard/2023_Anytype-Dashboard-EN.md) (11/2023)
 - [Meeting Notes Management with Anytype](/articles/2023_Anytype/2023_Anytype-Meetingnotes/2023_Antype-Meetingnotes-EN.md) (11/2023)
 - [Meetingnotes Management mit Anytype](/articles/2023_Anytype/2023_Anytype-Meetingnotes/2023_Anytype-Meetingnotes.md) (11/2023)
 - [My Personal Knowledge Management System using the CODE Concept](/articles/2023_Anytype/2023_Mein-PKM_mit-CODE/2023_MY-PKM-with-Code.md) (10/2023)

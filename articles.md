@@ -3,6 +3,8 @@
 ## 2023
 
 - [Scrum in der Schulentwicklung](articles/Scrum-in-der-Schulentwicklung.md) noch nicht veröffentlich (11/2023)
+- [Ein Dashboard in Anytype](/articles/2023_Anytype/2023_Anytype-Dashboard/2023_Anytype-Dashboard.md) (11/2023)
+- [A Dashboard in Anytype](/articles/2023_Anytype/2023_Anytype-Dashboard/2023_Anytype-Dashboard-EN.md) (11/2023)
 - [Meeting Notes Management with Anytype](/articles/2023_Anytype/2023_Anytype-Meetingnotes/2023_Antype-Meetingnotes-EN.md) (11/2023)
 - [Meetingnotes Management mit Anytype](/articles/2023_Anytype/2023_Anytype-Meetingnotes/2023_Anytype-Meetingnotes.md) (11/2023)
 - [KI zur Unterrichtsgestaltung nutzen - Am Thema Apartheid](/articles/Unterrichtsentwicklung-mit-KI/2023-11_KI-EN-Apartheid.md)
