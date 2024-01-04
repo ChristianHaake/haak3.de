@@ -4,11 +4,15 @@
 
 ## 🛠️ laufende Projekte
 - [Nutzung Kl-gestützter Sprachmodelle im Rahmen von Unterrichts- und Schulentwicklung](projects/Ki-und-Schule/ki-und-Schule.md)
-- [Multiperspektivisches Lernprozessdesign](projects/mpLD/mpLD.md)
+- [NLQ DIA:LOG](projects/mpLD/mpLD.md)
 - [Schulentwicklung im 21.Jh - Netzwerk NordWest](projects/Netzwerk-NordWest/NetzwerNW.md)
 
 ## 📄 Articles 
-- [Scrum in der Schulentwicklung](articles/Scrum-in-der-Schulentwicklung.md) noch nicht veröffentlich (11/2023)
+
+- [Infograph: Agiles Manifest der Schulentwicklung](/articles/2024-01-04_Scrum%20in%20der%20Schulentwicklung/2024-01-04_Scrum%20-%20Werte%20Infograph.pdf) (01/2024)
+- [Die Werte des Agilen Manifest in drei Geschmacksrichtungen](articles/2024-01-04_Scrum%20in%20der%20Schulentwicklung/2024-01-04_Die%20Werte%20des%20Agilen%20Manifests.pdf) (01/2024)
+- [Rollenkarten: Personen in Scrum](articles/2024-01-04_Scrum%20in%20der%20Schulentwicklung/2024-01-04_Scrum-Personenkarten.pdf) (01/2024)
+- [Scrum in der Schulentwicklung](articles/Scrum-in-der-Schulentwicklung.md) noch nicht veröffentlich (01/2024)
 - [Ein Dashboard in Anytype](/articles/2023_Anytype/2023_Anytype-Dashboard/2023_Anytype-Dashboard.md) (11/2023)
 - [A Dashboard in Anytype](/articles/2023_Anytype/2023_Anytype-Dashboard/2023_Anytype-Dashboard-EN.md) (11/2023)
 - [Meeting Notes Management with Anytype](/articles/2023_Anytype/2023_Anytype-Meetingnotes/2023_Antype-Meetingnotes-EN.md) (11/2023)
@@ -23,8 +27,14 @@
 
 [mehr](/articles.md)
 
-## 👨‍🏫 Vorträge und Workshops in (2023)
+## 👨‍🏫 Vorträge und Workshops (Ausschnitt)
 
+- [Zeitgemäße Lernkultur - Schwerpunkt Assessmentkultur]
+- [Dialogische Unterrichtseinheitsplanung](https://medienberatung.online/dialog/veranstaltungen/) 
+- [Scrum in der Schulentwicklung]
+- [Ki im Sprachenunterricht]
+- [Differnzierung mit Ki] 
+- [Ausblick in die zukunft von KI - Quicki]
 - [Ki im Fremdsprachenunterricht](/workshop/2023/2023-11_KI%20im%20Fremdsprachenunterricht.pdf) - RLSB
 - [KI im Sprachenunterricht](workshop/2023/2023-09_KI%20im%20Sprachenunterricht.pdf) - RLSB
 - [Bildung & KI](workshop/2023/2023_Bildung%20und%20Ki%20-%20Schulleitertagung%202023.pdf) - Schulleitertagung 2023

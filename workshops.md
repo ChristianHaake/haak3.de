@@ -1,8 +1,17 @@
 # Fortbildungen und Workshops
 
+## 2024
+
+- [Zeitgemäße Lernkultur - Schwerpunkt Assessmentkultur]
+- [Dialogische Unterrichtseinheitsplanung](https://medienberatung.online/dialog/veranstaltungen/) 
+- [Scrum in der Schulentwicklung]
+- [Ki im Sprachenunterricht]
+- [Differnzierung mit Ki] 
+- [Ausblick in die zukunft von KI - Quicki]
+
 ## 2023
-- [Ki im Fremdsprachenunterricht](/workshop/2023/2023-11_KI%20im%20Fremdsprachenunterricht.pdf)
-- [KI im Sprachenunterricht](workshop/2023/2023-09_KI%20im%20Sprachenunterricht.pdf)
+- [Ki im Fremdsprachenunterricht](/workshop/2023/2023-11_KI%20im%20Fremdsprachenunterricht.pdf) - RLSB
+- [KI im Sprachenunterricht](workshop/2023/2023-09_KI%20im%20Sprachenunterricht.pdf) - RLSB
 - [Bildung & KI](workshop/2023/2023_Bildung%20und%20Ki%20-%20Schulleitertagung%202023.pdf) - Schulleitertagung 2023
 - [Veränderung der Lernkultur](workshop//2023/2023-04_Veränderung%20der%20Lernkultur.pdf)
 - [Tagesveranstaltung an einer Grundschule](workshop/2023/2023_Schilf%20an%20einer%20Grundschule.pdf)
