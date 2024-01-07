@@ -2,6 +2,7 @@
 
 ## 2024
 
+- [Listeningaufgaben mit KI](/articles/2024-01_Listeningaufgaben-mi-Ki/2024-01_Listeningaufgaben-mi-Ki.md) - work in Progress
 - [Infograph: Agiles Manifest der Schulentwicklung](/articles/2024-01-04_Scrum%20in%20der%20Schulentwicklung/2024-01-04_Scrum%20-%20Werte%20Infograph.pdf) (01/2024)
 - [Die Werte des Agilen Manifest in drei Geschmacksrichtungen](articles/2024-01-04_Scrum%20in%20der%20Schulentwicklung/2024-01-04_Die%20Werte%20des%20Agilen%20Manifests.pdf) (01/2024)
 - [Rollenkarten: Personen in Scrum](articles/2024-01-04_Scrum%20in%20der%20Schulentwicklung/2024-01-04_Scrum-Personenkarten.pdf) (01/2024)
