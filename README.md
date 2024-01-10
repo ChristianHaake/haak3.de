@@ -17,6 +17,7 @@
 - [A Dashboard in Anytype](/articles/2023_Anytype/2023_Anytype-Dashboard/2023_Anytype-Dashboard-EN.md) (11/2023)
 - [Meeting Notes Management with Anytype](/articles/2023_Anytype/2023_Anytype-Meetingnotes/2023_Antype-Meetingnotes-EN.md) (11/2023)
 - [Meetingnotes Management mit Anytype](/articles/2023_Anytype/2023_Anytype-Meetingnotes/2023_Anytype-Meetingnotes.md) (11/2023)
+- [KI zur Unterrichtsgestaltung nutzen - Am Thema Apartheid](/articles/Unterrichtsentwicklung-mit-KI/2023-11_KI-EN-Apartheid.md)
 - [My Personal Knowledge Management System using the CODE Concept](/articles/2023_Anytype/2023_Mein-PKM_mit-CODE/2023_MY-PKM-with-Code.md) (10/2023)
 - [Mein Personal Knowledge Management System mit dem CODE Konzept](/articles/2023_Anytype/2023_Mein-PKM_mit-CODE/2023_Mein-PKM_mit-CODE.md) (10/2023)
 - [Einsatz von Anytype mit PARA & CODER](/articles/2023_Anytype/2023_Anytype-mit-PARA/2023_Using-PARA-with-Anytype.md) (10/2023)
@@ -31,10 +32,10 @@
 
 - [Zeitgemäße Lernkultur - Schwerpunkt Assessmentkultur]
 - [Dialogische Unterrichtseinheitsplanung](https://medienberatung.online/dialog/veranstaltungen/) 
-- [Scrum in der Schulentwicklung]
-- [Ki im Sprachenunterricht]
+- [Scrum in der Schulentwicklung] - RLSB
+- [Ki im Sprachenunterricht] 
 - [Differnzierung mit Ki] 
-- [Ausblick in die zukunft von KI - Quicki]
+- [Ausblick in die Zukunft von KI - Quicki]
 - [Ki im Fremdsprachenunterricht](/workshop/2023/2023-11_KI%20im%20Fremdsprachenunterricht.pdf) - RLSB
 - [KI im Sprachenunterricht](workshop/2023/2023-09_KI%20im%20Sprachenunterricht.pdf) - RLSB
 - [Bildung & KI](workshop/2023/2023_Bildung%20und%20Ki%20-%20Schulleitertagung%202023.pdf) - Schulleitertagung 2023
