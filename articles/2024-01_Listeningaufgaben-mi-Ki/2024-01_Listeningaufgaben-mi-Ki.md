@@ -1,7 +1,7 @@
 # Listening auf Aufgaben mit KI erstellen
 
 
-Textbasis 
+## Textbasis 
 
 ```markdown
 Pieter sat nervously at the dinner table, his father, a stern police officer, was just finishing his meal. The images from the television were still fresh in Pieter's mind, and he knew he had to speak up.
@@ -33,3 +33,22 @@ Quelle: [KI zur Unterrichtsgestaltung nutzen - Am Thema Apartheid](articles/Unte
 Mit einer kostenlosen Text-to-Speech Webseite die Audiodatei erstellt. Hiervon gibt es sehr viele auf dem Markt, ich habe https://text-to-speech.online verwendet. 
 
 Das Ergebnis können Sie sich hier anhören: [Klick mich](/articles/2024-01_Listeningaufgaben-mi-Ki/2024-01_Echoes%20of%20Soweto%20-%20A%20Young%20Voice%20Against%20Apartheid.mp3)
+
+## Aufgaben
+
+1. Comprehension Questions (Understanding the text):
+- Describe the relationship between Pieter and his father.
+- What was the issue discussed on television that Pieter brings up?
+- How does Pieter's father justify the police actions?
+  
+2. Critical Thinking Questions (Analyzing and interpreting the text):
+- Why do you think Pieter feels strongly about the children's protest?
+- Discuss the father's viewpoint. Do you think it's influenced by his profession?
+- What does this conversation reveal about the society they live in?
+
+3. Creative Task (Applying the text in a new context):
+- Write a diary entry from Pieter's perspective expressing his thoughts after the conversation.
+- Imagine a follow-up conversation where Pieter talks to a friend about this dialogue. Role-play this conversation in pairs.
+- Create a short speech or a letter from Pieter advocating for change in his society, using arguments he might have learned from this discussion.
+
+[Link zum Chat](https://chat.openai.com/share/fa8c3a22-a6e7-4499-a0b8-eaef484eb7da)
