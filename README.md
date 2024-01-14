@@ -9,10 +9,12 @@
 
 ## 📄 Articles 
 
-- [Infograph: Agiles Manifest der Schulentwicklung](/articles/2024-01-04_Scrum%20in%20der%20Schulentwicklung/2024-01-04_Scrum%20-%20Werte%20Infograph.pdf) (01/2024)
+- [Listeningaufgaben mit KI](/articles/2024-01_Listeningaufgaben-mi-Ki/2024-01_Listeningaufgaben-mi-Ki.md) - work in Progress
 - [Infograph: Agiles Manifest der Schulentwicklung](/articles/2024-01-04_Scrum%20in%20der%20Schulentwicklung/2024-01-14_Scrum-Material-Inforgraph.md) (01/2024)
 - [Die Werte des Agilen Manifest in drei Geschmacksrichtungen](/articles/2024-01-04_Scrum%20in%20der%20Schulentwicklung/2024-01-14_Scrum-Material-Agilesmanifest.md) (01/2024)
 - [Rollenkarten: Personen in Scrum](/articles/2024-01-04_Scrum%20in%20der%20Schulentwicklung/2024-01-14_Scrum-Material-Personenkarten.md) (01/2024)
+- [Scrum in der Schulentwicklung](articles/Scrum-in-der-Schulentwicklung.md) on SchulVerwaltung Niedersachsen (01/2024)
+  
 - [Ein Dashboard in Anytype](/articles/2023_Anytype/2023_Anytype-Dashboard/2023_Anytype-Dashboard.md) (11/2023)
 - [A Dashboard in Anytype](/articles/2023_Anytype/2023_Anytype-Dashboard/2023_Anytype-Dashboard-EN.md) (11/2023)
 - [Meeting Notes Management with Anytype](/articles/2023_Anytype/2023_Anytype-Meetingnotes/2023_Antype-Meetingnotes-EN.md) (11/2023)
