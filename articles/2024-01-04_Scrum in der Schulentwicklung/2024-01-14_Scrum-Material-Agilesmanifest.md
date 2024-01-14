@@ -1,11 +1,8 @@
-# Personen in Scrum
-## Transfer der Personenrollen auf den schulischen Kontext (Entwurf)
+# Die Werte des Agilen Manifest in drei Geschmacksrichtungen
+## Definiton des Agiles Manifest in der Schulentwicklung
 
-## Beispiel
-![](/articles/2024-01-04_Scrum%20in%20der%20Schulentwicklung/2024-01%20Scrum-Personenkarten-Entwurf.png) 
-
-Die Rollenkarten für Scrum in der Schulentwicklung sind für Fortbildungszwecke entwickelt worden. Sie bieten eine kreative Übertragung der Scrum-Rollen in den schulischen Kontext. Jede Karte zeigt auf der Vorderseite die Anpassung einer spezifischen Scrum-Rolle für Schulen, während die Rückseite die Zusammenfassung der Originalbeschreibung von Schwaber und Sutherland präsentiert. Diese Karten dienen als Entwurf und Diskussionsgrundlage, um Scrum-Prinzipien effektiv in der Schulentwicklung zu integrieren. Für Interessierte biete ich die Möglichkeit, diese Karten unter der Lizenz CC-BY-SA herunterzuladen, um sie für eigene Zwecke zu nutzen und weiterzuentwickeln.
-
+Die "Adaption des Agilen Manifests in der Schulentwicklung" ist eine methodische Übertragung der agilen Prinzipien aus der Softwareentwicklung in den Bildungsbereich. Sie illustriert die Anwendung agiler Werte in der Schulentwicklung, basierend auf der Vergleichsanalyse der Originale von Beck et al. (2001) und der pädagogischen Interpretation von Stewart et al. (2009). Diese Adaption soll als Diskussionsgrundlage dienen und kann von unserer Webseite heruntergeladen werden. Wir ermutigen zur aktiven Teilnahme an der Diskussion und Weiterentwicklung dieses Konzeptes.
 
 ## Download der Datei 
-[Download](/articles/2024-01-04_Scrum%20in%20der%20Schulentwicklung/2024-01%20Scrum-Personenkarten-Entwurf.pdf)
+[Download](/articles/2024-01-04_Scrum%20in%20der%20Schulentwicklung/2024-01-04_Die%20Werte%20des%20Agilen%20Manifests-Entwurf.pdf)
+

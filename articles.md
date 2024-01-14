@@ -3,9 +3,9 @@
 ## 2024
 
 - [Listeningaufgaben mit KI](/articles/2024-01_Listeningaufgaben-mi-Ki/2024-01_Listeningaufgaben-mi-Ki.md) - work in Progress
-- [Infograph: Agiles Manifest der Schulentwicklung](/articles/2024-01-04_Scrum%20in%20der%20Schulentwicklung/2024-01-04_Scrum%20-%20Werte%20Infograph.pdf) (01/2024)
-- [Die Werte des Agilen Manifest in drei Geschmacksrichtungen](articles/2024-01-04_Scrum%20in%20der%20Schulentwicklung/2024-01-04_Die%20Werte%20des%20Agilen%20Manifests.pdf) (01/2024)
-- [Rollenkarten: Personen in Scrum](articles/2024-01-04_Scrum%20in%20der%20Schulentwicklung/2024-01-04_Scrum-Personenkarten.pdf) (01/2024)
+- [Infograph: Agiles Manifest der Schulentwicklung](/articles/2024-01-04_Scrum%20in%20der%20Schulentwicklung/2024-01-14_Scrum-Material-Inforgraph.md) (01/2024)
+- [Die Werte des Agilen Manifest in drei Geschmacksrichtungen](/articles/2024-01-04_Scrum%20in%20der%20Schulentwicklung/2024-01-14_Scrum-Material-Agilesmanifest.md) (01/2024)
+- [Rollenkarten: Personen in Scrum](/articles/2024-01-04_Scrum%20in%20der%20Schulentwicklung/2024-01-14_Scrum-Material-Personenkarten.md) (01/2024)
 
 ## 2023
 
@@ -22,12 +22,6 @@
 - [Zeitsparen mit Texterweiterungen](/articles/2023-10-13_Rockettypist/2023-10-13_RocketTypist.md) (10/2023)
 - [Ki im Sprachenunterricht](/articles/Ki-im-Sprachenunterricht/2023-10_Ki-im-Sprachenunterricht.md) (10/2023)
 - [KI zur Unterrichtsgestaltung nutzen - Bsp. Nach den Ferien in Hogwarts](/articles/Unterrichtsentwicklung-mit-KI/2023-09_KI-DE-Nach_den_Ferien_in_Hogwarts.md) (09/2023)
-
-
-## 2022
-
-
-## 2021
 
 
 | Mein gesamter Inhalt steht unter CC BY SA 4.0
