@@ -1,1 +1,0 @@
-# Beispiel: Anstrengung und Ausdauer aufrecht erhalten

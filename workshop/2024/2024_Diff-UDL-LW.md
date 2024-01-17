@@ -1,2 +1,0 @@
-# Beispiel: Lerninteresse wecken
-

@@ -1,1 +1,0 @@
-# Beispiel: Wahlmöglichkeiten zur Perzeption
