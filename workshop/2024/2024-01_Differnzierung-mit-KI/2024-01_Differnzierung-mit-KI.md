@@ -1,9 +1,3 @@
----
-title: Differnzierung mit KI
-subtitle: 
-tags: [Inklusion, KI, Unterrichtsentwicklung]
----
-
 # Differnzierung mit KI
 
 Fortbildungsformat: 90 min Workshop
