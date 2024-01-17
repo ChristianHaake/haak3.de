@@ -71,6 +71,3 @@ Abonnieren Sie den Newsletter auf [Github](https://github.com/ChristianHaake/New
 
 | Mein gesamter Inhalt steht unter CC BY SA 4.0
 | The forms, illustrations & blobs were made by Icons8 and Flaticon.
-
-
-[Frohsin](/assets/FroSiN%20Bögen/FroSiN.md)
