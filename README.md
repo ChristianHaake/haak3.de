@@ -72,4 +72,3 @@ Abonnieren Sie den Newsletter auf [Github](https://github.com/ChristianHaake/New
 | Mein gesamter Inhalt steht unter CC BY SA 4.0
 | The forms, illustrations & blobs were made by Icons8 and Flaticon.
 
-[test](/workshop/2024/2024_Diff-UDL-AA.md)
