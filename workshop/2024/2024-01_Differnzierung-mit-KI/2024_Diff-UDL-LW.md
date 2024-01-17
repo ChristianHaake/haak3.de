@@ -1,2 +1,2 @@
-# Beispiel für Lerninteresse wecken
+# Beispiel: Lerninteresse wecken
 
