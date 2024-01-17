@@ -4,11 +4,15 @@ Lerngruppe: Einjährige Berufsfachschule Wirtschaft mit dem Schwerpunkt Handel i
 
 Themenbereich: aktiv Lesen und in der Ausbildung schreiben (Modul 2)
 
+---
+
 __Ausgangslage ist eine Lernsituation der BBS 1 Lüneburg__
 
 In der Lernsituation soll mit Hilfe von zwei Videos auf Youtube die Frage die folgende Frage beantwortet werden:
 
 _Welche Auswirkungen hat der Inhalt des Artikels auf Ihre Einschätzung zu „Wikipedia“?_
+
+---
 
 Im Sinne von UDL und der dinklusiven Adaption möchten wir im Sinne von "Wahlmöglichkeiten zur Perzeption bieten" weiter Wege der Wissensaneingung anbieten. 
 
