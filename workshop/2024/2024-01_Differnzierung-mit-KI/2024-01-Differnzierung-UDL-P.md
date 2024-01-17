@@ -12,7 +12,7 @@ _Welche Auswirkungen hat der Inhalt des Artikels auf Ihre Einschätzung zu „Wi
 Im Sinne von UDL und der dinklusiven Adaption möchten wir im Sinne von "Wahlmöglichkeiten zur Perzeption bieten" weiter Wege der Wissensaneingung anbieten. 
 
 
-1. Schritt: für beide zur Verfügung stehen Youtube Videos erstellen wir Transkripte:
+## 1. Schritt: für beide zur Verfügung stehen Youtube Videos erstellen wir Transkripte:
    - Zum Transkribieren verwende ich den folgenden kostenlosen Dienst - https://huggingface.co/spaces/SteveDigital/free-fast-youtube-url-video-to-text-using-openai-whisper. Auf dem Markt gibt sehr viele Dienste oder lokal installierte Versionen. Der von mir benannte ist nur ein Beispiel. Dies können wir den Lernenden ebenfalls zur Verfügung stellen. 
 
 <details>
@@ -639,4 +639,113 @@ Im Sinne von UDL und der dinklusiven Adaption möchten wir im Sinne von "Wahlmö
     ARD.
 </details>
 
-2. Schritt
+
+## 2. Schritt: Wir erstellen mit ChatGPT für beide Videos kleine Verständnisfragen. 
+
+Link zum Chat von [ChatGPT]()
+
+Prompt: "Du bist Berufsschullehrer in der Einjährige Berufsfachschule Wirtschaft mit dem Schwerpunkt Handel im Fach Deutsch/Kommunikation
+
+Der Themenbereich: aktiv Lesen und in der Ausbildung schreiben (Modul 2)
+
+Erstelle für das folgende Youtube Video 4  Verständnisfragen. Diese sollen die Kerninhalte erfragen.
+Hier ist das Transkript: 
+
+-- hier kommt das Transkript --
+
+Ergebnis:
+
+1. Video: Frag Fred: Wie funktioniert Wikipedia? | Kindervideos | SRF Kids
+```markdown
+Basierend auf dem bereitgestellten Transkript über Wikipedia, hier sind vier Verständnisfragen, die die Kerninhalte des Videos abfragen:
+
+1. Was ist die Wikipedia und wie setzt sich ihr Name zusammen? Erläutere die Bedeutung des Namens.
+2. Wer kann Artikel für Wikipedia schreiben und wie wird sichergestellt, dass die Informationen korrekt sind?
+3. Darf man Informationen aus Wikipedia-Artikeln in eigenen Vorträgen verwenden und warum sollte man sie nicht einfach kopieren?
+4. Wird den Autoren (Wikipedianern) für ihre Beiträge in Wikipedia bezahlt? Erkläre, wie Wikipedia finanziert wird und warum es keine Werbung auf der Plattform gibt.
+```
+
+2. Video: Wie leicht lässt sich Wikipedia manipulieren? | PULS | BR
+```markdown
+Basierend auf dem Transkript des YouTube-Videos, hier sind vier Verständnisfragen, die die Kerninhalte abfragen:
+
+1. Wie hoch ist die Nutzung von Wikipedia unter den 20-29-Jährigen in Deutschland und welche Institution verwendet Wikipedia ebenfalls als Referenz?
+2. Was enthüllt die aktuelle Studie über PR-Profis in Bezug auf Wikipedia-Artikel?
+3. Erkläre den Prozess und die Herausforderungen, die das Team im Video erlebte, als es versuchte, Wikipedia-Artikel zu manipulieren.
+4. Welche Rolle spielen Sichter und Administratoren bei Wikipedia und wie wird die Integrität der Artikel sichergestellt?
+```
+
+## 3. Schritt: Erstellung eine Dialogs auf Basis der Tranksripte 
+
+Link zum Chat von [ChatGPT]()
+
+Prompt: ""
+
+Ergebnis: 
+```markdown
+**Titel: "Die Wikipedia-Debatte"**
+
+**Szene:** Zwei Freunde, Alex und Max, treffen sich in einem gemütlichen Café. Während sie ihren Kaffee genießen, entspinnt sich ein Gespräch über ein Projekt, das Alex für die Uni vorbereitet. Er erwähnt, dass er dabei hauptsächlich auf Wikipedia zurückgreift.
+
+**Alex:** Weißt du, ich habe fast mein ganzes Uni-Projekt mit Infos aus Wikipedia gemacht. Einfach unglaublich, wie viel man dort findet.
+
+**Max:** (etwas skeptisch) Wikipedia, hm? Ich weiß nicht so recht. Ich habe da neulich ein Video gesehen, das ziemlich interessante Punkte angesprochen hat.
+
+**Alex:** (überrascht) Wirklich? Ich dachte immer, Wikipedia ist das Nachschlagewerk unserer Generation. Laut einer Studie nutzen knapp 90% der jungen Erwachsenen in Deutschland Wikipedia. Sogar Gerichtsurteile verweisen darauf!
+
+**Max:** Genau, das stimmt. Aber das Video hat auch gezeigt, dass PR-Profis manchmal versuchen, Artikel zu manipulieren. Erinnerst du dich an den Fall mit dem RWE-Mitarbeiter, der kritische Angaben zu einem Kernkraftwerk geändert hat?
+
+**Alex:** Oh, das ist beunruhigend. Aber sind das nicht Einzelfälle?
+
+**Max:** Vielleicht. Aber das Video zeigte auch, wie leicht es ist, kleinere Änderungen durchzubringen, besonders bei Artikeln, die nicht so stark überwacht werden. Manche PR-Leute bauen sich sogar Sichter-Accounts auf, um ihre Inhalte zu veröffentlichen.
+
+**Alex:** (nachdenklich) Das macht mich schon stutzig. Ich dachte immer, jeder kann mitschreiben und dass die Community sich um die Korrektheit kümmert. So wie bei diesem Moritz aus dem Video, der jeden Tag eine Stunde seiner Freizeit investiert, um Wikipedia zu überwachen.
+
+**Max:** Genau das ist der Punkt. Wikipedia ist stark abhängig von Freiwilligen wie Moritz. Sie sorgen dafür, dass Änderungen neutral und korrekt sind. Aber es gibt keine Garantie, dass alles perfekt ist.
+
+**Alex:** Stimmt, ich erinnere mich, dass im Video gesagt wurde, dass Wikipedia zwar eine zuverlässige Quelle ist, aber eben nicht hundertprozentig sicher. Man sollte wohl die Bewertungsbausteine beachten, die anzeigen, ob ein Artikel aktuell oder fehlerhaft ist.
+
+**Max:** Richtig. Und denk an die Geschichte mit dem PULS-Magazin aus dem Video. Sie haben versucht, ihren eigenen Wikipedia-Artikel zu verschönern, aber die Änderungen wurden fast sofort abgelehnt. Das zeigt, dass das System zumindest teilweise funktioniert.
+
+**Alex:** Ja, das beruhigt mich etwas. Aber es zeigt auch, dass man vorsichtig sein muss. Wikipedia ist ein guter Ausgangspunkt, aber für akademische Arbeiten sollte man wahrscheinlich tiefer graben und mehrere Quellen nutzen.
+
+**Max:** Ganz meine Meinung. Es ist eine Frage des kritischen Denkens, nicht nur zu akzeptieren, was man liest, sondern es zu hinterfragen und zu verifizieren.
+
+**Alex:** (lächelnd) Gut, dass wir darüber gesprochen haben. Ich werde mein Projekt nochmal überarbeiten und sicherstellen, dass ich meine Informationen aus verschiedenen Quellen beziehe.
+
+**Max:** (zustimmend) Eine kluge Entscheidung. Und denk dran, Wikipedia ist ein Werkzeug, kein Evangelium.
+
+**Szene Ende.**
+```
+Mit Hilfe eines kostenlosen Online Dienstes erstellen wir ebenfalls eine Audiodatei des Dialogs: [Klick mich](/workshop/2024/2024-01_Differnzierung-mit-KI/Listening-Rollenspiel-Wikipedia.mp3). 
+Mit einer kostenlosen Text-to-Speech Webseite die Audiodatei erstellt. Hiervon gibt es sehr viele auf dem Markt, ich habe https://text-to-speech.online verwendet. 
+
+Im nun letzten Schritt lassen wir von ChatGPT Aufgaben im Anforderungsbereich 3 erstellen. 
+
+Prompt: "Erstelle nun eine Aufgabe zum vorherigen Rollenspiel die dem Anforderungsbereich 3 in Niedersachsen entspricht.
+Eine der Aufgaben soll die eigene Meinung erfragen. Verwende in der Formulierung eine einfache Ausdrucksweise."
+
+Ergebnis: 
+
+_Reduziert_
+
+```
+**Aufgabe zum Rollenspiel "Die Wikipedia-Debatte"**
+
+1. **Aufgabe: Analyse und Reflexion**
+
+Lies das Gespräch zwischen Alex und Max sorgfältig durch. Beschreibe dann, wie Alex und Max jeweils über Wikipedia denken. Nutze dafür Beispiele aus dem Dialog, um deine Punkte zu untermauern. Erkläre, wie ihre Meinungen sich im Verlauf des Gesprächs verändern oder entwickeln.
+
+2. **Aufgabe: Kritische Auseinandersetzung**
+
+In dem Gespräch werden verschiedene Argumente für und gegen die Zuverlässigkeit von Wikipedia genannt. Welche Argumente findest du überzeugend? Begründe deine Meinung mit Beispielen aus dem Dialog oder eigenen Erfahrungen.
+```
+
+## Resume
+
+Zentral steht die Nutzung von Wikipedia als Informationsquelle, reflektiert durch zwei YouTube-Videos mit unterschiedlichen Perspektiven auf Wikipedia. Die Videos werden transkribiert, um allen Lernenden den Zugang zu den Inhalten zu erleichtern. Die Transkripte liefern die Basis für Verständnisfragen und ein Dialog-Skript, das kritische Auseinandersetzung mit der Zuverlässigkeit von Wikipedia fördert.
+
+Der Ansatz nutzt ChatGPT, um Verständnisfragen zu generieren, die das aktive Lesen stärken und zur kritischen Reflexion anregen. Ein Dialog-Skript, das auf den Inhalten der Videos basiert, dient als Grundlage für ein Rollenspiel, wodurch die Lernenden die Thematik aktiv diskutieren und verschiedene Perspektiven einnehmen können.
+
+Die abschließenden Aufgaben im Anforderungsbereich 3 verlangen von den Schülerinnen und Schülern eine tiefergehende Analyse und Reflexion der im Dialog vorgestellten Argumente. Sie sollen die verschiedenen Sichtweisen auf Wikipedia bewerten und eigene, begründete Meinungen formulieren.
+
