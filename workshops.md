@@ -30,3 +30,6 @@
 
 ## 2020
 - [Blended Learning](workshop/2020/2020_Blended%20Learning.pdf) - [Teilnehmerunterlagen](workshop/2020/2020_Blended%20Learning/Blended%20Learning.md)
+
+
+[test](/workshop/2024/2024_Diff-UDL-AA.md)

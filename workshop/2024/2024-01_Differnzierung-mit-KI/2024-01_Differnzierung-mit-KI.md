@@ -4,7 +4,7 @@ Fortbildungsformat: 90 min Workshop
 
 ## Beschreibung
 
-[test](/workshop/2024/2024_Diff-UDL-AA.md)
+
 
 ### Präsentation
 
