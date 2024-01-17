@@ -155,3 +155,214 @@ Diese Version ist für leistungsstärkere Schülerinnen und Schüler wurde der D
 **Cashier:** Here you are. We appreciate your patronage. I wish you an exceptional day!
 
 Audiodatei: [Dialog - At the supermarket - V3 - high](/workshop/2024/2024-01_Differnzierung-mit-KI/Listening-At%20the%20Supermarket-3-high.mp3)
+
+## Listening comprehension Aufgaben
+
+Prompt: "Nun wurden Listening Text auf 3 Lernstufen erstellt.  Erstelle einfach listening comprehension Aufgaben die durch alle 3 Listening Texte beantwortet werden können.  Zielsparache ist Englisch. " 
+
+1. **Identify the Products:**
+   - Listen to the conversation and list all the products the customer wants to buy.
+
+2. **Prices and Quantities:**
+   - How much do the oranges cost per kilogram?
+   - What is the price difference between the premium and standard biscuits?
+   - How many cans of soda does the customer buy and what is the price per can?
+
+3. **Special Offers:**
+   - Is there a special offer on any product? If yes, describe the offer.
+
+4. **Unavailable Item:**
+   - Which item is the customer interested in that is not available in the store?
+
+5. **Final Transaction:**
+   - What is the total amount the customer has to pay?
+   - Does the customer pay the exact amount or require change?
+
+6. **Additional Requests:**
+   - Does the customer ask for anything else at the end of their shopping? If yes, what is it?
+
+7. **Customer Service:**
+   - How does the cashier respond when the customer first speaks in English?
+   - What does the cashier offer at the end of the transaction?
+
+## Übungen zum Themenbereich "Goods, Quantities, and Prices"
+
+Prompt: "Gestalte 3 Aufgaben Die den Themenschwerpunkt “Goods, Quantities und Prices” trainieren. Die Aufgaben sollen kreativ und Abwechslungsreich sein."
+
+Ergebnis:
+
+1. **Role-Play Exercise: "The Supermarket Scenario"**
+   - Teilen Sie die Klasse in Paare auf. Ein Schüler spielt den Kunden und der andere den Kassierer. Der Kunde hat eine Einkaufsliste mit Produkten und Mengenangaben, aber ohne Preise. Der Kassierer hat eine Preisliste. Der Kunde muss die Produkte und die gewünschten Mengen nennen, und der Kassierer muss den Gesamtpreis berechnen. Dies fördert die Kommunikation und das praktische Verständnis von Waren, Mengen und Preisen. 
+   - Variation für fortgeschrittene Lernende: Fügen Sie unerwartete Situationen hinzu, wie z.B. Produkte, die ausverkauft sind, oder spezielle Angebote.
+
+2. **Interactive Quiz: "Price and Quantity Match"**
+   - Erstellen Sie ein interaktives Quiz, bei dem die Schüler Bilder von verschiedenen Produkten sehen und die richtige Menge und den richtigen Preis aus einer Liste von Optionen auswählen müssen. Dies kann als Online-Quiz durchgeführt werden oder als Papier-und-Bleistift-Test, bei dem Bilder von Produkten auf einem Arbeitsblatt abgedruckt sind.
+   - Für eine spielerische Variante kann dies als Wettbewerb gestaltet werden, bei dem Punkte für jede korrekt zugeordnete Menge und Preis vergeben werden.
+
+3. **Creative Writing: "A Day as a Supermarket Manager"**
+   - Fordern Sie die Schüler auf, eine kurze Geschichte oder einen Bericht zu schreiben, in dem sie sich vorstellen, sie seien der Manager eines Supermarkts. In ihrer Geschichte sollen sie beschreiben, wie sie Preise festlegen, Angebote gestalten und auf Lagerbestände achten. 
+   - Diese Aufgabe hilft den Schülern, kreatives Denken mit dem Verständnis von Waren, Mengen und Preisen zu verbinden. Sie können auch Aspekte wie Kundenbetreuung, Marketingstrategien und das Management von Lieferketten einbeziehen.
+
+### Material Entwicklung zur Aufgabe 1: 
+
+Prompt: "Die Aufgabe 1 finde ich gut. Erstelle zu der Aufgabe Swapping Cards. Schwerpunkt soll im Sprechen liegen. "
+
+Ergebnis: 
+
+```markdown
+Für die Rollenspiel-Aufgabe "The Supermarket Scenario" können "Swapping Cards" (Tauschkarten) erstellt werden, die das Sprechen fördern. Hier ist eine Anleitung zur Erstellung und Verwendung dieser Karten:
+
+### Erstellung der Swapping Cards:
+
+1. **Einkaufslisten-Karten (für die Kunden):**
+   - Erstellen Sie Karten mit unterschiedlichen Einkaufslisten. Jede Karte enthält eine Liste von Produkten mit der gewünschten Menge (z.B., "3 kg Äpfel", "2 Flaschen Milch", "1 Packung Kekse"). 
+   - Variieren Sie die Listen, um unterschiedliche Schwierigkeitsgrade und Produktkombinationen anzubieten.
+
+2. **Preislisten-Karten (für die Kassierer):**
+   - Erstellen Sie separate Karten mit Preislisten. Diese Listen sollten Preise für eine Vielzahl von Produkten enthalten. 
+   - Stellen Sie sicher, dass einige Produkte auf den Einkaufslisten nicht auf den Preislisten erscheinen, um realistische Dialoge zu fördern, in denen Kunden nach Alternativen fragen müssen.
+
+### Durchführung des Rollenspiels:
+
+1. **Pairing und Verteilung der Karten:**
+   - Teilen Sie die Schüler in Paare auf und geben Sie jedem Schüler eine Rolle (Kunde oder Kassierer).
+   - Jeder Kunde erhält eine Einkaufslisten-Karte und jeder Kassierer eine Preislisten-Karte.
+
+2. **Rollenspiel:**
+   - Kunden gehen zu verschiedenen Kassierern und fragen nach den Preisen der Artikel auf ihrer Liste. Sie sollten dabei vollständige Sätze verwenden, z.B., "How much does 1 kilo of apples cost?"
+   - Kassierer antworten basierend auf ihrer Preisliste und berechnen den Gesamtpreis. Sie sollten auch vollständige Sätze verwenden, z.B., "1 kilo of apples costs €2.50."
+
+3. **Kartenwechsel (Swapping):**
+   - Nach einigen Interaktionen tauschen die Schüler ihre Karten aus, um mit neuen Listen und Preisen zu arbeiten. Dies fördert die Vielfalt und hält die Aufgabe interessant.
+
+### Ziel der Aufgabe:
+
+Das Ziel dieser Aktivität ist es, das Sprechvermögen im Kontext von Einkaufen, Verhandeln und Umgang mit Zahlen zu fördern. Die Schüler üben dabei, Fragen zu stellen und Informationen auf Englisch klar und präzise zu kommunizieren. Diese Übung hilft auch, das Vertrauen in die Verwendung von Englisch in alltäglichen Situationen zu stärken.
+```
+
+Im nächsten Schritt erstellen wir die dazugehörigen "Swapping Cards". 
+
+Prompt: "Erstelle da Material für die Swapping Cards. Damit ich anschließend nur noch kopieren muss. Erstelle 10 verschiedene Einkaufslisten, es soll jedoch nur eine Preisliste geben. Zielsprache ist Englisch"
+
+Ergebnis:
+```markdown
+Natürlich, hier sind 10 verschiedene Einkaufslisten und eine einheitliche Preisliste für das Rollenspiel. Sie können diese Listen ausdrucken und als Swapping Cards verwenden.
+
+### Einkaufslisten-Karten
+
+**Karte 1:**
+- 2 kg Apples
+- 1 loaf of Bread
+- 3 bottles of Water
+
+**Karte 2:**
+- 1 kg Bananas
+- 500 g Cheese
+- 2 Chocolate Bars
+
+**Karte 3:**
+- 4 Oranges
+- 1 L Milk
+- 1 box of Cereal
+
+**Karte 4:**
+- 5 kg Potatoes
+- 2 cans of Beans
+- 1 bottle of Olive Oil
+
+**Karte 5:**
+- 3 packs of Pasta
+- 1 kg Tomatoes
+- 1 pack of Biscuits
+
+**Karte 6:**
+- 1 kg Chicken
+- 2 Cucumbers
+- 1 jar of Jam
+
+**Karte 7:**
+- 2 packs of Rice
+- 1 kg Carrots
+- 1 Carton of Eggs
+
+**Karte 8:**
+- 6 Yogurts
+- 1 kg Grapes
+- 1 pack of Coffee
+
+**Karte 9:**
+- 2 bottles of Juice
+- 500 g Ham
+- 1 pack of Sugar
+
+**Karte 10:**
+- 1 kg Onions
+- 2 Lettuces
+- 3 cans of Tuna
+
+### Preisliste-Karte
+
+- Apples: €2.00/kg
+- Bananas: €1.50/kg
+- Oranges: €0.50 each
+- Potatoes: €1.00/kg
+- Tomatoes: €2.50/kg
+- Chicken: €5.00/kg
+- Carrots: €1.20/kg
+- Grapes: €3.00/kg
+- Onions: €0.80/kg
+- Bread: €2.50/loaf
+- Water: €0.70/bottle
+- Cheese: €2.00/500g
+- Milk: €0.90/L
+- Cereal: €3.00/box
+- Beans: €1.00/can
+- Olive Oil: €4.00/bottle
+- Pasta: €1.50/pack
+- Biscuits: €1.00/pack
+- Jam: €2.50/jar
+- Rice: €2.00/pack
+- Eggs: €2.50/carton
+- Yogurt: €0.60 each
+- Coffee: €4.00/pack
+- Juice: €1.80/bottle
+- Ham: €3.00/500g
+- Sugar: €1.50/pack
+- Chocolate Bars: €0.80 each
+- Cucumbers: €0.90 each
+- Tuna: €2.00/can
+- Lettuces: €1.00 each
+
+Diese Karten bieten eine Vielzahl von Produkten und Preisen für das Rollenspiel. Sie können zusätzliche Elemente wie saisonale Produkte oder Sonderangebote hinzufügen, um die Übung weiter zu variieren.
+```
+
+Im nächsten Schritt müssen wir noch einge useful phrases erstellen. Dies mache ich mit dem folgenden Prompt: "Erstelle Useful Phrases für die  Schülerinnen und Schüler die mit auf die Karte kopiert werden können. Nehme als Basis die Listening Texte"
+
+Ergebnis: 
+```markdown
+### Useful Phrases for Customers:
+
+- "Could I please have [amount] of [product]?"
+- "How much does [product] cost per [unit]?"
+- "Do you have [product] in stock?"
+- "I would also like to buy [product]."
+- "Can I get [amount] of [product], please?"
+- "Is there a special offer for [product]?"
+- "Could you recommend a good [product]?"
+- "I'm looking for [product]. Where can I find it?"
+- "Do you sell [product] here?"
+- "That’s all for today, thank you."
+
+### Useful Phrases for Cashiers:
+
+- "Welcome! How can I assist you today?"
+- "[Product] costs [price] per [unit]."
+- "We have a special offer on [product] today."
+- "I'm sorry, but we're out of [product]."
+- "Would you like to try our [product] instead?"
+- "The total amount comes to [price]."
+- "Do you need anything else?"
+- "We have both premium and standard [product]."
+- "You can find [product] in aisle [number]."
+- "Thank you for shopping with us!"
+```
