@@ -4,7 +4,7 @@ Lerngruppe: Kaufleute im Einzelhandel im Fach Englisch
 Themenbereich: Goods and Quantaties
 
 Lernsituation: 
-__"Well, the first couple of months of your apprenticeship are over and you know how the daily worklife looks like at your company. Sometimes you are confronted with a difficult situation at the cash desk. There are customers who do not speak German at all and are starting to talk to you in English. This makes some of you feel insecure and uncomfortable and others already enjoy using the English language in the real life. So let’s get started and see how we can improve your skills…" - BBS I Lüneburg__
+__Well, the first couple of months of your apprenticeship are over and you know how the daily worklife looks like at your company. Sometimes you are confronted with a difficult situation at the cash desk. There are customers who do not speak German at all and are starting to talk to you in English. This makes some of you feel insecure and uncomfortable and others already enjoy using the English language in the real life. So let’s get started and see how we can improve your skills… - BBS I Lüneburg__
 
 ## Listeningtext als Grundlage
 
