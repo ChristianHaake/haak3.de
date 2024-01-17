@@ -6,7 +6,7 @@
 - [Dialogische Unterrichtseinheitsplanung](https://medienberatung.online/dialog/veranstaltungen/) 
 - [Scrum in der Schulentwicklung]
 - [Ki im Sprachenunterricht]
-- [Differnzierung mit Ki] 
+- [Differnzierung mit Ki](/workshop/2024/2024-01_Differnzierung-mit-KI/2024-01_Differnzierung-mit-KI.md)
 - [Ausblick in die zukunft von KI - Quicki]
 
 ## 2023
