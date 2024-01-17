@@ -22,7 +22,7 @@
 - [Zeitgemäße Lernkultur - Schwerpunkt Assessmentkultur]
 - [Dialogische Unterrichtseinheitsplanung](https://medienberatung.online/dialog/veranstaltungen/) 
 - [Scrum in der Schulentwicklung](/workshop/2024_Scrum-in-der-Schulentwicklung.md) - RLSB
-- [KI im Sprachenunterricht - Neue Horizonte](/workshop/2024/2024-01_KI-im-Sprachenunterricht/2024-01_KI-im-Sprachenunterricht-Neue-Horizonte.md)
+- [KI im Sprachenunterricht - Neue Horizonte](/workshop/2024-01_KI-im-Sprachenunterricht/2024-01_KI-im-Sprachenunterricht-Neue-Horizonte.md)
 - [Differnzierung mit Ki](/workshop/2024-01_Differnzierung-mit-KI/2024-01_Differnzierung-mit-KI.md)
 - [Ausblick in die Zukunft von KI - Quicki]
 
