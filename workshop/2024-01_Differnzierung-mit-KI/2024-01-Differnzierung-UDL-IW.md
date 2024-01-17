@@ -722,7 +722,7 @@ Ergebnis:
 
 **Szene Ende.**
 ```
-Mit Hilfe eines kostenlosen Online Dienstes erstellen wir ebenfalls eine Audiodatei des Dialogs: [Klick mich](/workshop/2024/2024-01_Differnzierung-mit-KI/Listening-Rollenspiel-Wikipedia.mp3). 
+Mit Hilfe eines kostenlosen Online Dienstes erstellen wir ebenfalls eine Audiodatei des Dialogs: [Klick mich](/workshop/2024-assets/Listening-Rollenspiel-Wikipedia.mp3). 
 Mit einer kostenlosen Text-to-Speech Webseite die Audiodatei erstellt. Hiervon gibt es sehr viele auf dem Markt, ich habe https://text-to-speech.online verwendet. 
 
 Im nun letzten Schritt lassen wir von ChatGPT Aufgaben im Anforderungsbereich 3 erstellen. 
