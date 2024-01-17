@@ -1,1 +1,1 @@
-# Wahlmöglichkeiten für das Verständnis bieten
+# Beispiel: Wahlmöglichkeiten für das Verständnis bieten
