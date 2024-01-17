@@ -37,7 +37,7 @@ Dieser Text wird als Standard gesetzt
 **Customer:** Yes, please, that would be helpful.
 **Cashier:** Here you go. Thank you for shopping with us, and have a great day!
 
-Audiodatei: [Dialog - At the supermarket - V1](/workshop/2024/2024-01_Differnzierung-mit-KI/Listening-At%20the%20Supermarket-1.mp3)
+Audiodatei: [Dialog - At the supermarket - V1](/workshop/2024/2024-01_Differnzierung-mit-KI/Listening-AttheSupermarket-1.mp3)
 
 Eine Wordbank (Wortschatzliste) für den gegebenen Dialog "At the Supermarket": 
 
@@ -121,7 +121,7 @@ Diese Version ist für schwächere Schülerinnen und Schüler. Die grundlegende 
 **Customer:** Yes, please.
 **Cashier:** Here’s your bag. Thank you for shopping. Have a nice day!
 
-Audiodatei: [Dialog - At the supermarket - V2 - Low](/workshop/2024/2024-01_Differnzierung-mit-KI/Listening-At%20the%20Supermarket-2-low.mp3)
+Audiodatei: [Dialog - At the supermarket - V2 - Low](/workshop/2024/2024-01_Differnzierung-mit-KI/Listening-AttheSupermarket-2-low.mp3)
 
 --- 
 
@@ -154,7 +154,7 @@ Diese Version ist für leistungsstärkere Schülerinnen und Schüler wurde der D
 **Customer:** That would be most convenient, thank you.
 **Cashier:** Here you are. We appreciate your patronage. I wish you an exceptional day!
 
-Audiodatei: [Dialog - At the supermarket - V3 - high](/workshop/2024/2024-01_Differnzierung-mit-KI/Listening-At%20the%20Supermarket-3-high.mp3)
+Audiodatei: [Dialog - At the supermarket - V3 - high](/workshop/2024/2024-01_Differnzierung-mit-KI/Listening-AttheSupermarket-3-high.mp3)
 
 ## Listening comprehension Aufgaben
 
