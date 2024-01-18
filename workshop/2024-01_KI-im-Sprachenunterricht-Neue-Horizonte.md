@@ -4,5 +4,5 @@ Der Workshop "KI im Sprachenunterricht - Neue Horizonte" konzentrierte sich auf 
 
 ## Download
 
-- [Präsentation](/workshop/2024-01_KI-im-Sprachenunterricht/2024-01_KIimSprachenunterricht-NeueHorizonte.pdf)
-- [Stationskarten](/workshop/2024-01_KI-im-Sprachenunterricht/2024-01_KIImSprachenunterricht-Stationskarten.pdf)
+- [Präsentation](/workshop/2024-assets/2024-01_KIimSprachenunterricht-NeueHorizonte.pdf)
+- [Stationskarten](/workshop/2024-assets/2024-01_KIImSprachenunterricht-Stationskarten.pdf)
