@@ -1,4 +1,17 @@
 # Wahlmöglichkeiten zur Perzeption
+_Beratung zu digitalen Tools, die individuelle Anpassungen ermöglichen. (Schrift etc)_
+
+Möglichkeiten
+- Entwicklung auditiver Lernmaterialien
+- Erstellung von Transkripten
+- Gestaltung von Unterrichtsmaterialien, die verschiedene Sinnesmodalitäten ansprechen.
+  
+Beispiele:
+- Auditive Materialien: Erstellung eines Podcasts zur Erläuterung eines wissenschaftlichen Konzepts.
+- Transkripte: Bereitstellung von Transkripten für ein historisches Dokumentarvideo.
+- Verschiedene Sinnesmodalitäten: Entwicklung einer interaktiven Präsentation, die visuelle, auditive und haptische Elemente kombiniert.
+
+----
 
 Lerngruppe: Einjährige Berufsfachschule Wirtschaft mit dem Schwerpunkt Handel im Fach Deutsch/Kommunikation
 

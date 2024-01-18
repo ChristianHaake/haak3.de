@@ -1,4 +1,18 @@
 # Beispiel für Anstrengung und Ausdauer aufrecht erhalten
+_...Vorschläge für motivierende Aktivitäten und Strategien zur Förderung von Ausdauer._
+
+Möglichkeiten
+- Tipps für die Gestaltung von Lernzielen, die realistisch und erreichbar sind.
+- Vorschläge für abwechslungsreiche, herausfordernde Aufgaben.
+- Bereitstellung von Unterrichtsmaterialien auf unterschiedlichen Schwierigkeitsgraden, um verschiedenen Lernniveaus gerecht zu werden.
+
+Beispiele:
+- Gestaltung von Lernzielen: Hilfe beim Formulieren von Etappenzielen für ein langfristiges Forschungsprojekt.
+- Herausfordernde Aufgaben: Entwicklung einer komplexen Mathematik-Herausforderung, die kritisches Denken erfordert.
+- Unterschiedliche Schwierigkeitsgrade: Anpassung von Leseaufgaben in der Fremdsprache für unterschiedliche Kompetenzniveaus.
+
+----
+
 
 Lerngruppe: Kaufleute im Einzelhandel im Fach Englisch
 Themenbereich: Goods and Quantaties
