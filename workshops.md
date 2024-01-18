@@ -33,3 +33,6 @@
 
 
 
+[Test](/workshop/2024-01-Differnzierung-UDL-SS.md)
+
+[Anstrengung und Ausdauer aufrecht erhalten](/workshop/2024-01-Differnzierung-UDL-AA.md)
