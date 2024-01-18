@@ -13,7 +13,6 @@ Beispiele:
 
 ----
 
-
 Lerngruppe: Kaufleute im Einzelhandel im Fach Englisch
 Themenbereich: Goods and Quantaties
 

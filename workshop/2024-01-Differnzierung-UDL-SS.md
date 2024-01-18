@@ -12,3 +12,4 @@ Beispiele:
 - Texte in unterschiedlichen Schwierigkeitsgraden: Anpassung eines literarischen Textes auf verschiedene Leseniveaus.
 
 -----
+
