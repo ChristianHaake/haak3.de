@@ -32,7 +32,3 @@
 - [Blended Learning](workshop/2020_Blended%20Learning.pdf) - [Teilnehmerunterlagen](workshop/2020_Blended%20Learning/Blended%20Learning.md)
 
 
-
-[Test](/workshop/2024-01-Differnzierung-UDL-SS.md)
-
-[Anstrengung und Ausdauer aufrecht erhalten](/workshop/2024-01-Differnzierung-UDL-AA.md)
