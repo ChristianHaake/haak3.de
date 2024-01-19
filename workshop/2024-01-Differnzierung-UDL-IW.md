@@ -20,10 +20,9 @@ Disclaimer: Ausgangslage ist eine Arbeitsblatt zum Thema: ADJECTIVES AND ADVERBS
 Es konzentriert sich auf die Vermittlung und Übungen zu Adjektiven und Adverbien im Englischen. Das Material beinhaltet Erklärungen zur Bildung und Anwendung dieser Wortarten, inklusive Beispiele und Übungsaufgaben.
 
 ----
+## Textgrundlage erstellen - Rollenspiel
 
-
-
-
+Hierzu generieren wir zunächst einen Grundlagentext in der Form eines Rollenspiels. 
 
 
 Prompt: 
@@ -33,7 +32,8 @@ Du bist Berufsschullehrer für Födermaterial für die Berufsschule im Fach Engl
 Lerngruppe: Födermaterial für die Berufsschule im Fach Englisch
 Themenbereich: ADJECTIVES AND ADVERBS
 
-—
+-
+
 Erstelle auf Basis der Inhalte der PDF einen Rollenspiel in dem die Lernenden die Anwendung von ADJECTIVES AND ADVERBS üben können.
 
 - Der Kontext des Rollenspiels ist eine Person in der Lehre. 
@@ -41,47 +41,41 @@ Erstelle auf Basis der Inhalte der PDF einen Rollenspiel in dem die Lernenden di
 - Zielsprache ist Englisch
 - Sprachniveau ist B1
 - Verwende folgende Wörter: 
-sad -sadly
-quiet -quietly
-nervous - nervously
-soft - softly
+    - sad 
+    - quiet 
+    - nervous 
+    - soft
+    - good
+    - low
+    - fast
+    - straight
+    - hard
+    - extra
+    - long
+    - happy
+    - angry
+    - slow
+    - careful
+    - excellent
+    - easy
+    - awful
+    - extreme
+    - terrible
+    - wonderful
 
-good -well
-low - low
-fast - fast
-straight  - straight
-hard - hard (hardly=kaum)
-extra - extra
-long - long
-
-happy - happily
-angry - angrily
-(slow)
-(careful)
-(angry)
-(excellent)
-(easy)
-(good)
-(awful)
-extreme
-(terrible
-(careful)
-(wonderful)
-
-
-seem, get, turn, grow, sound, feel, taste, become, smell, look, hear seem, get, turn, grow, sound, feel, taste, become, smell, look, hear
 ```
 
+**Einführung des Rollenspiels**
+_Dies kam erst nach der Erstellung des Dialogs_
+
+Prompt: Describe the Szenario as an introduction for the students
+```
 Welcome to our role-play exercise! Today, you'll step into a real-world situation at a car repair workshop. In this scenario, you are either an apprentice, a senior technician, or a customer. As an apprentice, you're working on a car repair, focusing on details and dealing with nervousness. The senior technician supervises and guides you, offering encouragement and expertise. Meanwhile, a customer is eagerly waiting for their car, showcasing various emotions. 
-
----
-
+```
 
 
-Prompt:
-
-
-Ergebnis: 
+Ergebnis der Prompts zur Erstellung des Rollenspiels: 
+```
 **Title:** A Day at the Workshop
 
 **Characters:** 
@@ -140,10 +134,22 @@ Ergebnis:
 **Alex:** (smiling) "I'm ready for it!"
 
 *(They start tidying up the workspace, preparing for the next job.)*
-
+```
+**Audio als alternativer Aneignungsweg**
 
 Mit Hilfe eines kostenlosen Online Dienstes erstellen wir ebenfalls eine Audiodatei des Dialogs: [Klick mich](/workshop/2024-assets/Listening-A%20Day%20at%20the%20Workshop.mp3). 
 Mit einer kostenlosen Text-to-Speech Webseite die Audiodatei erstellt. Hiervon gibt es sehr viele auf dem Markt, ich habe https://text-to-speech.online verwendet. 
+
+## Weiter Materialien und Aneignungswege erstellen
+
+### Wordbank erstellen
+
+Prompt:
+```
+Use the dialog and create a word bank ADJECTIVES AND ADVERBSADJECTIVES AND ADVERBS. 
+
+Leave space for students to type in the correct answer
+```
 
 **Word Bank: ADJECTIVES AND ADVERBS**
 
@@ -167,7 +173,17 @@ Mit einer kostenlosen Text-to-Speech Webseite die Audiodatei erstellt. Hiervon g
 18. Terrible / Terribly
 19. Wonderful / Wonderfully
 
+### Lückentext zum Rollenspiel erstellen
 
+Prompt:
+```
+Use the dialog and create a word bank ADJECTIVES AND ADVERBSADJECTIVES AND ADVERBS. 
+
+Leave space for students to type in the correct answer
+```
+
+Ergebnis:
+```
 **Title:** A Day at the Workshop
 
 **Characters:** 
@@ -226,10 +242,11 @@ Task:
 2. Identify the blanks where adjectives and adverbs are needed.
 3. Choose the appropriate word from the word bank to fill each blank.
 4. Pay attention to the context to decide whether an adjective or an adverb is suitable.
+```
 
-Die Audiodatei könnte an dieser Stelle auch zur Korrektur verwendent werden. 
+Methodische Idee: Die zuvor erstellte Audiodatei könnte an dieser Stelle auch zur Korrektur verwendent werden. 
 
-## Quiz auf Basis des Dialogs
+### Quiz auf Basis des Dialogs
 Dieses Quiz könnte mit Hilfe von Kahoot oder anderen Tools, nach der Grammatikwiederholung durchgeführt werden.
 
 Quiz: Adjectives and Adverbs in Context
@@ -274,3 +291,61 @@ a) angrily
 b) happily
 c) slowly
 d) carefully
+
+### Speaking: eigenes Rollenspiel
+
+Prompt:
+```
+Die Lernenden sollen nur selbstständig eigene Rollenspiele entwickeln. Erstelle dafür nun 5. Beispiel Szenarien. 
+
+Gebe für alle Beispiele, ebenfalls Useful Phrases und Vorschläge für Wörter an- Beziehe die word bank mit ein.
+```
+
+Ergebnis: 
+```
+Here are five example scenarios for students to develop their own role-plays, along with useful phrases and suggested words incorporating the provided word bank:
+
+1. **At a Restaurant**
+   - Scenario: A customer at a restaurant is trying various dishes and giving feedback to the chef.
+   - Useful Phrases: "This dish tastes __________.", "I'm __________ impressed with the service.", "Could you cook this __________?"
+   - Suggested Words: deliciously, extremely, carefully
+
+2. **Job Interview**
+   - Scenario: A job interview where the applicant describes their skills and experiences.
+   - Useful Phrases: "I handle tasks __________.", "In my previous job, I was known for being __________.", "I learn new skills __________."
+   - Suggested Words: efficiently, reliable, quickly
+
+3. **At a Clothing Store**
+   - Scenario: A customer trying on clothes and interacting with a store assistant.
+   - Useful Phrases: "This fits me __________.", "Do you have this in a __________ size?", "I'm looking for something more __________."
+   - Suggested Words: perfectly, different, stylish
+
+4. **Travel Agency Interaction**
+   - Scenario: A customer planning a vacation with a travel agent, discussing various destinations.
+   - Useful Phrases: "I want my trip to be __________.", "Is this location __________ for families?", "I heard the view there is __________."
+   - Suggested Words: relaxing, suitable, breathtaking
+
+5. **School Project Discussion**
+   - Scenario: Students collaborating on a school project, sharing ideas and planning.
+   - Useful Phrases: "We should approach this topic __________.", "Your idea sounds __________.", "Let's divide the work __________."
+   - Suggested Words: creatively, interesting, evenly
+
+```
+
+## Mögliches Unterrichtsszenario: 
+_Vorschlag_
+
+1. Wiederholung der Grammatik:
+   1. Wissensaneignunng durch:
+      1. Youtube Video
+      2. Arbeitsblatt
+   2. Anwendung 1/2 Übungen
+2. Einführung des Szenarios
+3. Quiz mit Kahoot oder ähnliches als Einstieg und "Assesment" Möglichkeit
+4. GA - Lückentext zum Rollenspiel + word bank
+   1. Korrektur über die Audiodatei bzw. den Dialog.
+5. Sicherung: Vorstellung des Rollenspiels von 1-3 Gruppen
+6. Speaking: Eigene kleine Rollenspiele mit Hilfe eines "Beispiel" Szenarios 
+   1. Optionen:
+      1. Vorstellung vor der Lerngruppe
+      2. Aufnahme des Rollenspiels und einreichen als Lernprodukt
