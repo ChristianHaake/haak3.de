@@ -32,3 +32,4 @@
 - [Blended Learning](workshop/2020_Blended%20Learning.pdf) - [Teilnehmerunterlagen](workshop/2020_Blended%20Learning/Blended%20Learning.md)
 
 
+[test](/workshop/2024-01-Differnzierung-UDL-IW.md)
