@@ -20,6 +20,9 @@ Disclaimer: Ausgangslage ist eine Arbeitsblatt zum Thema: ADJECTIVES AND ADVERBS
 Es konzentriert sich auf die Vermittlung und Übungen zu Adjektiven und Adverbien im Englischen. Das Material beinhaltet Erklärungen zur Bildung und Anwendung dieser Wortarten, inklusive Beispiele und Übungsaufgaben.
 
 ----
+
+**Link zum [Chatverlauf](https://chat.openai.com/share/97a683ae-fdd9-45cc-ac62-e0d377e7ffbc) 
+
 ## Textgrundlage erstellen - Rollenspiel
 
 Hierzu generieren wir zunächst einen Grundlagentext in der Form eines Rollenspiels. 
