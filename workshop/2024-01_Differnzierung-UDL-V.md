@@ -22,3 +22,7 @@ Lerngruppe:
 
 Link zum ChatGPT Verlauf: klick mich
 
+# 
+
+
+# Verlauf als Beispiel
