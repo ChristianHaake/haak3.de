@@ -25,4 +25,10 @@ Link zum ChatGPT Verlauf: klick mich
 # 
 
 
+# Verfassertext zum Text Regeln an einer britischen Schule aus dem Lehrwerk
+In den meisten Lehrwerken der 7. Klasse wird ein Text zu dem Thema dargestellt. .....
+
+
+
+
 # Verlauf als Beispiel
