@@ -207,7 +207,7 @@ Erstelle eine Wortbank mit unterschiedlichen Vorkabeln die Lernende für “1. E
 ```
 
 Ergebnis: 
-```
+```markdown
 Für den Einstieg in das Thema "Regeln und ihre Bedeutung" im Englischunterricht auf A2-Niveau bietet sich folgende Wortbank an. Diese enthält grundlegende Vokabeln, die den Schülerinnen und Schülern helfen, über Regeln in verschiedenen Lebensbereichen zu sprechen und zu reflektieren.
 
 ### Wortbank: "Regeln und ihre Bedeutung"
