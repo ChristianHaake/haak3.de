@@ -265,7 +265,99 @@ Für den Einstieg in das Thema "Regeln und ihre Bedeutung" im Englischunterricht
 Diese Wortbank kann als Referenzmaterial während des Brainstormings oder der Erstellung von Mindmaps verwendet werden. Sie hilft den Lernenden dabei, ihre Gedanken und Ideen präzise auszudrücken und fördert gleichzeitig den Erwerb neuer Vokabeln im Kontext.
 ```
 
+### Lernprodukt zu den Mindmap Ergebnissen
 
+Prompt 
+```
+Nach dem Lernende in “1. Regeln und ihre Bedeutung”  eine Mindmap erstellt, sollen Sie hierzu ein Produkt erstellen. 
+
+Dies kann zum Beispiel sein, dass Sie ein Erklärvideo oder ähnliches zu einem Bereich auf Englisch erstellen. 
+
+Gebe mir weitere Beispiele für Lernproduktziele, sowie die dazugehörigen Arbeitsaufträge und Tipps. 
+Formuliere die Beispiele auf Englisch.
+```
+
+Ergebnis:
+```markdown
+Certainly! Here are several examples of learning product goals related to the topic "Rules and their Significance," along with corresponding assignments and tips for the students. These tasks are designed to encourage creativity, understanding, and application of the English language at an A2 level.
+
+### Example 1: Create an Explainer Video
+
+#### Learning Product Goal
+Create a short explainer video about the rules in one specific area (e.g., school, home, online safety) and explain why these rules are important.
+
+#### Assignment
+- Choose an area where rules apply (like school or home).
+- Write a short script in English explaining the rules and their importance.
+- Record a video presenting these rules. You can use drawings, animations, or act it out.
+
+#### Tips
+- Keep your sentences simple and clear.
+- Use the vocabulary from our word bank.
+- Practice your pronunciation and try to speak clearly.
+
+### Example 2: Design a Poster
+
+#### Learning Product Goal
+Design an informative poster in English highlighting key rules for a specific scenario (e.g., library behavior, road safety).
+
+#### Assignment
+- Select a scenario where rules are essential (like road safety).
+- Create a poster with illustrations and English text explaining the rules.
+- Make sure the poster is visually appealing and informative.
+
+#### Tips
+- Use bullet points for clarity.
+- Include pictures or symbols to make it more engaging.
+- Use colors to highlight important points.
+
+### Example 3: Write a Short Story
+
+#### Learning Product Goal
+Write a short story in English where the main character learns the importance of following rules in a specific context (like online behavior).
+
+#### Assignment
+- Think of a character and a setting.
+- Write a story where your character faces a situation involving rules.
+- Explain how the character learns the importance of these rules.
+
+#### Tips
+- Use past tense verbs for storytelling.
+- Describe the setting and characters to make your story interesting.
+- Include dialogues to make the story lively.
+
+### Example 4: Create a Role-Play
+
+#### Learning Product Goal
+Develop a role-play in English demonstrating a situation where following rules is important (e.g., in a science lab, during a sports game).
+
+#### Assignment
+- Choose a setting for your role-play.
+- Write a script in English where characters interact around specific rules.
+- Perform the role-play with a group, recording it if possible.
+
+#### Tips
+- Use expressions and phrases suitable for dialogues.
+- Practice with your group to ensure smooth delivery.
+- Use props or costumes to make it more realistic.
+
+### Example 5: Compose a Song or Rap
+
+#### Learning Product Goal
+Compose a song or rap in English about the importance of following rules in everyday life.
+
+#### Assignment
+- Choose a rule or a set of rules to focus on.
+- Write lyrics in English that convey the message about these rules.
+- Compose a melody or a rap beat and record your song.
+
+#### Tips
+- Rhyme your lines to make it catchy.
+- Keep the rhythm and flow consistent.
+- Be creative and have fun with the music.
+
+Each of these product goals encourages students to engage with the topic of rules creatively and thoughtfully, applying their English skills in various contexts.
+```
 
 
 
