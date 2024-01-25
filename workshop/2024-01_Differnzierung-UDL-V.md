@@ -97,6 +97,7 @@ Diese Planung kann auf der von Ihnen genannten Webseite kontinuierlich aktualisi
 
 Wie zuvor erwähnt sind es nur Ideen. Im folgenden werde ich mir verschiedene Ebenen herausnehmen, um im Kontext des Differnzierungsansatzes _Wahlmöglichkeiten für das Verständnis_ zu bieten. 
 
+
 # Verfassertext zum Text Regeln an einer britischen Schule aus dem Lehrwerk
 In den meisten Lehrwerken der 7. Klasse wird ein Text zu dem Thema dargestellt. .....
 
