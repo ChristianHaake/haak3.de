@@ -199,7 +199,71 @@ Diese Tippkarten dienen dazu, die Schülerinnen und Schüler beim Brainstorming 
 Diese Tippkarten können entweder als physische Karten verteilt oder als digitaler Inhalt zur Verfügung gestellt werden. Sie eignen sich hervorragend, um Diskussionen und Gedankengänge zu initiieren und die Schülerinnen und Schüler zum Nachdenken über die verschiedenen Bereiche des Lebens anzuregen, in denen Regeln eine Rolle spielen.
 ```
 
+### Wordbank zu 
 
+Prompt:
+```
+Erstelle eine Wortbank mit unterschiedlichen Vorkabeln die Lernende für “1. Einstieg: Regeln und ihre Bedeutung"  benötigen könnten. Denke an das Lernniveau der Lernenden.
+```
+
+Ergebnis: 
+```
+Für den Einstieg in das Thema "Regeln und ihre Bedeutung" im Englischunterricht auf A2-Niveau bietet sich folgende Wortbank an. Diese enthält grundlegende Vokabeln, die den Schülerinnen und Schülern helfen, über Regeln in verschiedenen Lebensbereichen zu sprechen und zu reflektieren.
+
+### Wortbank: "Regeln und ihre Bedeutung"
+
+#### Grundlegende Begriffe
+- Rules (Regeln)
+- Important (wichtig)
+- Follow (befolgen)
+- Break (brechen)
+- Safety (Sicherheit)
+- Respect (Respekt)
+- Behavior (Verhalten)
+
+#### Orte und Personen
+- Home (Zuhause)
+- School (Schule)
+- Public places (Öffentliche Orte)
+- Parents (Eltern)
+- Teachers (Lehrer)
+- Friends (Freunde)
+- Strangers (Fremde)
+
+#### Tätigkeiten und Verhaltensweisen
+- Listen (zuhören)
+- Speak (sprechen)
+- Wait (warten)
+- Share (teilen)
+- Help (helfen)
+- Clean (reinigen)
+- Play (spielen)
+- Study (lernen)
+- Work (arbeiten)
+
+#### Regeln zu Hause und in der Schule
+- Homework (Hausaufgaben)
+- Bedtime (Schlafenszeit)
+- Tidy up (aufräumen)
+- Be polite (höflich sein)
+- Be quiet (leise sein)
+- Raise your hand (die Hand heben)
+- Be on time (pünktlich sein)
+
+#### Sicherheitsregeln
+- Crosswalk (Zebrastreifen)
+- Helmet (Helm)
+- Seatbelt (Sicherheitsgurt)
+- Wash hands (Hände waschen)
+
+#### Online-Verhalten
+- Screen time (Bildschirmzeit)
+- Personal information (persönliche Informationen)
+- Password (Passwort)
+- Download (herunterladen)
+
+Diese Wortbank kann als Referenzmaterial während des Brainstormings oder der Erstellung von Mindmaps verwendet werden. Sie hilft den Lernenden dabei, ihre Gedanken und Ideen präzise auszudrücken und fördert gleichzeitig den Erwerb neuer Vokabeln im Kontext.
+```
 
 
 
