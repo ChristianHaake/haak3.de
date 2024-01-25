@@ -53,7 +53,6 @@ Folgende Ideen habe ich, verwende diese in deinem Vorschlag:
 Iterative werden wir zusätzliche Angebote erstellen.  
 Ich werde den derzeitigen Ist-Zustand der Planung immer auf der folgenden Webseite speichern: https://github.com/ChristianHaake/haak3.de/blob/main/workshop/2024-01_Differnzierung-UDL-V.md
 ```
-
 Ergebnis:
 
 ```markdown
@@ -96,6 +95,7 @@ Die Planung eines differenzierten Unterrichtsmoduls zum Thema „Regeln“ für 
 Diese Planung kann auf der von Ihnen genannten Webseite kontinuierlich aktualisiert und an die Bedürfnisse der Lerngruppe angepasst werden.
 ```
 
+Wie zuvor erwähnt sind es nur Ideen. Im folgenden werde ich mir verschiedene Ebenen herausnehmen, um im Kontext des Differnzierungsansatzes _Wahlmöglichkeiten für das Verständnis_ zu bieten. 
 
 # Verfassertext zum Text Regeln an einer britischen Schule aus dem Lehrwerk
 In den meisten Lehrwerken der 7. Klasse wird ein Text zu dem Thema dargestellt. .....
