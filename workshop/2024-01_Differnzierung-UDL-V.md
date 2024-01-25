@@ -23,7 +23,7 @@ Lerngruppe:
 Link zum ChatGPT Verlauf: klick mich
 
 
-# Erste Ideen zur Planung der Unterrichtseinheit
+## Erste Ideen zur Planung der Unterrichtseinheit
 
 Ich habe im ersten Schritt meine grundsätzliche Ideen zu dieser Einheit in den Prompt aufgenommen. Das Ergebnis ist für mich ein erster Anhaltspunkt um weiter an der Einheit zu arbeiten. 
 
@@ -97,6 +97,112 @@ Diese Planung kann auf der von Ihnen genannten Webseite kontinuierlich aktualisi
 
 Wie zuvor erwähnt sind es nur Ideen. Im folgenden werde ich mir verschiedene Ebenen herausnehmen, um im Kontext des Differnzierungsansatzes _Wahlmöglichkeiten für das Verständnis_ zu bieten. 
 
+## Unterstützungsmaterial zu 1. Einstieg: Regeln und ihre Bedeutung (Vorwissen aktiviern)
+
+
+
+### Dialog zwischen zwei Lernenden
+
+Prompt:
+```
+Erstelle einen Dialog zwischen zwei Lernenden die sich über Regeln in ihrem Leben unterhalten. Dieser soll eine Unterstützungsmöglichkeit für 1. Einstieg: Regeln und ihre Bedeutung sein. Zielsprache ist immer Englisch auf A2 Niveau. 
+
+Nehme ein Ereignis als Ausgangspunkt.
+```
+
+
+Ergebnis: 
+```markdown
+### Dialog: "Talking about Rules"
+
+**Context**: Two students, Max and Emma, are discussing rules in their lives after their teacher introduced the topic in class. The conversation starts with Max arriving late to class.
+
+---
+
+**Max**: (panting) "Sorry, I'm late. The bus was so slow today."
+
+**Emma**: "That's okay, Max. We're just starting to talk about rules. Do you have many rules at home?"
+
+**Max**: "Yeah, a few. My parents always say, 'No video games after 8 pm.' What about you?"
+
+**Emma**: "We have similar rules. My mom says, 'Homework first, then play.' She's strict about it."
+
+**Max**: "Oh, I get that. My dad is strict about my room. He always says, 'Keep your room tidy.' Do you have any rules like that?"
+
+**Emma**: "Yes, my parents are the same. Especially about the kitchen. 'Always clean up after you eat,' they say."
+
+**Max**: "Rules are everywhere, aren’t they? Even in school. Like, 'No running in the hallways.'"
+
+**Emma**: "True. And 'Listen when the teacher is talking.' That’s a big one here."
+
+**Max**: "Do you think these rules are important?"
+
+**Emma**: "I guess they are. They help us stay organized and safe. What do you think?"
+
+**Max**: "I agree. Sometimes they’re annoying, but they make sense. Like, 'Cross the street at the crosswalk.'"
+
+**Emma**: "Exactly. Safety rules are really important. It’s good to follow them."
+
+**Max**: "You're right. Rules can be helpful. I never thought of it that way."
+
+---
+
+This dialogue is designed to be simple and relatable for 7th-grade students at an A2 English level. It introduces the concept of rules in different aspects of life and encourages students to think about the importance and purpose of these rules.
+```
+
+### Tippkarten mit Ideen und Vorschläge zu unterschiedlichen Beispielen
+
+Prompt:
+```
+Erstelle zu "1. Einstieg: Regeln und ihre Bedeutung" unterschiedliche Tippkarten. Zielsprache ist Englisch A2.
+
+Gebe Beispiele die Kindern bekannt sein sollten.
+```
+
+
+Ergebnis:
+```markdown
+### Tippkarten für "1. Einstieg: Regeln und ihre Bedeutung"
+
+Diese Tippkarten dienen dazu, die Schülerinnen und Schüler beim Brainstorming und der Mindmap-Erstellung zum Thema Regeln zu unterstützen. Jede Karte enthält Beispiele für Regeln, die Kindern im Alter von 7. Klasse bekannt sein sollten. 
+
+#### Tippkarte 1: Regeln zu Hause
+- "Always do your homework before watching TV."
+- "Bedtime is at 9 pm on school nights."
+- "No snacks before dinner."
+- "Help with household chores on weekends."
+
+#### Tippkarte 2: Regeln in der Schule
+- "Raise your hand before speaking in class."
+- "No running in the corridors."
+- "Be on time for every class."
+- "Respect your classmates and teachers."
+
+#### Tippkarte 3: Regeln in der Öffentlichkeit
+- "Cross the street at the crosswalk."
+- "Keep the park clean by throwing trash in the bin."
+- "Stay quiet in libraries."
+- "Follow the rules at the swimming pool, like walking, not running."
+
+#### Tippkarte 4: Sicherheitsregeln
+- "Always wear a helmet when riding a bike."
+- "Do not talk to strangers."
+- "Wash your hands before eating."
+- "Fasten your seatbelt in the car."
+
+#### Tippkarte 5: Online-Regeln
+- "Do not share personal information online."
+- "Limit your screen time each day."
+- "Be polite and respectful in online chats."
+- "Do not download things without permission."
+
+Diese Tippkarten können entweder als physische Karten verteilt oder als digitaler Inhalt zur Verfügung gestellt werden. Sie eignen sich hervorragend, um Diskussionen und Gedankengänge zu initiieren und die Schülerinnen und Schüler zum Nachdenken über die verschiedenen Bereiche des Lebens anzuregen, in denen Regeln eine Rolle spielen.
+```
+
+
+
+
+
 
 # Verfassertext zum Text Regeln an einer britischen Schule aus dem Lehrwerk
 In den meisten Lehrwerken der 7. Klasse wird ein Text zu dem Thema dargestellt. .....
@@ -104,4 +210,4 @@ In den meisten Lehrwerken der 7. Klasse wird ein Text zu dem Thema dargestellt. 
 
 
 
-# Verlauf als Beispiel
+
