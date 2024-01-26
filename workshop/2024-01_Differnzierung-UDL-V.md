@@ -98,7 +98,7 @@ Die Planung eines differenzierten Unterrichtsmoduls zum Thema „Regeln“ für 
 Diese Planung kann auf der von Ihnen genannten Webseite kontinuierlich aktualisiert und an die Bedürfnisse der Lerngruppe angepasst werden.
 ```
 
-Wie zuvor erwähnt sind es nur Ideen. Im folgenden werde ich mir verschiedene Ebenen herausnehmen, um im Kontext des Differnzierungsansatzes _Wahlmöglichkeiten für das Verständnis_ zu bieten. 
+Wie zuvor erwähnt sind es nur Ideen. Im folgenden werde ich mir verschiedene Ebenen herausnehmen, um im Kontext des Differnzierungsansatzes _Wahlmöglichkeiten für das Verständnis_ anzubieten. 
 
 ## Unterstützungsmaterial zu 1. Einstieg: Regeln und ihre Bedeutung (Vorwissen aktiviern)
 
@@ -202,7 +202,7 @@ Diese Tippkarten dienen dazu, die Schülerinnen und Schüler beim Brainstorming 
 Diese Tippkarten können entweder als physische Karten verteilt oder als digitaler Inhalt zur Verfügung gestellt werden. Sie eignen sich hervorragend, um Diskussionen und Gedankengänge zu initiieren und die Schülerinnen und Schüler zum Nachdenken über die verschiedenen Bereiche des Lebens anzuregen, in denen Regeln eine Rolle spielen.
 ```
 
-### Wordbank zu 
+### Wordbank zum Themenbereich Regeln
 
 Prompt:
 ```
@@ -362,13 +362,249 @@ Compose a song or rap in English about the importance of following rules in ever
 Each of these product goals encourages students to engage with the topic of rules creatively and thoughtfully, applying their English skills in various contexts.
 ```
 
+## Material zu 6. Entwicklung von Informationsprodukten
 
+Prompt:
+```
+Für  6. Entwicklung von Informationsprodukten müssen Unterstützungsmaterialien entwickelt werden. 
 
+Aktivität: "Schülerinnen und Schüler erstellen verschiedene Produkte (z.B. Poster, Broschüren, Präsentationen, Videos), um neuen Schülerinnen und Schülern einen Überblick über die Regeln der eigenen Schule auf Englisch vorzustellen.” 
 
+- Formuliere die Aufgaben und weitere Angeben auf Englisch im Niveau A2
 
+Mache nun Vorschläge für:
+- Kleinschrittige Aufgabenbeschreibung
+- Unterstützungsmaterialien zur Differnzierung
+- Bewertungshorizont 
+```
 
+Ergebnis: 
+```markdown
+Certainly! Here's a detailed breakdown of the tasks, support materials for differentiation, and assessment criteria for the activity "Creating Information Products" at an A2 English level.
 
+### Task Description
 
+**Objective**: Create an information product in English, like a poster, brochure, presentation, or video, to introduce new students to the rules of our school.
 
+#### Step-by-Step Instructions
+1. **Choose the Product**: Decide if you want to make a poster, brochure, presentation, or video.
+2. **Research**: Gather information about the school rules. You can use your notes, school handbook, or ask teachers.
+3. **Plan Your Content**: Write down the key rules and why they are important. Keep your sentences short and simple.
+4. **Design and Create**: Start creating your product. Use images and clear headings.
+5. **Review and Edit**: Check your work for any mistakes. You can ask a friend or teacher for help.
+6. **Present Your Product**: Share your work with the class or display it in the school.
 
+### Support Materials for Differentiation
+
+- **Templates and Examples**: Provide templates for posters, brochures, and presentations. Show examples of similar products.
+- **Vocabulary Lists**: Offer lists of useful words and phrases related to school rules and instructions.
+- **Peer Feedback Forms**: Create simple forms for peer review to help students give and receive constructive feedback.
+- **Checklists**: Provide checklists for each step to help students stay organized and ensure they cover all necessary points.
+
+### Assessment Criteria
+
+- **Content Accuracy**: The product should correctly and clearly explain the school rules.
+- **Language Use**: Use of simple, clear English appropriate for A2 level. Pay attention to grammar and spelling.
+- **Creativity and Design**: The product should be visually appealing and engaging. Creativity in how the information is presented.
+- **Clarity and Organization**: Information should be well-organized and easy to follow.
+- **Pronunciation and Fluency (for videos and presentations)**: Speak clearly and at an appropriate pace.
+- **Peer Feedback Incorporation**: Show that you have considered and incorporated feedback from peers.
+
+The assessment can be adapted based on the type of product created. Teachers can use these criteria to guide students in their work and to provide constructive feedback. The support materials and step-by-step instructions are designed to help students of varying abilities succeed in this task.
+```
+
+### Unterstützungsmaterial
+
+#### Vokabellisten
+
+Prompt:
+```
+Create **Vocabulary Lists**: Offer lists of useful words and phrases related to school rules and instructions.
+```
+
+Ergebnis:
+```markdown
+### Vocabulary List: School Rules and Instructions
+
+#### Basic Vocabulary
+- Rules (Regeln)
+- School (Schule)
+- Classroom (Klassenzimmer)
+- Teacher (Lehrer)
+- Student (Schüler)
+- Homework (Hausaufgaben)
+- Behavior (Verhalten)
+- Safety (Sicherheit)
+- Respect (Respekt)
+
+#### Actions and Instructions
+- Listen (zuhören)
+- Follow (folgen, befolgen)
+- Obey (befolgen)
+- Respect (respektieren)
+- Complete (vollenden, abschließen)
+- Turn in (abgeben)
+- Raise your hand (die Hand heben)
+- Stay seated (sitzen bleiben)
+- Line up (sich anstellen)
+
+#### Classroom and School Rules
+- Be on time (pünktlich sein)
+- No running (nicht rennen)
+- Keep quiet (leise sein)
+- Share (teilen)
+- Pay attention (aufpassen)
+- Do your best (dein Bestes geben)
+- No bullying (kein Mobbing)
+- Keep the area clean (den Bereich sauber halten)
+- Ask for help (um Hilfe bitten)
+
+#### Equipment and Materials
+- Book (Buch)
+- Notebook (Heft)
+- Pen/Pencil (Stift/Bleistift)
+- Ruler (Lineal)
+- Desk (Schreibtisch)
+- Chair (Stuhl)
+- Computer (Computer)
+- Backpack (Rucksack)
+
+#### Phrases for Asking and Giving Instructions
+- "Can you explain this rule?" (Kannst du diese Regel erklären?)
+- "Please follow the instructions." (Bitte folge den Anweisungen.)
+- "What does this rule mean?" (Was bedeutet diese Regel?)
+- "Remember to..." (Denke daran zu...)
+- "It’s important to..." (Es ist wichtig zu...)
+
+This vocabulary list can be used as a reference for students while they are working on their information products about school rules. It covers basic terms, actions related to following instructions, specific school and classroom rules, necessary equipment, and useful phrases. This list can help students articulate their thoughts more clearly in English and enhance their understanding of the topic.
+```
+#### Feedback form
+
+Prompt:
+```
+Now create a "Peer Feedback Forms: Create simple forms for peer review to help students give and receive constructive feedback."
+```
+
+Ergebnis: 
+```markdown
+### Peer Feedback Form for School Rules Project
+
+#### Student Information
+- **Name of the Student Giving Feedback**: _______________________
+- **Name of the Student Receiving Feedback**: _____________________
+
+#### Content Review
+1. **Accuracy of Information**: Does the project accurately represent the school rules?
+   - [ ] Yes
+   - [ ] Somewhat
+   - [ ] No
+   - **Comments**: ___________________________________________
+
+2. **Completeness**: Did the student include all necessary information about the rules?
+   - [ ] Yes
+   - [ ] Somewhat
+   - [ ] No
+   - **Comments**: ___________________________________________
+
+#### Language Use
+3. **Clarity of Language**: Was the language clear and easy to understand?
+   - [ ] Very clear
+   - [ ] Clear
+   - [ ] Somewhat clear
+   - [ ] Not clear
+   - **Comments**: ___________________________________________
+
+4. **Grammar and Spelling**: Were there many grammar or spelling mistakes?
+   - [ ] None
+   - [ ] A few
+   - [ ] Many
+   - **Comments**: ___________________________________________
+
+#### Presentation and Creativity
+5. **Design and Layout**: How visually appealing is the presentation?
+   - [ ] Very appealing
+   - [ ] Appealing
+   - [ ] Somewhat appealing
+   - [ ] Not appealing
+   - **Comments**: ___________________________________________
+
+6. **Creativity**: How creative is the approach to presenting the rules?
+   - [ ] Very creative
+   - [ ] Creative
+   - [ ] Somewhat creative
+   - [ ] Not creative
+   - **Comments**: ___________________________________________
+
+#### Overall Impression
+7. **Overall Impression**: How effective is the project in presenting school rules?
+   - [ ] Very effective
+   - [ ] Effective
+   - [ ] Somewhat effective
+   - [ ] Not effective
+   - **Comments**: ___________________________________________
+
+#### Suggestions for Improvement
+8. **What did you like most about the project?**
+   - **Response**: ___________________________________________
+
+9. **What can be improved? Please give specific suggestions.**
+   - **Response**: ___________________________________________
+
+---
+
+**Signature of the Student Giving Feedback**: _____________________  
+**Date**: _____________________
+
+This peer feedback form is designed to guide students in providing constructive and detailed feedback on their classmates’ projects about school rules. It covers various aspects of the project, such as content accuracy, language use, presentation, creativity, and overall effectiveness. The form encourages thoughtful responses and specific suggestions for improvement.
+```
+
+#### Checklist for students
+
+Prompt:
+```
+now a "Checklists: Provide checklists for each step to help students stay organized and ensure they cover all necessary points."
+```
+
+Ergebnis:
+```markdown
+### Project Checklist: Creating an Information Product on School Rules
+
+#### Initial Preparation
+- [ ] Choose the type of product (poster, brochure, presentation, video).
+- [ ] Understand the project objectives and guidelines.
+- [ ] Gather initial ideas about school rules to include.
+
+#### Research and Planning
+- [ ] Collect information about school rules from reliable sources.
+- [ ] Make notes of key points to include in the product.
+- [ ] Decide on the layout and structure of your product.
+
+#### Content Creation
+- [ ] Write the text for your product. Keep sentences simple and clear.
+- [ ] Include essential school rules and explain their importance.
+- [ ] Use vocabulary from the provided list.
+
+#### Design and Visuals
+- [ ] For posters and brochures: Create a visually appealing design.
+- [ ] For presentations: Prepare slides with clear headings and bullet points.
+- [ ] For videos: Plan your scenes, script, and any visual aids.
+
+#### Review and Revision
+- [ ] Check your product for any spelling or grammatical errors.
+- [ ] Ensure all information is accurate and complete.
+- [ ] Ask a peer or teacher for feedback and make necessary revisions.
+
+#### Final Preparation
+- [ ] Prepare to present or display your product.
+- [ ] Practice your presentation or rehearse your video if applicable.
+- [ ] Ensure your final product is neat, clear, and ready to be shared.
+
+#### Reflection
+- [ ] After presenting, reflect on what you learned from this project.
+- [ ] Think about what went well and what could be improved for next time.
+
+---
+
+This checklist is designed to guide students through the process of creating an information product about school rules. It helps them stay organized and ensures they cover all necessary steps from initial preparation to the final presentation and reflection.
+```
 
