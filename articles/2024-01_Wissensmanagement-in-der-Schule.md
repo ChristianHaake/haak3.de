@@ -6,11 +6,11 @@
 
 ## Einstieg: 
 Wissensmanagement abhängig von Zielsetzung (als Einstieg ansprechend für SL, da Wissensmanagement so zum Werkzeug wird, um Ziele zu erreichen)
-    - mögliche Ziele
-    - KuK aktivieren
-    - Partizipation
-    - Lernende Organisation sein
-    - Wissen ökonomisch weitergeben
+- Lernende Organisation sein
+- mögliche Ziele
+- KuK aktivieren
+- Partizipation
+- Wissen ökonomisch weitergeben
 
 ## Information vs. Wissen (Abgrenzung und Definition)
 
@@ -26,9 +26,9 @@ Wissensmanagement abhängig von Zielsetzung (als Einstieg ansprechend für SL, d
 	- Ziel: Sicherstellung, dass richtige Informationen zur richtigen Zeit am richtigen Ort verfügbar sind, um betriebliche Abläufe zu unterstützen.
 	- Prozesse: Umfasst die Planung, Beschaffung, Verarbeitung, Allokation und Distribution von Informationsressourcen.
     Informationsmanagement umfasst das Management der Informationswirtschaft, der Informationssysteme, der Informations- und Kommunikationstechniken sowie der damit verbundenen übergreifenden Führungsaufgaben. Das Hauptziel des Informationsmanagements ist es, den bestmöglichen Einsatz der Ressource Information im Hinblick auf die Unternehmensziele zu gewährleisten. Informationsmanagement wird sowohl als Management- als auch als Technikdisziplin betrachtet und ist ein elementarer Bestandteil der Unternehmensführung (Semar 2023)​​.
+
+
 - Ausblick TOM bzw. MOT -> technische Lösungen für Informationsmanagement
-
-
 -> Wissensamanagement und Informationsmanagement gehen Hand in Hand, Aufteilung hier in zwei Artikel
 
 Schwerpunkt dieses Artikels liegt auf den Bereich Wissensmanagement. 
