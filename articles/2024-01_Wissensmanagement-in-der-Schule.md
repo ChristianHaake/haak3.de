@@ -18,11 +18,17 @@ Wissensmanagement abhängig von Zielsetzung (als Einstieg ansprechend für SL, d
 	- Fokus: Auf das Sammeln, Entwickeln, Teilen und Nutzen von Wissen innerhalb einer Organisation.
 	- Ziel: Die Optimierung des organisatorischen Wissens, um Innovationen, Entscheidungsfindung und Geschäftsstrategien zu verbessern.
 	- Prozesse: Beinhaltet das Identifizieren, Erwerben, Entwickeln, Verteilen, Bewahren und Nutzen von Wissen.
+    Wissen ist die Gesamtheit der Kenntnisse, Erfahrungen, Fähigkeiten, Fertigkeiten und Wertvorstellungen von Individuen."Diese Definition hebt die umfassende Natur von Wissen hervor und umfasst sowohl theoretisches als auch praktisches Wissen, persönliche Erfahrungen und individuelle Wertvorstellungen (Semar 2023)
+
+
 - Informationsmanagement:
 	- Fokus: Auf die effektive Sammlung, Verarbeitung, Speicherung und Verteilung von Informationen.
 	- Ziel: Sicherstellung, dass richtige Informationen zur richtigen Zeit am richtigen Ort verfügbar sind, um betriebliche Abläufe zu unterstützen.
 	- Prozesse: Umfasst die Planung, Beschaffung, Verarbeitung, Allokation und Distribution von Informationsressourcen.
+    Informationsmanagement umfasst das Management der Informationswirtschaft, der Informationssysteme, der Informations- und Kommunikationstechniken sowie der damit verbundenen übergreifenden Führungsaufgaben. Das Hauptziel des Informationsmanagements ist es, den bestmöglichen Einsatz der Ressource Information im Hinblick auf die Unternehmensziele zu gewährleisten. Informationsmanagement wird sowohl als Management- als auch als Technikdisziplin betrachtet und ist ein elementarer Bestandteil der Unternehmensführung (Semar 2023)​​.
 - Ausblick TOM bzw. MOT -> technische Lösungen für Informationsmanagement
+
+
 -> Wissensamanagement und Informationsmanagement gehen Hand in Hand, Aufteilung hier in zwei Artikel
 
 Schwerpunkt dieses Artikels liegt auf den Bereich Wissensmanagement. 
@@ -88,3 +94,4 @@ _Verweis auf den folge Artikel_
 
 - Anette Betram Grundskurs Schulmanagement XV
 - Helmut Lungershausen Grundkurs Schulmanagement XXVI
+- Semar, W. (2023). D 7 Informations- und Wissensmanagement. In R. Kuhlen, D. Lewandowski, W. Semar & C. Womser-Hacker (Ed.), Grundlagen der Informationswissenschaft (pp. 567-580). Berlin, Boston: De Gruyter Saur. https://doi.org/10.1515/9783110769043-049
