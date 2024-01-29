@@ -17,24 +17,14 @@ Wissensmanagement, ein unverzichtbares Werkzeug zur Erreichung schulischer Ziels
 
 ## Information vs. Wissen (Abgrenzung und Definition)
 
-- Wissensmanagement:
-	- Fokus: Auf das Sammeln, Entwickeln, Teilen und Nutzen von Wissen innerhalb einer Organisation.
-	- Ziel: Die Optimierung des organisatorischen Wissens, um Innovationen, Entscheidungsfindung und Geschäftsstrategien zu verbessern.
-	- Prozesse: Beinhaltet das Identifizieren, Erwerben, Entwickeln, Verteilen, Bewahren und Nutzen von Wissen.
-    Wissen ist die Gesamtheit der Kenntnisse, Erfahrungen, Fähigkeiten, Fertigkeiten und Wertvorstellungen von Individuen."Diese Definition hebt die umfassende Natur von Wissen hervor und umfasst sowohl theoretisches als auch praktisches Wissen, persönliche Erfahrungen und individuelle Wertvorstellungen (Semar 2023)
+Wissensmanagement konzentriert sich auf das Sammeln, Entwickeln, Teilen und Nutzen von Wissen innerhalb einer Organisation. Es zielt darauf ab, das organisatorische Wissen zu optimieren, um Innovationen, Entscheidungsfindung und Geschäftsstrategien zu verbessern (Quelle). Dieser Prozess beinhaltet das Identifizieren, Erwerben, Entwickeln, Verteilen, Bewahren und Nutzen von Wissen. Wissen wird hierbei als die Gesamtheit von Kenntnissen, Erfahrungen, Fähigkeiten, Fertigkeiten und Wertvorstellungen von Individuen verstanden (Quelle). 
 
+Im Gegensatz dazu liegt der Fokus des Informationsmanagements auf der effektiven Sammlung, Verarbeitung, Speicherung und Verteilung von Informationen (Quelle). Das Ziel ist die Sicherstellung, dass die richtigen Informationen zur richtigen Zeit am richtigen Ort verfügbar sind, um betriebliche Abläufe zu unterstützen. Informationsmanagement befasst sich mit der Planung, Beschaffung, Verarbeitung, Allokation und Distribution von Informationsressourcen (Quelle). 
 
-- Informationsmanagement:
-	- Fokus: Auf die effektive Sammlung, Verarbeitung, Speicherung und Verteilung von Informationen.
-	- Ziel: Sicherstellung, dass richtige Informationen zur richtigen Zeit am richtigen Ort verfügbar sind, um betriebliche Abläufe zu unterstützen.
-	- Prozesse: Umfasst die Planung, Beschaffung, Verarbeitung, Allokation und Distribution von Informationsressourcen.
-    Informationsmanagement umfasst das Management der Informationswirtschaft, der Informationssysteme, der Informations- und Kommunikationstechniken sowie der damit verbundenen übergreifenden Führungsaufgaben. Das Hauptziel des Informationsmanagements ist es, den bestmöglichen Einsatz der Ressource Information im Hinblick auf die Unternehmensziele zu gewährleisten. Informationsmanagement wird sowohl als Management- als auch als Technikdisziplin betrachtet und ist ein elementarer Bestandteil der Unternehmensführung (Semar 2023)​​.
+In diesem Artikel konzentrieren wir uns auf Wissensmanagement, da es eine grundlegende Rolle in der Schulentwicklung spielt. Informationsmanagement wird in einem nachfolgenden Artikel detaillierter behandelt. Es ist jedoch wichtig zu verstehen, dass Wissens- und Informationsmanagement Hand in Hand gehen und beide für eine fortschrittliche, lernende Organisation unerlässlich sind. 
 
-
-- Ausblick TOM bzw. MOT -> technische Lösungen für Informationsmanagement (Lungerhausen 2021,S.19)
--> Wissensamanagement und Informationsmanagement gehen Hand in Hand, Aufteilung hier in zwei Artikel
-
-Schwerpunkt dieses Artikels liegt auf den Bereich Wissensmanagement. 
+/ Der Mensch liegt im Fokus
+/ Hinführung
 
 ## Einführung in die Wissen
 - Wissensarten (+ggf. Orte von Wissen & Halbwertzeit von Wissen)
@@ -44,7 +34,6 @@ Schwerpunkt dieses Artikels liegt auf den Bereich Wissensmanagement.
     * Ziel: Die Optimierung des organisatorischen Wissens, um Innovationen, Entscheidungsfindung und Geschäftsstrategien zu verbessern.
         * Prozesse: Beinhaltet das Identifizieren, Erwerben, Entwickeln, Verteilen, Bewahren und Nutzen von Wissen.
 - Wissensstufen als Abgrenzung von Wissen zu Information
-- Informationsmanagement also eher als IuK-Thema
 
 Bausteine des Wissensmanagements als Ansatz für lebendige Schulentwicklung 
 
