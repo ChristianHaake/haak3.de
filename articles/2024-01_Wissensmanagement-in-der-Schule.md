@@ -27,6 +27,7 @@ Wissensmanagement abhängig von Zielsetzung (als Einstieg ansprechend für SL, d
 
 Schwerpunkt dieses Artikels liegt auf den Bereich Wissensmanagement. 
 
+## Einführung in die Wissen
 - Wissensarten (+ggf. Orte von Wissen & Halbwertzeit von Wissen)
 - Wissensmanagement in Anlehnung an Probst als Lebenszyklus von Wissen (Wissensziele, -identifikation, -erwerb, -entwicklung, -(ver)teilung, -nutzung, -bewahrung, -bewertung) 
     * Wissensmanagement:
@@ -38,9 +39,7 @@ Schwerpunkt dieses Artikels liegt auf den Bereich Wissensmanagement.
 
 Bausteine des Wissensmanagements als Ansatz für lebendige Schulentwicklung 
 
-
-
-**Einführung in das Modell nach Probst**
+## Einführung in das Modell nach Probst und ihre Anbindung an die Schule 
 
 Das Kreislaufmodell des Wissensmanagements nach Gilbert Probst bietet eine umfassende Struktur, um den Umgang mit Wissen in Organisationen zu verstehen und zu optimieren. Dieses Modell ist besonders relevant für Bildungseinrichtungen wie Schulen, da es hilft, den Wissensfluss zwischen Lehrkräften, Schülern und der gesamten Schulgemeinschaft zu verbessern und zu systematisieren. Im Kontext der Schulentwicklung bietet das Modell einen Rahmen, um die Wissensressourcen effizient zu nutzen und die Lernumgebung kontinuierlich weiterzuentwickeln.
 
@@ -72,9 +71,20 @@ Das Kreislaufmodell des Wissensmanagements nach Gilbert Probst bietet eine umfas
 
 Durch die Anwendung des Probst-Modells können Schulen eine dynamische und effektive Lernumgebung schaffen, die sich kontinuierlich weiterentwickelt und an die Bedürfnisse der Schüler anpasst. Die Integration dieses Modells in die Schulentwicklungsstrategie kann dazu beitragen, die Qualität der Bildung zu verbessern und die Schulgemeinschaft zu stärken.
 
+## Kreislaufdarstellung
 
 
-Literaturangaben: 
+## Wissensmanagement als Kernbestandteil einer Lernende Organisation
+
+
+
+## Fazit
+
+ 
+
+_Verweis auf den folge Artikel_
+
+## Literaturangaben: 
 
 - Anette Betram Grundskurs Schulmanagement XV
 - Helmut Lungershausen Grundkurs Schulmanagement XXVI
