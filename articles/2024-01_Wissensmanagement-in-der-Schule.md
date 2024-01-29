@@ -1,27 +1,19 @@
 # Wissensmanagement in der Schule 
 
 Hinweise:
-Überschrift: 80 Zeichen
-Unterüberschrift: 90 Zeichen
-Einleitung: 350 Zeichen
-Zwischenüberschriften: 60 Zeichen ohne Nummerierung
-Fazit: 400 Zeichen
+- Überschrift: 80 Zeichen
+- Unterüberschrift: 90 Zeichen
+- Einleitung: 350 Zeichen
+- Zwischenüberschriften: 60 Zeichen ohne Nummerierung
+- Fazit: 400 Zeichen
 
 **Gliederung**
 
 # Artikel
 
 ## Einstieg: 
-Wissensmanagement abhängig von Zielsetzung (als Einstieg ansprechend für SL, da Wissensmanagement so zum Werkzeug wird, um Ziele zu erreichen)
 
-Definition von Wissensmanagement und seine Bedeutung im Bildungsbereich.
-Die Rolle der digitalen Technologien und deren Einfluss auf das Wissensmanagement.
-Die Bedeutung einer kollaborativen Kultur für effektives Wissensmanagement.
-- Lernende Organisation sein
-- mögliche Ziele
-- KuK aktivieren
-- Partizipation
-- Wissen ökonomisch weitergeben
+Wissensmanagement, ein unverzichtbares Werkzeug zur Erreichung schulischer Zielsetzungen, spielt eine zentrale Rolle in der modernen Bildungslandschaft. Während es in vielen Unternehmen bereits ein integraler Bestandteil der Unternehmensentwicklung ist, bleibt sein Potenzial in Schulen oft ungenutzt. Dabei ist gerade das Wissen der Lehrkräfte eine entscheidende Ressource für die Schulentwicklung. Der Mensch steht im Mittelpunkt des Wissensmanagements, was es zu einem Schlüsselelement einer lernenden und sich stetig weiterentwickelnden Schule macht. Dieser Artikel untersucht, wie Wissensmanagement in Schulen effektiv implementiert werden kann, unter Berücksichtigung der Rolle digitaler Technologien und der Bedeutung einer kollaborativen Kultur. Das Ziel ist es, eine Lernorganisation zu schaffen, die alle Beteiligten – Lehrkräfte, Schulleitungen und die Schülerschaft – aktiv einbezieht und zur Partizipation ermutigt.
 
 ## Information vs. Wissen (Abgrenzung und Definition)
 
@@ -98,7 +90,7 @@ Durch die Anwendung des Probst-Modells können Schulen eine dynamische und effek
 
 ## Fazit
 - Die Herausforderungen und Chancen von Wissensmanagement in Schulen.
- 
+ - Wissen ökonomisch weitergeben
 
 _Verweis auf den folge Artikel_
 
