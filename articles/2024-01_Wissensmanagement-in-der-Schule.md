@@ -1,11 +1,22 @@
 # Wissensmanagement in der Schule 
 
+Hinweise:
+Überschrift: 80 Zeichen
+Unterüberschrift: 90 Zeichen
+Einleitung: 350 Zeichen
+Zwischenüberschriften: 60 Zeichen ohne Nummerierung
+Fazit: 400 Zeichen
+
 **Gliederung**
 
 # Artikel
 
 ## Einstieg: 
 Wissensmanagement abhängig von Zielsetzung (als Einstieg ansprechend für SL, da Wissensmanagement so zum Werkzeug wird, um Ziele zu erreichen)
+
+Definition von Wissensmanagement und seine Bedeutung im Bildungsbereich.
+Die Rolle der digitalen Technologien und deren Einfluss auf das Wissensmanagement.
+Die Bedeutung einer kollaborativen Kultur für effektives Wissensmanagement.
 - Lernende Organisation sein
 - mögliche Ziele
 - KuK aktivieren
@@ -28,7 +39,7 @@ Wissensmanagement abhängig von Zielsetzung (als Einstieg ansprechend für SL, d
     Informationsmanagement umfasst das Management der Informationswirtschaft, der Informationssysteme, der Informations- und Kommunikationstechniken sowie der damit verbundenen übergreifenden Führungsaufgaben. Das Hauptziel des Informationsmanagements ist es, den bestmöglichen Einsatz der Ressource Information im Hinblick auf die Unternehmensziele zu gewährleisten. Informationsmanagement wird sowohl als Management- als auch als Technikdisziplin betrachtet und ist ein elementarer Bestandteil der Unternehmensführung (Semar 2023)​​.
 
 
-- Ausblick TOM bzw. MOT -> technische Lösungen für Informationsmanagement
+- Ausblick TOM bzw. MOT -> technische Lösungen für Informationsmanagement (Lungerhausen 2021,S.19)
 -> Wissensamanagement und Informationsmanagement gehen Hand in Hand, Aufteilung hier in zwei Artikel
 
 Schwerpunkt dieses Artikels liegt auf den Bereich Wissensmanagement. 
@@ -81,11 +92,12 @@ Durch die Anwendung des Probst-Modells können Schulen eine dynamische und effek
 
 
 ## Wissensmanagement als Kernbestandteil einer Lernende Organisation
-
+- Wissensmanagement kann nur Funktionieren, wenn Vertrauen herrscht. Keine negativen Auswirkungen, sondern nur positive Rückmeldungen 
+- Ein kurzer Überblick über Best Practices und innovative Ansätze in Schulen.
 
 
 ## Fazit
-
+- Die Herausforderungen und Chancen von Wissensmanagement in Schulen.
  
 
 _Verweis auf den folge Artikel_
