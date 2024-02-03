@@ -41,6 +41,11 @@ Bausteine des Wissensmanagements als Ansatz für lebendige Schulentwicklung
 
 ## Einführung in das Modell nach Probst und ihre Anbindung an die Schule 
 
+
+
+
+## Kreislaufdarstellung
+
 Wissensmanagement sollte in Schulen entscheidliche Rolle spielen, indem es das kollektive Wissen von allen Mitgliedern der Schulgemeinschaft nutzt, um Organisations- und Unterrichtsentwicklungsprozesse zu verbessern, Innovationen zu fördern und die organisatorische Effizienz zu steigern. Die Anwendung des Wissensmanagements nach dem Modell von Gilbert Probst in einem schulischen Kontext erfordert eine Anpassung an die spezifischen Bedürfnisse und Strukturen des Bildungsbereichs. Im Folgenden werden die Schritte des Wissensmanagements auf den Schulkontext übertragen und mit Beispielen versehen.
 
 1. Wissensziele definieren
@@ -68,10 +73,6 @@ Wichtiges Wissen und erfolgreiche Praktiken müssen systematisch dokumentiert un
 Die Bewertung des Wissensmanagements erfolgt durch die regelmäßige Überprüfung der Zielerreichung, z.B. durch Feedback von Schülern, Eltern und Lehrkräften, durch Leistungsanalysen oder durch externe Evaluationen. Diese Rückmeldungen dienen als Grundlage für die kontinuierliche Weiterentwicklung der schulischen Wissensmanagementstrategie.
 
 Die Implementierung eines systematischen Wissensmanagements in Schulen unterstützt nicht nur die Verwaltungsarbeit, sondern fördert auch die Schulentwicklung als Ganzes. Durch den gezielten Umgang mit Wissen können Schulen auf Herausforderungen reagieren, Innovationen vorantreiben und eine Kultur des lebenslangen Lernens etablieren.
-
-
-## Kreislaufdarstellung
-
 
 ## Wissensmanagement als Kernbestandteil einer Lernende Organisation
 - Wissensmanagement kann nur Funktionieren, wenn Vertrauen herrscht. Keine negativen Auswirkungen, sondern nur positive Rückmeldungen 
