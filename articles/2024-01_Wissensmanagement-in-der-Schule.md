@@ -36,12 +36,39 @@ In diesem Artikel konzentrieren wir uns auf Wissensmanagement, da es eine grundl
 - Wissensstufen als Abgrenzung von Wissen zu Information
 
 Bausteine des Wissensmanagements als Ansatz für lebendige Schulentwicklung 
+- Strategische Wissensbausteine
+- Operative Wissensbausteine
 
 ## Einführung in das Modell nach Probst und ihre Anbindung an die Schule 
 
+Wissensmanagement sollte in Schulen entscheidliche Rolle spielen, indem es das kollektive Wissen von allen Mitgliedern der Schulgemeinschaft nutzt, um Organisations- und Unterrichtsentwicklungsprozesse zu verbessern, Innovationen zu fördern und die organisatorische Effizienz zu steigern. Die Anwendung des Wissensmanagements nach dem Modell von Gilbert Probst in einem schulischen Kontext erfordert eine Anpassung an die spezifischen Bedürfnisse und Strukturen des Bildungsbereichs. Im Folgenden werden die Schritte des Wissensmanagements auf den Schulkontext übertragen und mit Beispielen versehen.
 
+1. Wissensziele definieren
+In Schulen beginnt die Definition von Wissenszielen mit der Klärung der Bildungsziele und der pädagogischen Ausrichtung. Lehrkräfte, Schulleitung und ggf. weitere Stakeholder wie Eltern oder Träger setzen sich zusammen, um festzulegen, welches Wissen und welche Kompetenzen vermittelt werden sollen. Es wird auch bestimmt, welches Wissen für die Organisationsentwicklung der Schule notwendig ist, z.B. im Hinblick auf digitale Bildung, Inklusion oder Methodik und Didaktik.
 
-Durch die Anwendung des Probst-Modells können Schulen eine dynamische und effektive Lernumgebung schaffen, die sich kontinuierlich weiterentwickelt und an die Bedürfnisse der Schüler anpasst. Die Integration dieses Modells in die Schulentwicklungsstrategie kann dazu beitragen, die Qualität der Bildung zu verbessern und die Schulgemeinschaft zu stärken.
+2. Wissensidentifikation
+In diesem Schritt wird erfasst, welches Wissen bereits in der Schule vorhanden ist. Dies umfasst Fachwissen, pädagogische Konzepte, Erfahrungen aus der Unterrichtspraxis sowie Verwaltungs- und Organisationswissen. Eine Wissenslandkarte kann helfen, Experten für bestimmte Themen zu identifizieren und zugleich Lücken aufzuzeigen, wo Wissen aufgebaut oder aktualisiert werden muss.
+
+3. Wissenserwerb
+Schulen erwerben neues Wissen durch Fort- und Weiterbildungen der Lehrkräfte, durch die Einstellung neuen Personals mit spezifischer Expertise oder durch Kooperationen mit externen Partnern wie Universitäten, Bildungsinitiativen oder anderen Schulen. Auch der Austausch mit Eltern und die Einbindung von Experten aus der Wirtschaft oder dem sozialen Sektor können wertvolles Wissen in die Schule bringen.
+
+4. Wissensentwicklung
+Die interne Entwicklung von Wissen findet in Schulen vor allem durch kollegiale Hospitationen, professionelle Lerngemeinschaften oder Projektarbeit statt. Lehrkräfte und Schulleitung experimentieren mit neuen Unterrichtsmethoden, entwickeln gemeinsam Curricula weiter und reflektieren ihre Erfahrungen systematisch, um das pädagogische Handeln kontinuierlich zu verbessern.
+
+5. Wissensverteilung
+Das in der Schule vorhandene und neu entwickelte Wissen muss effektiv geteilt werden. Digitale Plattformen wie Schulwikis, gemeinsame Datenbanken oder Lernmanagementsysteme bieten hierfür technische Unterstützung. Regelmäßige Konferenzen, Workshops und Fortbildungen ermöglichen den persönlichen Austausch und die Diskussion von Best Practices.
+
+6. Wissensnutzung
+Um sicherzustellen, dass das verfügbare Wissen auch tatsächlich Eingang in die Praxis findet, müssen Strukturen geschaffen werden, die die Anwendung des Wissens im Unterricht und in der Schulorganisation fördern. Dies kann durch die systematische Planung von Unterrichtseinheiten unter Einbeziehung aktueller pädagogischer Erkenntnisse, durch die Nutzung digitaler Werkzeuge oder durch die Implementierung innovativer Lehr- und Lernformate geschehen.
+
+7. Wissensbewahrung
+Wichtiges Wissen und erfolgreiche Praktiken müssen systematisch dokumentiert und für die Zukunft gesichert werden. Dazu gehören Unterrichtsmaterialien, Dokumentationen von Projekten, Erfahrungsberichte sowie Verfahrensanweisungen für organisatorische Abläufe. So kann sichergestellt werden, dass wertvolles Wissen auch bei Personalwechsel innerhalb der Schule erhalten bleibt.
+
+8. Wissensbewertung
+Die Bewertung des Wissensmanagements erfolgt durch die regelmäßige Überprüfung der Zielerreichung, z.B. durch Feedback von Schülern, Eltern und Lehrkräften, durch Leistungsanalysen oder durch externe Evaluationen. Diese Rückmeldungen dienen als Grundlage für die kontinuierliche Weiterentwicklung der schulischen Wissensmanagementstrategie.
+
+Die Implementierung eines systematischen Wissensmanagements in Schulen unterstützt nicht nur die Verwaltungsarbeit, sondern fördert auch die Schulentwicklung als Ganzes. Durch den gezielten Umgang mit Wissen können Schulen auf Herausforderungen reagieren, Innovationen vorantreiben und eine Kultur des lebenslangen Lernens etablieren.
+
 
 ## Kreislaufdarstellung
 
