@@ -28,21 +28,12 @@ In diesem Artikel konzentrieren wir uns auf Wissensmanagement, da es eine grundl
 
 ## Einführung in die Wissen
 
-Wissen, als vierter Produktionsfaktor in der Wissensgesellschaft, nimmt eine zentrale Rolle ein. Es unterscheidet sich von anderen Ressourcen durch seine Eigenschaft, sich durch Gebrauch nicht zu verringern und oftmals in einem Überangebot vorhanden zu sein. Wissen ist dynamisch; es muss stetig aktualisiert und kann trotz seiner potenziellen Unerschöpflichkeit verloren gehen.
+Wissen stellt in der Wissensgesellschaft einen zentralen, vierten Produktionsfaktor dar. Seine Besonderheit liegt darin, dass es sich durch Nutzung nicht abnutzt, oft im Überfluss vorhanden ist, jedoch ständig aktualisiert werden muss und verloren gehen kann. Die Vielfalt von Wissensarten - von Faktenwissen bis hin zu metakognitivem und Folgenwissen - verlangt nach einer strukturierten Berücksichtigung in Schulen. Ohne ein systematisches Wissensmanagement kann wertvolles individuelles oder strukturelles Wissen durch das Ausscheiden von Personen verloren gehen.
 
-Die Diversität von Wissensarten - von Faktenwissen über konzeptuelles und prozedurales Wissen bis hin zu metakognitivem, Interaktions- und Folgenwissen - bildet das Spektrum ab, das in Schulen berücksichtigt werden muss. Diese Vielfalt zeigt sich auch in der Unterscheidung zwischen externem und internem sowie organisatorischem und individuellem Wissen, was die Wichtigkeit eines strukturierten Wissensmanagements unterstreicht. 
-
-- formuliere den Punkt aus: durch ein fehlendes systematisches Wissensmangement kann einzigartiges oder auch strukturelles wissen von einen Personen durch ein ausscheiden verloren gehen
-
-Ein zentrales Modell zur Veranschaulichung der Transformation von Daten zu Kompetenzen ist die Wissenstreppe. Sie illustriert, wie aus rohen Daten durch Kontextualisierung Informationen werden, die durch Verknüpfung und Anwendung zu Wissen gedeihen und schließlich in handlungsorientierte Kompetenzen münden. 
-
+Die Wissenstreppe verdeutlicht, wie aus Daten durch Kontextualisierung Informationen und durch deren Anwendung Wissen entsteht, das in Kompetenzen übergeht.
 (ABB 3 Wissenstreppe aus Lungershausen S. 18 )
 
-Die Implementierung von Wissensmanagement in Schulen, gestützt auf das Zusammenspiel von Mensch, Organisation und Technik, fördert die Entwicklung von Kompetenzen (vgl. MOT Modell Lungershausen S.18f). 
-Es ermöglicht den schulischen Beteiligen, effektiver auf das breite Spektrum von Wissensarten zuzugreifen und dieses anzuwenden. Ein bewusster Umgang mit Wissen und dessen Management kann somit die Qualität der Schulorganisation und lenztendlich der Unterrichtsqualität nachhaltig steigern und die Schule als lernende Organisation stärken.
-
-
-
+Die Einführung von Wissensmanagement in Schulen, basierend auf dem Zusammenspiel von Mensch, Organisation und Technik (vgl. MOT-Modell), unterstützt die Entwicklung von Kompetenzen. Dieser Ansatz erleichtert den Zugang zu und die Anwendung von unterschiedlichen Wissensarten, steigert die Qualität der Schulorganisation und Unterrichtsqualität und fördert die Entwicklung der Schule zu einer lernenden Organisation.
 
 
 - Wissensmanagement in Anlehnung an Probst als Lebenszyklus von Wissen (Wissensziele, -identifikation, -erwerb, -entwicklung, -(ver)teilung, -nutzung, -bewahrung, -bewertung) 
