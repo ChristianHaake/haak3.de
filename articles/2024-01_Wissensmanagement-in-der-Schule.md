@@ -28,7 +28,7 @@ In diesem Artikel konzentrieren wir uns auf Wissensmanagement, da es eine grundl
 
 ## Einführung in die Wissen
 
-Wissen stellt in der Wissensgesellschaft einen zentralen, vierten Produktionsfaktor dar. Seine Besonderheit liegt darin, dass es sich durch Nutzung nicht abnutzt, oft im Überfluss vorhanden ist, jedoch ständig aktualisiert werden muss und verloren gehen kann. Die Vielfalt von Wissensarten - von Faktenwissen bis hin zu metakognitivem und Folgenwissen - verlangt nach einer strukturierten Berücksichtigung in Schulen. Ohne ein systematisches Wissensmanagement kann wertvolles individuelles oder strukturelles Wissen durch das Ausscheiden von Personen verloren gehen.
+Wissen, definiert als die Gesamtheit der Kenntnisse, Erfahrungen, Fähigkeiten, Fertigkeiten und Wertvorstellungen von Individuen (Semar, S. 567), ist der Kern einer jeden Bildungseinrichtung und spielt eine zentrale Rolle in der Wissensgesellschaft. Seine Besonderheit liegt darin, dass es sich durch Nutzung nicht abnutzt, oft im Überfluss vorhanden ist, jedoch ständig aktualisiert werden muss und verloren gehen kann. Die Vielfalt von Wissensarten - von Faktenwissen bis hin zu metakognitivem und Folgenwissen - verlangt nach einer strukturierten Berücksichtigung in Schulen. Ohne ein systematisches Wissensmanagement kann wertvolles individuelles oder strukturelles Wissen durch das Ausscheiden von Personen verloren gehen.
 
 Die Wissenstreppe verdeutlicht, wie aus Daten durch Kontextualisierung Informationen und durch deren Anwendung Wissen entsteht, das in Kompetenzen übergeht.
 (ABB 3 Wissenstreppe aus Lungershausen S. 18 )
