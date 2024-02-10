@@ -35,22 +35,9 @@ Die Wissenstreppe verdeutlicht, wie aus Daten durch Kontextualisierung Informati
 
 Die Einführung von Wissensmanagement in Schulen, basierend auf dem Zusammenspiel von Mensch, Organisation und Technik (vgl. MOT-Modell), unterstützt die Entwicklung von Kompetenzen. Dieser Ansatz erleichtert den Zugang zu und die Anwendung von unterschiedlichen Wissensarten, steigert die Qualität der Schulorganisation und Unterrichtsqualität und fördert die Entwicklung der Schule zu einer lernenden Organisation.
 
-
-- Wissensmanagement in Anlehnung an Probst als Lebenszyklus von Wissen (Wissensziele, -identifikation, -erwerb, -entwicklung, -(ver)teilung, -nutzung, -bewahrung, -bewertung) 
-    * Wissensmanagement:
-        * Fokus: Auf das Sammeln, Entwickeln, Teilen und Nutzen von Wissen innerhalb einer Organisation.
-    * Ziel: Die Optimierung des organisatorischen Wissens, um Innovationen, Entscheidungsfindung und Geschäftsstrategien zu verbessern.
-        * Prozesse: Beinhaltet das Identifizieren, Erwerben, Entwickeln, Verteilen, Bewahren und Nutzen von Wissen.
-- Wissensstufen als Abgrenzung von Wissen zu Information
-
-Bausteine des Wissensmanagements als Ansatz für lebendige Schulentwicklung 
-- Strategische Wissensbausteine
-- Operative Wissensbausteine
-
 ## Einführung in das Modell nach Probst und ihre Anbindung an die Schule 
 
-
-
+Das Modell nach Probst gliedert sich in strategische und operative Wissensbausteine und bietet einen umfassenden Rahmen für die Schulentwicklung. Strategische Bausteine zielen auf langfristige Wissensziele, während operative Bausteine die tägliche Umsetzung im Schulalltag unterstützen. Diese Struktur fördert eine systematische Herangehensweise an das Wissensmanagement in Schulen, steigert Effizienz und unterstützt die Entwicklung zu einer lernenden Organisation.
 
 ## Kreislaufdarstellung
 
@@ -83,6 +70,10 @@ Die Bewertung des Wissensmanagements erfolgt durch die regelmäßige Überprüfu
 Die Implementierung eines systematischen Wissensmanagements in Schulen unterstützt nicht nur die Verwaltungsarbeit, sondern fördert auch die Schulentwicklung als Ganzes. Durch den gezielten Umgang mit Wissen können Schulen auf Herausforderungen reagieren, Innovationen vorantreiben und eine Kultur des lebenslangen Lernens etablieren.
 
 ## Wissensmanagement als Kernbestandteil einer Lernende Organisation
+
+Wissensmanagement ist ein Schlüssel für Schulen, sich zu lernenden Organisationen zu entwickeln. Zentral ist dabei das Vertrauen innerhalb der Schule: Ein Umfeld, in dem Vertrauen vorherrscht, fördert einen offenen Wissensaustausch und die Bereitschaft, aus Fehlern zu lernen. Positive Rückmeldungen und die Abwesenheit von negativen Konsequenzen bei Fehlern sind essentiell, um Innovation und kontinuierliche Verbesserung zu ermöglichen.
+
+
 - Wissensmanagement kann nur Funktionieren, wenn Vertrauen herrscht. Keine negativen Auswirkungen, sondern nur positive Rückmeldungen 
 - Ein kurzer Überblick über Best Practices und innovative Ansätze in Schulen.
 
