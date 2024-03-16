@@ -2,6 +2,7 @@
 
 ## 2024
 
+- [Aufgabenkultur](/articles/2024-03_Aufgabenkultur.md)
 - [Wissensmanagement in der Schule](/articles/2024-01_Wissensmanagement-in-der-Schule.md)
 - [Listeningaufgaben mit KI](/articles/2024-01_Listeningaufgaben-mi-Ki/2024-01_Listeningaufgaben-mi-Ki.md) - work in Progress
 - [Infograph: Agiles Manifest der Schulentwicklung](/articles/2024-01-04_Scrum-in-der-Schulentwicklung/2024-01-14_Scrum-Manifest-Inforgraph.md) (01/2024)
