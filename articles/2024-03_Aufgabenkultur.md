@@ -50,6 +50,15 @@ Bei der Gestaltung von Lernwegen ist die Balance zwischen einem einheitlichen Vo
 10. **Lehrerfeedback zu Multimodales Feedback (Peer-Feedback, KI-Feedback, Lehrerfeedback)**:
 Das Feedback im Lernprozess kann vielfältig gestaltet werden, von direktem Lehrerfeedback bis hin zu Peer- und KI-gestütztem Feedback. Diese multimodale Herangehensweise bietet unterschiedliche Perspektiven und unterstützt so eine Vielzahl von Lernstilen und -bedürfnissen. Die Kombination verschiedener Feedbackformen fördert die Entwicklung einer umfassenden Feedbackkultur, die zur Selbstreflexion anregt und kollegiales Lernen stärkt.
 
+Anwendungsbeispiel 1: Klassenarbeitsvorbereitung - Erörterung
+
+Für die Klassenarbeitsvorbereitung in Deutsch, wo eine Erörterung thematisiert wird, positionieren wir die Schieberegler wie folgt: Die feste Dauer bleibt ganz links, um einen klar definierten Zeitrahmen sicherzustellen. Der Unterrichtsort ist traditionell der Klassenraum, ebenfalls ganz links positioniert. Ein standardisierter Text wird bevorzugt, um die Vergleichbarkeit der Leistungen zu gewährleisten, daher der Regler auf etwa drei Viertel links. Die Aufgabe wird in Einzelarbeit bearbeitet, wobei die Überwachung und die lehrerzentrierte Struktur stärker ausgeprägt sind, also ebenfalls auf drei Viertel links. Es kommen ausschließlich analoge Methoden zum Einsatz, was den Regler ganz nach links verschiebt. Das Vorgehen ist einheitlich, um Klarheit und Gleichheit zu gewährleisten, also ganz links. Das Feedback ist gemischt, mit Peer-Feedback und einzelnen Lehrerfeedbacks, was den Regler in die Mitte bringt, um eine vielfältige Rückmeldung zu ermöglichen.
+
+Anwendungsbeispiel 2: Rollenspiel entwicklung im Englischunterricht
+
+Für die Entwicklung eines Rollenspiels im Englischunterricht könnten die Schieberegler folgendermaßen gesetzt werden: Ein flexibler Zeitrahmen erlaubt es, den Schülern genügend Raum für Kreativität und Ausarbeitung zu geben. Diverse Lernorte, einschließlich des Klassenraums und eventuell außerschulischer Orte, bereichern die Erfahrung. Digitale und diverse (KI-gestützte) Hilfen unterstützen bei der Recherche und Ausarbeitung. Vielfältige Produktformen, wie Videoaufnahmen des Rollenspiels, fördern kreative Ausdrucksweisen. Kooperation und Kollaboration sind essenziell, da die Schüler gemeinsam an ihren Rollen arbeiten. Ein vertrauensbasierter Ansatz gibt den Schülern Freiheiten in der Entwicklung. Die Balance zwischen lehrerzentrierter Anleitung und autonomem Lernen ermöglicht eine strukturierte Vorbereitung und persönliche Entfaltung. Ein gemischtes Feedback, das Lehrerfeedback, Peer-Feedback und eventuell KI-Feedback kombiniert, unterstützt den Lernprozess umfassend.
+
+
 
 - Verschiedenen Szenarien als Beispiel 
 - Abschluss
